@@ -26,6 +26,8 @@ zhihu_username: shannon403
 # facebook_username:  your_name
 # dribbble_username:  your_name
 
+google_analytics: UA-127390411-1
+
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-mint
