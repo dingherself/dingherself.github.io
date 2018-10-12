@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<p style="text-align: right;"><a href="https://www.zhiyuanli.me/about/">(English)</a>
+This is a Jekyll theme. You can find more infomation at [Jekyll theme](https://jekyllrb.com/docs/themes/).
+
+You also can find the source code for this theme at [GitHub](https://github.com/aidewoode/jekyll-theme-mint).
