@@ -28,7 +28,8 @@ zhihu_username: shannon403
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-mint
+# theme: jekyll-theme-mint
+remote_theme: ding27/jekyll-theme-mint #for GitHub
 plugins:
   - jekyll-feed
 

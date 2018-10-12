@@ -30,7 +30,10 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Theme
-gem "jekyll-theme-mint"
+# gem "jekyll-theme-mint"
+
+# Theme for GitHub
+gem 'github-pages', group: :jekyll_plugins
 
 # Protect Email Address
 gem 'jekyll-email-protect'
