@@ -2,10 +2,11 @@
   <nav class='header__nav'>
     <a class='header__nav__item header__nav__item--title' href='{{ '/' | relative_url }}'>{{ site.title | escape }}</a>
     {% for page in site.pages %}
+      {% unless page.exclude %}
       {% if page.title %}
         <a class='header__nav__item' href='{{ page.url | relative_url }}'>{{ page.title | escape }}</a>
-        <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto+Slab:300|Roboto:500" rel="stylesheet">
       {% endif %}
+      {% endunless %}
     {% endfor %}
   </nav>
 </header>

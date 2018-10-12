@@ -10,13 +10,16 @@ $myred: #d6000d;
 
 // $red: $myred;
 // $red: #cb1b45;
-$red: darken($myred, 2);
+$red: darken($myred, 5);
 $red-dark: darken($red, 10);
 
-$black: #1c1c1c;
-$black-light: lighten($black, 10);
-$black-lighter: lighten($black, 20);
-$black-lightest: lighten($black, 30);
+$black: #1a1a1a;
+$black-light: lighten($black, 0);
+$black-lighter: lighten($black, 2);
+$black-lightest: lighten($black, 10);
+//$black-light: lighten($black, 10);
+//$black-lighter: lighten($black, 20);
+//$black-lightest: lighten($black, 30);
 
 $mygrey: #9a9a90;
 
