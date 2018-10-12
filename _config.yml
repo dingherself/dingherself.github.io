@@ -22,6 +22,7 @@ url: "httsp://www.dingphil.com" # the base hostname & protocol for your site, e.
 
 # Scoial links
 github_username:  ding27
+zhihu_username: shannon403
 # twitter_username:   your_name
 # facebook_username:  your_name
 # dribbble_username:  your_name
@@ -32,9 +33,15 @@ theme: jekyll-theme-mint
 plugins:
   - jekyll-feed
 
-# Gems
 gems:
-- jekyll-email-protect
+  - jekyll-email-protect
+
+gems: [jekyll-paginate]
+# maximum number of Posts you’d like to be displayed per-page in the generated site
+paginate: 25
+# You may also specify the destination of the pagination pages:
+paginate_path: "/page:num/"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

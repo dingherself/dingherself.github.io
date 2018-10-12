@@ -30,6 +30,9 @@ GEM
     jekyll-email-protect (1.1.0)
     jekyll-feed (0.10.0)
       jekyll (~> 3.3)
+    jekyll-paginate (1.1.0)
+    jekyll-pants (0.2.1)
+      rubypants
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.5.0)
@@ -59,6 +62,7 @@ GEM
       ffi (>= 0.5.0, < 2)
     rouge (3.3.0)
     ruby_dep (1.5.0)
+    rubypants (0.7.0)
     safe_yaml (1.0.4)
     sass (3.6.0)
       sass-listen (~> 4.0.0)
@@ -79,6 +83,8 @@ DEPENDENCIES
   jekyll (~> 3.8.4)
   jekyll-email-protect
   jekyll-feed (~> 0.6)
+  jekyll-paginate
+  jekyll-pants
   jekyll-theme-mint
   minima (~> 2.0)
   tzinfo-data
