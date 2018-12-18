@@ -7,6 +7,6 @@ include: true
 
 # CV
 
-Please view below or [download]({{ site.baseurl }}{% link /files/cv.pdf %}).
+Please view below or [download]({{ site.baseurl }}{% link /files/zhiyuan_li_cv.pdf %}).
 
-<object data="{{ site.baseurl }}{% link /files/cv.pdf %}" width="700" height="700" type='application/pdf'/>
+<object data="{{ site.baseurl }}{% link /files/zhiyuan_li_cv.pdf %}" width="700" height="700" type='application/pdf'/>
