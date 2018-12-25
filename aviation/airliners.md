@@ -5,7 +5,7 @@ permalink: /aviation/airliners/
 include: false
 ---
 
-![(<a href="{{ site.baseurl }}{% link assets/images/JA614A.jpg %})
+!{{ site.baseurl }}{% link assets/images/JA614A.jpg %})
 *ANA’s Boeing 767-300 ER (JA614A, NH948) with Star Alliance livery*<br />
 *(January 5, 2017 @ Chengdu Shuangliu)*
 
