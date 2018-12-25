@@ -5,46 +5,46 @@ permalink: /aviation/airliners/
 include: false
 ---
 
-![)]({{ site.baseurl }}{% link assets/images/JA614A.jpg %})
+![(<a href="{{ site.baseurl }}{% link assets/images/JA614A.jpg %})
 *ANA’s Boeing 767-300 ER (JA614A, NH948) with Star Alliance livery*<br />
 *(January 5, 2017 @ Chengdu Shuangliu)*
 
 # Airliners
 
-[Map)](https://my.flightradar24.com/shannon403)
+[Map](https://my.flightradar24.com/shannon403)
 
 <ol>
   <li>Boeing 787-8
     <ol>
-      <li>UA808 [(N29907)](https://www.jetphotos.com/registration/N29907), Beijing Capital (PEK) to Washington Dulles (IAD), July 2018
+      <li>UA808 (<a href="https://www.jetphotos.com/registration/N29907">N29907</a>), Beijing Capital (PEK) to Washington Dulles (IAD), July 2018
       </li>
-      <li>NH955 [(JA878A)](https://www.jetphotos.com/registration/JA878A), Tokyo Narita (NRT) to Beijing Capital (PEK), May 2018
+      <li>NH955 (<a href="https://www.jetphotos.com/registration/JA878A">JA878A</a>), Tokyo Narita (NRT) to Beijing Capital (PEK), May 2018
       </li>
-      <li>UA8 [(N27908)](https://www.jetphotos.com/registration/N27908), Chengdu Shuangliu (CTU) to San Francisco (SFO), August 2017
+      <li>UA8 (<a href="https://www.jetphotos.com/registration/N27908">N27908</a>), Chengdu Shuangliu (CTU) to San Francisco (SFO), August 2017
       </li>
-      <li>HU497 [(B2730)](https://www.jetphotos.com/registration/B2730), Beijing Capital (PEK) to Chicago O'Hare (ORD), March 2017
+      <li>HU497 (<a href="https://www.jetphotos.com/registration/B2730">B2730</a>), Beijing Capital (PEK) to Chicago O'Hare (ORD), March 2017
       </li>
-      <li>HU498 [(B2738)](https://www.jetphotos.com/registration/B2738), Chicago O'Hare (ORD) to Beijing Capital (PEK), March 2017
+      <li>HU498 (<a href="https://www.jetphotos.com/registration/B2738">B2738</a>), Chicago O'Hare (ORD) to Beijing Capital (PEK), March 2017
       </li>
-      <li>UA8 [(N27901)](https://www.jetphotos.com/registration/N27901), Chengdu Shuangliu (CTU) to San Francisco (SFO), August 2016
+      <li>UA8 (<a href="https://www.jetphotos.com/registration/N27901">N27901</a>), Chengdu Shuangliu (CTU) to San Francisco (SFO), August 2016
       </li>
     </ol>
   </li>
   <li>Boeing 777-300 ER
     <ol>
-      <li>UA79 [(N2243U)](https://www.jetphotos.com/registration/N2243U), New York Newark (EWR) to Tokyo Narita (NRT), May 2018
+      <li>UA79 (<a href="https://www.jetphotos.com/registration/N2243U">N2243U</a>), New York Newark (EWR) to Tokyo Narita (NRT), May 2018
       </li>
-      <li>CA995 [(B2043)](https://www.jetphotos.com/registration/B2043), Beijing Capital (PEK) to Houston (IAH), January 2018
+      <li>CA995 (<a href="https://www.jetphotos.com/registration/B2043">B2043</a>), Beijing Capital (PEK) to Houston (IAH), January 2018
       </li>
-      <li>CA996 [(B2033)](https://www.jetphotos.com/registration/B2033), Houston (IAH) to Beijing Capital (PEK), December 2017
+      <li>CA996 (<a href="https://www.jetphotos.com/registration/B2033">B2033</a>), Houston (IAH) to Beijing Capital (PEK), December 2017
       </li>
-      <li>NH2179 [(JA781A)](https://www.jetphotos.com/registration/JA781A), Tokyo Narita (NRT) to Osaka Itami (ITM), April 2017
+      <li>NH2179 (<a href="https://www.jetphotos.com/registration/JA781A">JA781A</a>), Tokyo Narita (NRT) to Osaka Itami (ITM), April 2017
       </li>
-      <li>NH11 [(JA736A)](https://www.jetphotos.com/registration/JA736A), Chicago O'Hare (ORD) to Tokyo Narita (NRT), April 2017
+      <li>NH11 (<a href="https://www.jetphotos.com/registration/JA736A">JA736A</a>), Chicago O'Hare (ORD) to Tokyo Narita (NRT), April 2017
       </li>
-      <li>NH12 [(JA733A)](https://www.jetphotos.com/registration/JA733A), Tokyo Narita (NRT) to Chicago O'Hare (ORD), January 2017
+      <li>NH12 (<a href="https://www.jetphotos.com/registration/JA733A">JA733A</a>), Tokyo Narita (NRT) to Chicago O'Hare (ORD), January 2017
       </li>
-      <li>NH1 [(JA733A)](https://www.jetphotos.com/registration/JA733A), Washington Dulles (IAD) to Tokyo Narita (NRT), December 2016
+      <li>NH1 (<a href="https://www.jetphotos.com/registration/JA733A">JA733A</a>), Washington Dulles (IAD) to Tokyo Narita (NRT), December 2016
       </li>
     </ol>
   </li>
@@ -52,43 +52,43 @@ include: false
     <ol>
       <li>UA88, Beijing Capital (PEK) to Chicago O'Hare (ORD), January 2019
       </li>
-      <li>UA881 [(N784UA)](https://www.jetphotos.com/registration/N784UA), Chicago O'Hare (ORD) to Tokyo Narita (NRT), December 2018
+      <li>UA881 (<a href="https://www.jetphotos.com/registration/N784UA">N784UA</a>), Chicago O'Hare (ORD) to Tokyo Narita (NRT), December 2018
       </li>
-      <li>UA881 [(N782UA)](https://www.jetphotos.com/registration/N782UA), Chicago O'Hare (ORD) to Tokyo Narita (NRT), May 2016
+      <li>UA881 (<a href="https://www.jetphotos.com/registration/N782UA">N782UA</a>), Chicago O'Hare (ORD) to Tokyo Narita (NRT), May 2016
       </li>
     </ol>
   </li>
   <li>Boeing 767-300 ER
     <ol>
-      <li>NH979 [(JA615A)](https://www.jetphotos.com/registration/JA615A), Osaka Itami (ITM) to Beijing Capital (PEK), May 2017
+      <li>NH979 (<a href="https://www.jetphotos.com/registration/JA615A">JA615A</a>), Osaka Itami (ITM) to Beijing Capital (PEK), May 2017
       </li>
-      <li>NH948 [(JA614A)](https://www.jetphotos.com/registration/JA614A) w/ Star Alliance livery), Chengdu Shuangliu (CTU) to Tokyo Narita (NRT), January 2017
+      <li>NH948 (<a href="https://www.jetphotos.com/registration/JA614A)JA614A"></a> w/ Star Alliance livery), Chengdu Shuangliu (CTU) to Tokyo Narita (NRT), January 2017
       </li>
-      <li>NH947 [(JA616A)](https://www.jetphotos.com/registration/JA616A), Tokyo Narita (NRT) to Chengdu Shuangliu (CTU), December 2016
+      <li>NH947 (<a href="https://www.jetphotos.com/registration/JA616A">JA616A</a>), Tokyo Narita (NRT) to Chengdu Shuangliu (CTU), December 2016
       </li>
-      <li>NH921 [(JA615A)](https://www.jetphotos.com/registration/JA615A), Tokyo Narita (NRT) to Shanghai Pudong (PVG), May 2016
+      <li>NH921 (<a href="https://www.jetphotos.com/registration/JA615A">JA615A</a>), Tokyo Narita (NRT) to Shanghai Pudong (PVG), May 2016
       </li>
     </ol>
   </li>
   <li>Airbus A330-300E
     <ol>
-      <li>HU7348 [(B5972)](https://www.jetphotos.com/registration/B5972), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), December 2017
+      <li>HU7348 (<a href="https://www.jetphotos.com/registration/B5972">B5972</a>), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), December 2017
       </li>
     </ol>
   </li>
   <li>Airbus A330-300X
     <ol>
-      <li>CA4120 [(B6523)](https://www.jetphotos.com/registration/B6523), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), June 2018
+      <li>CA4120 (<a href="https://www.jetphotos.com/registration/B6523">B6523</a>), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), June 2018
       </li>
-      <li>CA4106 [(B6523)](https://www.jetphotos.com/registration/B6523), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), December 2017
+      <li>CA4106 (<a href="https://www.jetphotos.com/registration/B6523">B6523</a>), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), December 2017
       </li>
-      <li>CA109 [(B5901)](https://www.jetphotos.com/registration/B5901), Beijing Capital (PEK) to Hong Kong (HKG), July 2017
+      <li>CA109 (<a href="https://www.jetphotos.com/registration/B5901">B5901</a>), Beijing Capital (PEK) to Hong Kong (HKG), July 2017
       </li>
     </ol>
   </li>
   <li>Airbus A330-300
     <ol>
-      <li>HU7347 [(B8287)](https://www.jetphotos.com/registration/B8287) "Hai!MANchester"), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), May 2017
+      <li>HU7347 (<a href="https://www.jetphotos.com/registration/B8287)">B8287</a> "Hai!MANchester"), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), May 2017
       </li>
       <li>CA4314, Shenzhen Bao'an (SZX) to Chengdu Shuangliu (CTU), January 2014
       </li>
@@ -98,52 +98,52 @@ include: false
   </li>
   <li>Airbus A330-200
     <ol>
-      <li>HU7347 [(B6089)](https://www.jetphotos.com/registration/B6089), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), December 2018
+      <li>HU7347 (<a href="https://www.jetphotos.com/registration/B6089">B6089</a>), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), December 2018
       </li>
-      <li>CA4106 [(B6081)](https://www.jetphotos.com/registration/B6081), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), January 2017
+      <li>CA4106 (<a href="https://www.jetphotos.com/registration/B6081">B6081</a>), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), January 2017
       </li>
-      <li>CA4101 [(B6071)](https://www.jetphotos.com/registration/B6071), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), December 2016
+      <li>CA4101 (<a href="https://www.jetphotos.com/registration/B6071">B6071</a>), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), December 2016
       </li>
-      <li>MU585 [(B5943)](https://www.jetphotos.com/registration/B5943), Shanghai Pudong (PVG) to Los Angeles (LAX), August 2015
+      <li>MU585 (<a href="https://www.jetphotos.com/registration/B5943">B5943</a>), Shanghai Pudong (PVG) to Los Angeles (LAX), August 2015
       </li>
     </ol>
   </li>
   <li>Airbus A321-200
     <ol>
-      <li>CA4187 [(B8583)](https://www.jetphotos.com/registration/B8583), Chengdu Shuangliu (CTU) to Tianjin Binhai (TSN), July 2018
+      <li>CA4187 (<a href="https://www.jetphotos.com/registration/B8583">B8583</a>), Chengdu Shuangliu (CTU) to Tianjin Binhai (TSN), July 2018
       </li>
-      <li>3U8883 [(B1663)](https://www.jetphotos.com/registration/B1663), its 100th Airbus aircraft), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), June 2017
+      <li>3U8883 (<a href="https://www.jetphotos.com/registration/B1663)">B1663</a>, its 100th Airbus aircraft), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), June 2017
       </li>
-      <li>CA4506 [(B6603)](https://www.jetphotos.com/registration/B6603), Nanjing Lukou (NKG) to Chengdu Shuangliu (CTU), May 2016
+      <li>CA4506 (<a href="https://www.jetphotos.com/registration/B6603">B6603</a>), Nanjing Lukou (NKG) to Chengdu Shuangliu (CTU), May 2016
       </li>
     </ol>
   </li>
   <li>Airbus A320 Neo
     <ol>
-      <li>NH955 [(JA215A)](https://www.jetphotos.com/registration/JA215A), Tokyo Narita (NRT) to Beijing Capital (PEK), December 2018
+      <li>NH955 (<a href="https://www.jetphotos.com/registration/JA215A">JA215A</a>), Tokyo Narita (NRT) to Beijing Capital (PEK), December 2018
       </li>
     </ol>
   </li>
   <li>Airbus A320-200
     <ol>
-      <li>CA428 [(B6793)](https://www.jetphotos.com/registration/B6793), Hong Kong to Chengdu Shuangliu (CTU), July 2017 </li>
-      <li>UA298 [(N458UA)](https://www.jetphotos.com/registration/N458UA), Chicago O'Hare&nbsp;(ORD) to John Glenn Columbus (CMH), March 2017
+      <li>CA428 (<a href="https://www.jetphotos.com/registration/B6793">B6793</a>), Hong Kong to Chengdu Shuangliu (CTU), July 2017 </li>
+      <li>UA298 (<a href="https://www.jetphotos.com/registration/N458UA">N458UA</a>), Chicago O'Hare&nbsp;(ORD) to John Glenn Columbus (CMH), March 2017
       </li>
-      <li>DL965 [(N362NW)](https://www.jetphotos.com/registration/N362NW), Salt Lake City (SLC) to Minneapolis - St. Paul (MSP), January 2016
+      <li>DL965 (<a href="https://www.jetphotos.com/registration/N362NW">N362NW</a>), Salt Lake City (SLC) to Minneapolis - St. Paul (MSP), January 2016
       </li>
-      <li>MU293 [(B2209)](https://www.jetphotos.com/registration/B2209), Chengdu Shuangliu (CTU) to Shanghai Pudong (PVG), August 2015
+      <li>MU293 (<a href="https://www.jetphotos.com/registration/B2209">B2209</a>), Chengdu Shuangliu (CTU) to Shanghai Pudong (PVG), August 2015
       </li>
-      <li>CA4534 [(B6846)](https://www.jetphotos.com/registration/B6846), Hangzhou Xiaoshan (HGH) to Chengdu Shuangliu (CTU), June 2015
+      <li>CA4534 (<a href="https://www.jetphotos.com/registration/B6846">B6846</a>), Hangzhou Xiaoshan (HGH) to Chengdu Shuangliu (CTU), June 2015
       </li>
-      <li>CA1746 [(B2376)](https://www.jetphotos.com/registration/B2376), Chengdu Shuangliu (CTU) to Hangzhou Xiaoshan (HGH), June 2015
+      <li>CA1746 (<a href="https://www.jetphotos.com/registration/B2376">B2376</a>), Chengdu Shuangliu (CTU) to Hangzhou Xiaoshan (HGH), June 2015
       </li>
-      <li>FD552 [(HSBBA)](https://www.jetphotos.com/registration/HSBBA), Bangkok Don Mueang (DMK) to Chongqing Jiangbei (CKG), June 2014
+      <li>FD552 (<a href="https://www.jetphotos.com/registration/HSBBA">HSBBA</a>), Bangkok Don Mueang (DMK) to Chongqing Jiangbei (CKG), June 2014
       </li>
-      <li>FD557 [(HSBBC)](https://www.jetphotos.com/registration/HSBBC), Chongqing Jiangbei (CKG) to Bangkok Mueang (DMK), June 2014
+      <li>FD557 (<a href="https://www.jetphotos.com/registration/HSBBC">HSBBC</a>), Chongqing Jiangbei (CKG) to Bangkok Mueang (DMK), June 2014
       </li>
-      <li>3U8618 [(B6322)](https://www.jetphotos.com/registration/B6322), Hong Kong (HKG) to Chengdu Shuangliu (CTU), May 2014
+      <li>3U8618 (<a href="https://www.jetphotos.com/registration/B6322">B6322</a>), Hong Kong (HKG) to Chengdu Shuangliu (CTU), May 2014
       </li>
-      <li>3U8617 [(B6732)](https://www.jetphotos.com/registration/B6732), Chengdu Shuangliu (CTU) to Hong Kong (CTU), May 2014
+      <li>3U8617 (<a href="https://www.jetphotos.com/registration/B6732">B6732</a>), Chengdu Shuangliu (CTU) to Hong Kong (CTU), May 2014
       </li>
       <li>EU220x, Liuzhou Bailian (LZH) to Chengdu Shuangliu (CTU), July 2013
       </li>
@@ -159,21 +159,21 @@ include: false
   </li>
   <li>Boeing 737-900 ER
     <ol>
-      <li>DL865 [(N826DN)](https://www.jetphotos.com/registration/N826DN), Detroit Metropolitan (DTW) to Salt Lake City (SLC), December 2015
+      <li>DL865 (<a href="https://www.jetphotos.com/registration/N826DN">N826DN</a>), Detroit Metropolitan (DTW) to Salt Lake City (SLC), December 2015
       </li>
     </ol>
   </li>
   <li>Boeing 737-800
     <ol>
-      <li>UA2401 [(N12216)](https://www.jetphotos.com/registration/N12216), Denver (DEN) to John Glenn Columbus (CMH), August 2017
+      <li>UA2401 (<a href="https://www.jetphotos.com/registration/N12216">N12216</a>), Denver (DEN) to John Glenn Columbus (CMH), August 2017
       </li>
-      <li>UA223 [(N14237)](https://www.jetphotos.com/registration/N14237), San Francisco (SFO) to Denver (DEN), August 2017
+      <li>UA223 (<a href="https://www.jetphotos.com/registration/N14237">N14237</a>), San Francisco (SFO) to Denver (DEN), August 2017
       </li>
-      <li>UA1196 [(N14230)](https://www.jetphotos.com/registration/N14230), San Francisco (SFO) to Washington Dulles (IAD), August 2016
+      <li>UA1196 (<a href="https://www.jetphotos.com/registration/N14230)">N14230</a>), San Francisco (SFO) to Washington Dulles (IAD), August 2016
       </li>
-      <li>DL1170 [(N381DN)](https://www.jetphotos.com/registration/N381DN) w/ SkyTeam livery), Los Angeles (LAX) to John Glenn Columbus (CMH), August 2015
+      <li>DL1170 (<a href="https://www.jetphotos.com/registration/N381DN)">N381DN</a> w/ SkyTeam livery), Los Angeles (LAX) to John Glenn Columbus (CMH), August 2015
       </li>
-      <li>MU5847 [(B5527)](https://www.jetphotos.com/registration/B5527), Dali (DLU) to Chengdu Shuangliu (CTU), December 2014
+      <li>MU5847 (<a href="https://www.jetphotos.com/registration/B5527">B5527</a>), Dali (DLU) to Chengdu Shuangliu (CTU), December 2014
       </li>
       <li>SC4764, Chengdu Shuangliu (CTU) to Guilin Liangjiang (KWL), July 2013
       </li>
@@ -187,45 +187,45 @@ include: false
   </li>
   <li>Bombardier CRJ 700 LR
     <ol>
-      <li>UA6308/Mesa [(N521LR)](https://www.jetphotos.com/registration/N521LR), John Glenn Columbus (CMH) to Washington Dulles (IAD), December 2016
+      <li>UA6308/Mesa (<a href="https://www.jetphotos.com/registration/N521LR">N521LR</a>), John Glenn Columbus (CMH) to Washington Dulles (IAD), December 2016
       </li>
-      <li>UA6248/Mesa [(N501MJ)](https://www.jetphotos.com/registration/N501MJ), Washington Dulles (IAD) to John Glenn Columbus (CMH), August 2016
+      <li>UA6248/Mesa (<a href="https://www.jetphotos.com/registration/N501MJ">N501MJ</a>), Washington Dulles (IAD) to John Glenn Columbus (CMH), August 2016
       </li>
     </ol>
   </li>
   <li>Bombardier CRJ 700 ER
     <ol>
-      <li>UA6366/Mesa [(N511MJ)](https://www.jetphotos.com/registration/N511MJ), Washington Dulles (IAD) to John Glenn Columbus (CMH), July 2018
+      <li>UA6366/Mesa (<a href="https://www.jetphotos.com/registration/N511MJ">N511MJ</a>), Washington Dulles (IAD) to John Glenn Columbus (CMH), July 2018
       </li>
     </ol>
   </li>
   <li>Embraer EMB 175 LR
     <ol>
-      <li>UA3617/Republic [(N747YX)](https://www.jetphotos.com/registration/N747YX), John Glenn Columbus (CMH) to Chicago O'Hare (ORD), December 2018
+      <li>UA3617/Republic (<a href="https://www.jetphotos.com/registration/N747YX">N747YX</a>), John Glenn Columbus (CMH) to Chicago O'Hare (ORD), December 2018
       </li>
-      <li>UA6218/Mesa [(N85323)](https://www.jetphotos.com/registration/N85323), John Glenn Columbus (CMH) to Houston (IAH), December 2017
+      <li>UA6218/Mesa (<a href="https://www.jetphotos.com/registration/N85323">N85323</a>), John Glenn Columbus (CMH) to Houston (IAH), December 2017
       </li>
-      <li>UA3484/Republic [(N740YX)](https://www.jetphotos.com/registration/N740YX), John Glenn Columbus (CMH) to Chicago O'Hare (ORD), April 2017
+      <li>UA3484/Republic (<a href="https://www.jetphotos.com/registration/N740YX">N740YX</a>), John Glenn Columbus (CMH) to Chicago O'Hare (ORD), April 2017
       </li>
-      <li>UA3488/Republic [(N740YX)](https://www.jetphotos.com/registration/N740YX), John Glenn Columbus (CMH) to Chicago O'Hare (ORD), May 2016
+      <li>UA3488/Republic (<a href="https://www.jetphotos.com/registration/N740YX">N740YX</a>), John Glenn Columbus (CMH) to Chicago O'Hare (ORD), May 2016
       </li>
     </ol>
   </li>
   <li>Embraer EMB 170 SE
     <ol>
-      <li>UA3515/Republic [(N640RW)](https://www.jetphotos.com/registration/N640RW), John Glenn Columbus (CMH) to New York Newark (EWR), May 2018
+      <li>UA3515/Republic (<a href="https://www.jetphotos.com/registration/N640RW">N640RW</a>), John Glenn Columbus (CMH) to New York Newark (EWR), May 2018
       </li>
-      <li>UA3435/Republic [(N863RW)](https://www.jetphotos.com/registration/N863RW), Houston (IAH) to John Glenn Columbus (CMH), January 2018
+      <li>UA3435/Republic (<a href="https://www.jetphotos.com/registration/N863RW">N863RW</a>), Houston (IAH) to John Glenn Columbus (CMH), January 2018
       </li>
-      <li>UA3413/Republic [(N856RW)](https://www.jetphotos.com/registration/N856RW), John Glenn Columbus (CMH) to Chicago O'Hare (ORD), March 2017
+      <li>UA3413/Republic (<a href="https://www.jetphotos.com/registration/N856RW">N856RW</a>), John Glenn Columbus (CMH) to Chicago O'Hare (ORD), March 2017
       </li>
-      <li>UA3549/Republic [(N857RW)](https://www.jetphotos.com/registration/N857RW), Chicago O'Hare (ORD) to John Glenn Columbus (CMH), January 2017
+      <li>UA3549/Republic (<a href="https://www.jetphotos.com/registration/N857RW">N857RW</a>), Chicago O'Hare (ORD) to John Glenn Columbus (CMH), January 2017
       </li>
     </ol>
   </li>
   <li>Embraer ERJ 145 LR
     <ol>
-      <li>DL3421/Shuttle America [(N280SK)](https://www.jetphotos.com/registration/N280SK), John Glenn Columbus (CMH) to Detroit Metropolitan (DTW), December 2015
+      <li>DL3421/Shuttle America (<a href="https://www.jetphotos.com/registration/N280SK">N280SK</a>), John Glenn Columbus (CMH) to Detroit Metropolitan (DTW), December 2015
       </li>
     </ol>
   </li>
