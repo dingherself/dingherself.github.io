@@ -19,6 +19,8 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
  	<li>John Glenn Columbus International Airport (CMH/KCMH), Columbus, United States---University</li>
  	<li>Beijing Capital International Airport (PEK/ZBAA), Beijing, China
 <ol>
+  <li>UA88 to Newark (EWR), January 2019</li>
+  <li>HU7347 to Chengdu Shuangliu (CTU), December 2018</li>
  	<li>UA808 to Washington Dulles (IAD), July 2018</li>
  	<li>CA4120 to Chengdu Shuangliu (CTU), June 2018</li>
  	<li>CA995 to Houston (IAH), January 2018</li>
@@ -31,6 +33,7 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
 </li>
  	<li>Narita International Airport (NRT/RJAA), Tokyo, Japan
 <ol>
+  <li>NH955 to Beijing Capital (PEK), December 2018</li>
  	<li>NH955 to Beijing Capital (PEK), May 2018</li>
  	<li>NH2179 to Osaka Itami (ITM), April 2017</li>
  	<li>NH12 to Chicago O'Hare (ORD), January 2017</li>
@@ -40,7 +43,8 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
 </li>
  	<li>Chicago O'Hare International Airport (ORD/KORD), Chicago, United States
 <ol>
- 	<li>NH11 to Tokyo Narita (NRT), April 2017</li>
+  <li>UA881 to Tokyo Narita (NRT), December 2018</li>
+  <li>NH11 to Tokyo Narita (NRT), April 2017</li>
  	<li>UA298 to John Glenn Columbus (CMH), March 2017</li>
  	<li>HU498 to Beijing Capital (PEK), March 2017</li>
  	<li>UA3604 to John Glenn Columbus (CMH), January 2017</li>
@@ -72,7 +76,8 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
 </li>
  	<li>Newark Liberty International Airport (EWR/KEWR), Newark,  United States
 <ol>
- 	<li>UA79 to Tokyo Narita (NRT), May 2018</li>
+  <li>UA3639 to John Glenn Columbus (CMH), January 2019</li>
+  <li>UA79 to Tokyo Narita (NRT), May 2018</li>
 </ol>
 </li>
  	<li>Denver International Airport (DEN/KDEN), Denver, United States
