@@ -50,7 +50,7 @@ include: false
   </li>
   <li>Boeing 777-200 ER
     <ol>
-      <li>UA88, Beijing Capital (PEK) to Chicago O'Hare (ORD), January 2019
+      <li>UA88, Beijing Capital (PEK) to Newark (EWR), January 2019
       </li>
       <li>UA881 (<a href="https://www.jetphotos.com/registration/N784UA">N784UA</a>), Chicago O'Hare (ORD) to Tokyo Narita (NRT), December 2018
       </li>
@@ -213,7 +213,7 @@ include: false
   </li>
   <li>Embraer EMB 170 SE
     <ol>
-      <li>UA3515/Republic (<a href="https://www.jetphotos.com/registration/N640RW">N640RW</a>), John Glenn Columbus (CMH) to New York Newark (EWR), May 2018
+      <li>UA3515/Republic (<a href="https://www.jetphotos.com/registration/N640RW">N640RW</a>), John Glenn Columbus (CMH) to Newark (EWR), May 2018
       </li>
       <li>UA3435/Republic (<a href="https://www.jetphotos.com/registration/N863RW">N863RW</a>), Houston (IAH) to John Glenn Columbus (CMH), January 2018
       </li>
