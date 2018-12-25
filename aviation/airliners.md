@@ -213,6 +213,7 @@ include: false
   </li>
   <li>Embraer EMB 170 SE
     <ol>
+      <li>UA3639/Republic, Newark (EWR) to John Glenn Columbus (CMH), January 2019</li>
       <li>UA3515/Republic (<a href="https://www.jetphotos.com/registration/N640RW">N640RW</a>), John Glenn Columbus (CMH) to Newark (EWR), May 2018
       </li>
       <li>UA3435/Republic (<a href="https://www.jetphotos.com/registration/N863RW">N863RW</a>), Houston (IAH) to John Glenn Columbus (CMH), January 2018
