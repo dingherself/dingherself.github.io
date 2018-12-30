@@ -62,7 +62,7 @@ include: false
     <ol>
       <li>NH979 (<a href="https://www.jetphotos.com/registration/JA615A">JA615A</a>), Osaka Itami (ITM) to Beijing Capital (PEK), May 2017
       </li>
-      <li>NH948 (<a href="https://www.jetphotos.com/registration/JA614A)JA614A"></a> w/ Star Alliance livery), Chengdu Shuangliu (CTU) to Tokyo Narita (NRT), January 2017
+      <li>NH948 (<a href="https://www.jetphotos.com/registration/JA614A)JA614A">JA614A</a> w/ Star Alliance livery), Chengdu Shuangliu (CTU) to Tokyo Narita (NRT), January 2017
       </li>
       <li>NH947 (<a href="https://www.jetphotos.com/registration/JA616A">JA616A</a>), Tokyo Narita (NRT) to Chengdu Shuangliu (CTU), December 2016
       </li>
