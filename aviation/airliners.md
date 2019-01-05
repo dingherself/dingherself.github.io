@@ -191,13 +191,13 @@ include: false
     <ol>
       <li>UA6308/Mesa (<a href="https://www.jetphotos.com/registration/N521LR">N521LR</a>), John Glenn Columbus (CMH) to Washington Dulles (IAD), December 2016
       </li>
-      <li>UA6248/Mesa (<a href="https://www.jetphotos.com/registration/N501MJ">N501MJ</a>), Washington Dulles (IAD) to John Glenn Columbus (CMH), August 2016
-      </li>
     </ol>
   </li>
   <li>Bombardier CRJ 700 ER
     <ol>
       <li>UA6366/Mesa (<a href="https://www.jetphotos.com/registration/N511MJ">N511MJ</a>), Washington Dulles (IAD) to John Glenn Columbus (CMH), July 2018
+      </li>
+      <li>UA6248/Mesa (<a href="https://www.jetphotos.com/registration/N501MJ">N501MJ</a>), Washington Dulles (IAD) to John Glenn Columbus (CMH), August 2016
       </li>
     </ol>
   </li>
