@@ -99,6 +99,7 @@ include: false
   <li>Airbus A330-200
     <ol>
       <li>CA4193 (<a href="https://www.jetphotos.com/registration/B6081">B6081</a>), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), December 2018
+      </li>
       <li>HU7347 (<a href="https://www.jetphotos.com/registration/B6089">B6089</a>), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), December 2018
       </li>
       <li>CA4106 (<a href="https://www.jetphotos.com/registration/B6081">B6081</a>), Beijing Capital (PEK) to Chengdu Shuangliu (CTU), January 2017
