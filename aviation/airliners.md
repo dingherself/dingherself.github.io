@@ -5,9 +5,9 @@ permalink: /aviation/airliners/
 include: false
 ---
 
-![]({{ site.baseurl }}{% link assets/images/JA614A.jpg %})
-*ANA’s Boeing 767-300 ER (JA614A, NH948) with Star Alliance livery*<br />
-*(January 5, 2017 @ Chengdu Shuangliu)*
+![]({{ site.baseurl }}{% link assets/images/IMG_0913-min.JPG %})
+*Fujisan (Mt. Fuji) with the Dreamliner's Gorgeous Wingspan*<br />
+*(May 24, 2018 @ Somewhere near & above Tokyo)*
 
 # Airliners
 
@@ -233,3 +233,7 @@ include: false
     </ol>
   </li>
 </ol>
+
+![]({{ site.baseurl }}{% link assets/images/JA614A.jpg %})
+*ANA’s Boeing 767-300 ER (JA614A, NH948) with Star Alliance livery*<br />
+*(January 5, 2017 @ Chengdu Shuangliu)*
