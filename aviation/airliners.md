@@ -70,11 +70,11 @@ include: false
       </li>
     </ol>
   </li>
- </ol>
+
   ![]({{ site.baseurl }}{% link assets/images/IMG_0913-min.JPG %})
 *Fujisan (Mt. Fuji) with the Dreamliner's (JA878A) Gorgeous Wingspan*<br />
 *(May 24, 2018 @ Somewhere near & above Tokyo)*
-<ol>
+
   <li>Airbus A330-300E
     <ol>
       <li>HU7348 (<a href="https://www.jetphotos.com/registration/B5972">B5972</a>), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), December 2017
