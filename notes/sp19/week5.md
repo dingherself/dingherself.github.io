@@ -67,3 +67,5 @@ Basically it's the same. But you may need to make many more manual adjustments (
 2. Apply the Keylight effect to the first layer;
 3. Enjoy!
 
+---
+*Copyright (c) 2019 Zhiyuan Li. Please do not circulate without my permission.*
