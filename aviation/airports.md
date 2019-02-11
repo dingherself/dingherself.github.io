@@ -58,6 +58,12 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
  	<li>UA6248 to John Glenn Columbus (CMH), August 2016</li>
 </ol>
 </li>
+ 	<li>Los Angeles International Airport (LAX/KLAX), Los Angeles, United States
+<ol>
+ 	<li>3U8632 to Chengdu Shuangliu (CTU), via Hangzhou Xiaoshan (HGH), May 2019</li>
+  <li>DL1170 to John Glenn Columbus (CMH), August 2015</li>
+</ol>
+</li>
  	<li>San Francisco International Airport (SFO/KSFO), San Francisco, United States
 <ol>
  	<li>UA223 to Denver (DEN), August 2017</li>
@@ -91,6 +97,18 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
  	<li>CA996 to Beijing Capital (PEK), December 2017</li>
 </ol>
 </li>
+  	<li>Hangzhou Xiaoshan International Airport (HGH/ZSHC), Hangzhou, China
+<ol>
+  <li>3U8632 to Chengdu Shuangliu (CTU), May 2019</li>
+  <li>CA4534 to Chengdu Shuangliu (CTU), June 2015</li>
+</ol>
+</li>
+ <li>Jinan Yaoqiang International Airport (TNA/ZSJN), Jinan, China
+ <ol>
+  <li>3U8699 to Los Angeles (LAX), July 2019</li>
+  <li>Shandong Airlines, from Chengdu Shuangliu (CTU), Summer 2009</li>
+</ol>
+ </li>
  	<li>Nanjing Lukou International Airport (NKG/ZSNJ), Nanjing, China
 <ol>
  	<li>ZH4506 to Chengdu Shuangliu (CTU), May 2016</li>
@@ -114,16 +132,6 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
  	<li>Detroit Metropolitan Wayne County Airport (DTW/KDTW), Detroit, United States
 <ol>
  	<li>DL865 to Salt Lake City (SLC), December 2015</li>
-</ol>
-</li>
- 	<li>Los Angeles International Airport (LAX/KLAX), Los Angeles, United States
-<ol>
- 	<li>DL1170 to John Glenn Columbus (CMH), August 2015</li>
-</ol>
-</li>
- 	<li>Hangzhou Xiaoshan International Airport (HGH/ZSHC), Hangzhou, China
-<ol>
- 	<li>CA4534 to Chengdu Shuangliu (CTU), June 2015</li>
 </ol>
 </li>
  	<li>Dali Airport (DLU/ZPDL), Dali, China
@@ -169,7 +177,6 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
 </li>
  	<li>Macau International Airport (MFM/VMMC), Macau, China&mdash;Summer 2012</li>
  	<li>Jiuzhai Huanglong Airport (JZH/ZUJZ), Jiuzhaigou, China&mdash;Summer 2009</li>
- 	<li>Jinan Yaoqiang International Airport (TNA/ZSJN), Jinan, China&mdash;Summer 2009</li>
  	<li>Kunming Wujiaba International Airport (KMH/ZPPP), Kunming, China&mdash;around 2007</li>
  	<li>Guangzhou Baiyun International Airport (CAN/ZGGG), Guangzhou, China&mdash;around 2002</li>
  	<li>Guiyang Longdongbao International Airport (KWE/ZUGY), Guiyang, China</li>
