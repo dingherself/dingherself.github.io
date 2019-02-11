@@ -1,3 +1,5 @@
+# MMC After Effects (Spring 2019)
+
 # Week 5 - Motion Tracking & Keying
 
 ## Keying
@@ -30,7 +32,7 @@
 
 Basically it's the same. But you may need to make many more manual adjustments (in some cases, frame by frame adjustments).
 
-### Mocha AE (Optional, bonus material)
+### Motion Tracking with Mocha AE (OPTIONAL, NOT COVERED)
 
 #### How to start mocha AE
 
