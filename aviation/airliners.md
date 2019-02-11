@@ -75,6 +75,14 @@ include: false
 *Fujisan (Mt. Fuji) with the Dreamliner's (JA878A) Gorgeous Wingspan*<br />
 *(May 24, 2018 @ Somewhere near & above Tokyo)*
 <ol start="5">
+  <li>Airbus A350-900
+    <ol>
+      <li>3U8699, Chengdu Shuangliu (CTU) to Los Angeles (LAX), via Jinan Yaoqiang (TNA), July 2019
+      </li>
+      <li>3U8632, Los Angeles (LAX) to Chengdu Shuangliu (CTU), via Hangzhou Xiaoshan (HGH), May 2019
+      </li>
+    </ol>
+  </li>
   <li>Airbus A330-300E
     <ol>
       <li>HU7348 (<a href="https://www.jetphotos.com/registration/B5972">B5972</a>), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), December 2017
