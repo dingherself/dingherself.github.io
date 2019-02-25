@@ -47,6 +47,8 @@ Then **pre-compose** the paper plane and turn on **Collapse Transformation** and
 
 ### Completing the Animation
 
+Use position, rotation, etc.
+
 ---
 
 *© 2019 Zhiyuan Li. All rights reserved.*
