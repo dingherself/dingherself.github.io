@@ -3,12 +3,12 @@ layout: page
 title: Handouts
 permalink: /handouts/
 include: true
-order: 4
+order: 5
 ---
 
 # Handouts
 
-*Please do not cite or circulate without my permission. Thank you.*
+*Please do not cite or circulate without my permission. Thank you!*
 
 <h2>{{ site.data.undergraduate-handouts.docs_list_title }}</h2>
 <ul>
