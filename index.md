@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About (Home)
+title: Home
 include: true
+published: true
+date: 1900-01-01 00:00:01
 ---
 
 ## Welcome!
