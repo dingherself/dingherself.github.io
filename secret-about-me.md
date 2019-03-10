@@ -9,7 +9,7 @@ published: true
 
 **In accordance with *the International Statute of Wizarding Secrecy* of 1692, any muggle that happens to be reading this page will be obliviated.**
 
-I'm a philosopher in the Department of Magical Theory, [Ilvermorny School of Witchcraft and Wizardry](https://www.pottermore.com/writing-by-jk-rowling/ilvermorny}. I earned my N.E.W.T certificate while at Hufflepuff House, Hogwarts School.
+I'm a philosopher in the Department of Magical Theory, [Ilvermorny School of Witchcraft and Wizardry](https://www.pottermore.com/writing-by-jk-rowling/ilvermorny). I earned my N.E.W.T certificate while at Hufflepuff House, Hogwarts School.
 
 My research centers on the philosophy of magic. I'm most interested in the metaphysics of magic: What is magic? Is magic explainable in (muggle-)physical terms? What grounds magical abilities---physiology, wands, or social relations? I do not think, at least at the present time, that we have *any* good answer to those questions, and I have argued against the two dominant views in the field---panmagicalism and physicalism.
 
