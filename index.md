@@ -3,7 +3,7 @@ layout: page
 title: Home
 include: true
 published: true
-date: 1900-01-01 00:00:01
+order: 1
 ---
 
 ## Welcome!
