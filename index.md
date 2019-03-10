@@ -14,4 +14,4 @@ Apart from philosophy, I regularly teach After Effects (an industry standard pro
 
 The best way to contact me is via email: {{ 'ding@dingphil.com' | encode_email }}.
 
-	You can view my CV [here]({{ site.baseurl }}{% link /files/zhiyuan_li_cv.pdf %}).
+You can view my CV [here]({{ site.baseurl }}{% link /files/zhiyuan_li_cv.pdf %}).
