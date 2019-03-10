@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Welcome
+title: Home
 include: true
 ---
 
-# About Me
+Welcome!
 
 I'm a senior philosophy major at The Ohio State University. What especially interest me are questions that arise at the interesctions of different areas of philosophy---such as moral and political philosophy, metaphysics, philosophy of mind, and philosophical logic---and of philosophy and other fields of study---such as neurosicence, linguistics, computer science, sociology, and political science. Besides, I'm also very interested in the history and development of analytic philosophy, the kind(s?) of philosophy practiced in the majority of philosophy departments across the English-speaking world.
 
