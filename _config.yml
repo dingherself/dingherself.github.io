@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "httsp://www.dingphil.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Scoial links
-github_username:  ding27
+github_username:  dingphil
 zhihu_username: shannon403
 # twitter_username:   your_name
 # facebook_username:  your_name
