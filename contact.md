@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 include: true
-order: 3
+order: 4
 ---
 
 # Contact

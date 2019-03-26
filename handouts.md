@@ -3,7 +3,7 @@ layout: page
 title: Handouts
 permalink: /handouts/
 include: true
-order: 5
+order: 3
 ---
 
 # Handouts

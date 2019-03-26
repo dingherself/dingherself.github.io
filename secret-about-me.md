@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me (Secret Version)
+permalink: /about-me-secret/
 include: false
 published: true
 ---
