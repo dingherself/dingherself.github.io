@@ -127,7 +127,7 @@ include: false
     <ol>
       <li>CA4187 (<a href="https://www.jetphotos.com/registration/B8583">B8583</a>), Chengdu Shuangliu (CTU) to Tianjin Binhai (TSN), July 2018
       </li>
-      <li>3U8883 (<a href="https://www.jetphotos.com/registration/B1663)">B1663</a>, its 100th Airbus aircraft), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), June 2017
+      <li>3U8883 (<a href="https://www.jetphotos.com/registration/B1663">B1663</a>, its 100th Airbus aircraft), Chengdu Shuangliu (CTU) to Beijing Capital (PEK), June 2017
       </li>
       <li>CA4506 (<a href="https://www.jetphotos.com/registration/B6603">B6603</a>), Nanjing Lukou (NKG) to Chengdu Shuangliu (CTU), May 2016
       </li>
@@ -141,8 +141,10 @@ include: false
   </li>
   <li>Airbus A320-200
     <ol>
+      <li>UA337 (<a href="https://www.jetphotos.com/registration/N471UA">N471UA</a>), John Glenn Columbus (CMH) to Denver (DEN), March 2019
+      </li>
       <li>CA428 (<a href="https://www.jetphotos.com/registration/B6793">B6793</a>), Hong Kong to Chengdu Shuangliu (CTU), July 2017 </li>
-      <li>UA298 (<a href="https://www.jetphotos.com/registration/N458UA">N458UA</a>), Chicago O'Hare&nbsp;(ORD) to John Glenn Columbus (CMH), March 2017
+      <li>UA298 (<a href="https://www.jetphotos.com/registration/N458UA">N458UA</a>), Chicago O'Hare (ORD) to John Glenn Columbus (CMH), March 2017
       </li>
       <li>DL965 (<a href="https://www.jetphotos.com/registration/N362NW">N362NW</a>), Salt Lake City (SLC) to Minneapolis - St. Paul (MSP), January 2016
       </li>
@@ -174,12 +176,16 @@ include: false
   </li>
   <li>Boeing 737-900 ER
     <ol>
+      <li>UA1075 (<a href="https://www.jetphotos.com/registration/N39475">N39475</a>), Tucson (TUS) to Chicago O'Hare (ORD), March 2019
+      </li>
       <li>DL865 (<a href="https://www.jetphotos.com/registration/N826DN">N826DN</a>), Detroit Metropolitan (DTW) to Salt Lake City (SLC), December 2015
       </li>
     </ol>
   </li>
   <li>Boeing 737-800
     <ol>
+      <li>UA444 (<a href="https://www.jetphotos.com/registration/N37252">N37252</a>), Denver (DEN) to Tucson (TUS), March 2010
+      </li>
       <li>UA2401 (<a href="https://www.jetphotos.com/registration/N12216">N12216</a>), Denver (DEN) to John Glenn Columbus (CMH), August 2017
       </li>
       <li>UA223 (<a href="https://www.jetphotos.com/registration/N14237">N14237</a>), San Francisco (SFO) to Denver (DEN), August 2017
@@ -211,6 +217,12 @@ include: false
       <li>UA6366/Mesa (<a href="https://www.jetphotos.com/registration/N511MJ">N511MJ</a>), Washington Dulles (IAD) to John Glenn Columbus (CMH), July 2018
       </li>
       <li>UA6248/Mesa (<a href="https://www.jetphotos.com/registration/N501MJ">N501MJ</a>), Washington Dulles (IAD) to John Glenn Columbus (CMH), August 2016
+      </li>
+    </ol>
+  </li>
+  <li>Bombardier CRJ 200 ER
+    <ol>
+      <li>UA5360/SkyWest (<a href="https://www.jetphotos.com/registration/N937EV">N937EV</a>), Chicago O'Hare (ORD) to John Glenn Columbus (CMH), March 2019
       </li>
     </ol>
   </li>
