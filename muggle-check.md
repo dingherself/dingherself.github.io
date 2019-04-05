@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Muggle Check
-permalink: /muggle-check/
 include: false
+layout: page
+permalink: /muggle-check/
 published: true
+title: "Muggle Check"
 ---
 
 # Muggle?	
