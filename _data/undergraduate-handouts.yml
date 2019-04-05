@@ -1,8 +1,6 @@
---- 
-docs: 
-  - 
-    date: "July 8, 2017"
-    place: "Renmin University"
-    title: "The Manipulation Objection: A Reply"
-    url: freewill.html
 docs_list_title: Undergraduate
+docs:
+- title: "The Manipulation Objection: A Reply"
+  url: freewill.html
+  place: Renmin University
+  date: July 8, 2017
