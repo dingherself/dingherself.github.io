@@ -8,4 +8,4 @@ order: 2
 
 # CV
 
-Please [download here]({{ site.baseurl }}{% link /files/zhiyuan_li_cv.pdf %}).
+Please [download here]({{ site.baseurl }}{% link /files/ding-cv.pdf %}).

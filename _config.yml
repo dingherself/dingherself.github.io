@@ -36,8 +36,8 @@ remote_theme: ding27/jekyll-theme-mint #for GitHub
 plugins:
   - jekyll-feed
 
-gems:
-  - jekyll-email-protect
+#gems:
+# - jekyll-email-protect
 
 gems: [jekyll-paginate]
 # maximum number of Posts you’d like to be displayed per-page in the generated site
