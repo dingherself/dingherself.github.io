@@ -2,7 +2,7 @@
 layout: page
 title: Handouts
 permalink: /handouts/
-include: true
+include: false
 order: 3
 ---
 

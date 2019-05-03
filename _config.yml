@@ -20,12 +20,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "httsp://www.dingphil.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Scoial links
-github_username:  dingphil
-zhihu_username: shannon403
-matters_username: ding
-# twitter_username:   your_name
-# facebook_username:  your_name
-# dribbble_username:  your_name
+# github_username: dingphil
+# zhihu_username: shannon403
+# matters_username: ding
+# twitter_username: your_name
+# facebook_username: your_name
+# dribbble_username: your_name
 
 google_analytics: UA-127390411-1
 
@@ -35,11 +35,8 @@ markdown: kramdown
 remote_theme: ding27/jekyll-theme-mint #for GitHub
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
-#gems:
-# - jekyll-email-protect
-
-gems: [jekyll-paginate]
 # maximum number of Posts you’d like to be displayed per-page in the generated site
 paginate: 25
 # You may also specify the destination of the pagination pages:
@@ -48,11 +45,11 @@ paginate_path: "/page:num/"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
