@@ -2,12 +2,14 @@
 layout: page
 title: Research
 permalink: /research/
-include: false
+include: true
 order: 3
 ---
 
-# Works in Progress
+To be updated...
 
-# Journal Articles
+## Works in Progress
 
-# Conference Proceedings
+## Journal Articles
+
+## Conference Proceedings
