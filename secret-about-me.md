@@ -18,4 +18,4 @@ Finally, I work on the intersection between the philosophy of magic and contempo
 
 ---
 
-N.B. In compliance with [*the International Statute of Wizarding Secrecy*](https://harrypotter.fandom.com/wiki/International_Statute_of_Wizarding_Secrecy) of 1692, any muggle that happens to be reading this page will be obliviated.
+N.B. In compliance with [*the International Statute of Wizarding Secrecy*](https://harrypotter.fandom.com/wiki/International_Statute_of_Wizarding_Secrecy) of 1692, efforts are made to ensure that no muggle will accidentally land on this page. However, we request any muggle that happen to slip through the cracks to inform us immediately, so they can be properly Obliviated.
