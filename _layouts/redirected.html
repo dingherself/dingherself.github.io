@@ -5,6 +5,7 @@
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 {% seo %}
 <link rel='stylesheet' href='{{ '/assets/main.css' | relative_url }}'>
+<link href="https://fonts.googleapis.com/css?family=Cousine|Open+Sans|PT+Serif" rel="stylesheet">
 {% feed_meta %}
 {% include google_analytics.html %}
 <link rel="canonical" href="{{ page.redirect_to }}"/>
@@ -12,8 +13,12 @@
 <meta http-equiv="refresh" content="0;url={{ page.redirect_to }}" />
 </head>
 <body>
+<main class='main'>
+<article class='post'>
     <h1>Redirecting...</h1>
       <a href="{{ page.redirect_to }}">Please lick on the following link in case you are not automatically redirected.<a>
       <script>location='{{ page.redirect_to }}'</script>
+</article>
+</main>
 </body>
 </html>
