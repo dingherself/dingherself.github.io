@@ -9,7 +9,7 @@ include: false
 
 ## What are cookies?
 
-Cookies are small pieces of information that are placed on your computer when you visit websites. They are supposed to improve your experience using those sites---unfortunately, this has not always been the case. This Cookie Policy explains explains what information they gather and how this site uses that information.
+Cookies are small pieces of information that are placed on your computer when you visit websites. They are supposed to improve your experience using those sites---unfortunately, this has not always been the case. This Cookie Policy explains, for this particular site, what information they gather and that information is used.
 
 You can learn more about cookies [here](https://www.cookiesandyou.com/about-cookies/).
 
