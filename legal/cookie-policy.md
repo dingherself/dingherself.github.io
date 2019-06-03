@@ -5,6 +5,8 @@ permalink: /legal/cookie-policy
 include: false
 ---
 
+# Cookie Policy
+
 *Updated on June 3, 2019.*
 
 ## What are cookies?
