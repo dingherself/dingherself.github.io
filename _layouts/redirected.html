@@ -13,12 +13,15 @@
 <meta http-equiv="refresh" content="0;url={{ page.redirect_to }}" />
 </head>
 <body>
+<div class='layout'>
+  {% include header.html %}
 <main class='main'>
 <article class='post'>
     <h1>Redirecting...</h1>
-      <a href="{{ page.redirect_to }}">Please lick on the following link in case you are not automatically redirected.<a>
+      <a href="{{ page.redirect_to }}">Please click here in case you are not automatically redirected.<a>
       <script>location='{{ page.redirect_to }}'</script>
 </article>
 </main>
+</div>
 </body>
 </html>
