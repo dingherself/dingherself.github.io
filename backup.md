@@ -5,7 +5,7 @@ permalink: /backup/
 include: false
 ---
 
-[Ding 的知乎答案]({{ site.baseurl }}{% farewell-zhihu/index.html %})
+[Ding 的知乎答案](https://dingphil.com/farewell-zhihu)
 
 ![](assets/images/zhihu-1.jpeg)
 
