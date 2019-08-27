@@ -15,8 +15,12 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
 
 *Format: Airport Name (IATA Code/ICAO Code)*
 <ol>
- 	<li>Chengdu Shuangliu International Airport (CTU/ZUUU), Chengdu, China---Hometown</li>
- 	<li>John Glenn Columbus International Airport (CMH/KCMH), Columbus, United States---University</li>
+ 	<li>Chengdu Shuangliu International Airport (CTU/ZUUU), Chengdu, China</li>
+ 	<li>John Glenn Columbus International Airport (CMH/KCMH), Columbus, United States</li>
+	<li>Tucson International Airport (TUS/KTUS), Tucson, United States
+<ol>
+ 	<li>UA1075 to Chicago O'Hare (ORD), March 2019</li>
+</ol>
  	<li>Beijing Capital International Airport (PEK/ZBAA), Beijing, China
 <ol>
   <li>UA88 to Newark (EWR), January 2019</li>
@@ -43,6 +47,9 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
 </li>
  	<li>Chicago O'Hare International Airport (ORD/KORD), Chicago, United States
 <ol>
+  <li>UA878 to John Glenn Columbus (CMH), July 2019</li>
+  <li>UA411 to Los Angeles, May 2019</li>
+  <li>UA6350 to John Glenn Columbus (CMH), March 2019</li>
   <li>UA881 to Tokyo Narita (NRT), December 2018</li>
   <li>NH11 to Tokyo Narita (NRT), April 2017</li>
  	<li>UA298 to John Glenn Columbus (CMH), March 2017</li>
@@ -53,15 +60,16 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
 </li>
  	<li>Washington Dulles International Airport (IAD/KIAD), Dulles, United States
 <ol>
- 	<li>UA6321 to ohn Glenn Columbus (CMH), July 2018</li>
+ 	<li>UA6321 to John Glenn Columbus (CMH), July 2018</li>
  	<li>NH1 to Tokyo Narita (NRT), December 2016</li>
  	<li>UA6248 to John Glenn Columbus (CMH), August 2016</li>
 </ol>
 </li>
  	<li>Los Angeles International Airport (LAX/KLAX), Los Angeles, United States
 <ol>
- 	<li>3U8632 to Chengdu Shuangliu (CTU), via Hangzhou Xiaoshan (HGH), May 2019</li>
-  <li>DL1170 to John Glenn Columbus (CMH), August 2015</li>
+ 	<li>UA2097 to Chicago O'Hare (ORD), July 2019</li>
+	<li>3U8632 to Chengdu Shuangliu (CTU), via Hangzhou Xiaoshan (HGH), May 2019</li>
+	<li>DL1170 to John Glenn Columbus (CMH), August 2015</li>
 </ol>
 </li>
  	<li>San Francisco International Airport (SFO/KSFO), San Francisco, United States
@@ -88,7 +96,8 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
 </li>
  	<li>Denver International Airport (DEN/KDEN), Denver, United States
 <ol>
- 	<li>UA2401 to John Glenn Columbus (CMH), August 2017</li>
+ 	<li>UA444 to Tucson (CMH), March 2019</li>
+	<li>UA2401 to John Glenn Columbus (CMH), August 2017</li>
 </ol>
 </li>
  	<li>Houston George Bush Intercontinental Airport (IAH/KIAH), Houston, United States

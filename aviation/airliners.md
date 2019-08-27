@@ -70,16 +70,22 @@ include: false
       </li>
     </ol>
   </li>
+  <li>Boeing 757-300
+    <ol>
+      <li>UA411 (<a href="https://www.jetphotos.com/registration/N57870">N57870</a>), Chicago O'Hare (ORD) to Los Angeles (LAX), May 2019
+      </li>
+    </ol>
+  </li>
 </ol>
   ![]({{ site.baseurl }}{% link assets/images/IMG_0913-min.JPG %})
 *Fujisan (Mt. Fuji) with the Dreamliner's (JA878A) Gorgeous Wingspan*<br />
 *(May 24, 2018 @ Somewhere near & above Tokyo)*
-<ol start="5">
+<ol start="6">
   <li>Airbus A350-900
     <ol>
-      <li>3U8699, Chengdu Shuangliu (CTU) to Los Angeles (LAX), via Jinan Yaoqiang (TNA), July 2019
+      <li>3U8699 (<a href="https://www.jetphotos.com/registration/B-301D">B301D</a>, w/ panda livery), Chengdu Shuangliu (CTU) to Los Angeles (LAX), via Jinan Yaoqiang (TNA), July 2019
       </li>
-      <li>3U8632, Los Angeles (LAX) to Chengdu Shuangliu (CTU), via Hangzhou Xiaoshan (HGH), May 2019
+      <li>3U8632 (<a href="https://www.jetphotos.com/registration/B-304V">B304V</a>), Los Angeles (LAX) to Chengdu Shuangliu (CTU), via Hangzhou Xiaoshan (HGH), May 2019
       </li>
     </ol>
   </li>
@@ -141,6 +147,8 @@ include: false
   </li>
   <li>Airbus A320-200
     <ol>
+      <li>UA515 (<a href="https://www.jetphotos.com/registration/N413UA">N413UA</a>), John Glenn Columbus (CMH) to Chicago O'Hare (ORD), May 2019
+      </li>
       <li>UA337 (<a href="https://www.jetphotos.com/registration/N471UA">N471UA</a>), John Glenn Columbus (CMH) to Denver (DEN), March 2019
       </li>
       <li>CA428 (<a href="https://www.jetphotos.com/registration/B6793">B6793</a>), Hong Kong to Chengdu Shuangliu (CTU), July 2017 </li>
@@ -176,6 +184,8 @@ include: false
   </li>
   <li>Boeing 737-900 ER
     <ol>
+      <li>UA2097 (<a href="https://www.jetphotos.com/registration/N53442">N53442</a>), Los Angeles (LAX) to Chicago O'Hare (ORD), July 2019
+      </li>
       <li>UA1075 (<a href="https://www.jetphotos.com/registration/N39475">N39475</a>), Tucson (TUS) to Chicago O'Hare (ORD), March 2019
       </li>
       <li>DL865 (<a href="https://www.jetphotos.com/registration/N826DN">N826DN</a>), Detroit Metropolitan (DTW) to Salt Lake City (SLC), December 2015
@@ -184,7 +194,9 @@ include: false
   </li>
   <li>Boeing 737-800
     <ol>
-      <li>UA444 (<a href="https://www.jetphotos.com/registration/N37252">N37252</a>), Denver (DEN) to Tucson (TUS), March 2010
+      <li>UA878 (<a href="https://www.jetphotos.com/registration/N87527">N87527</a>), Chicago O'Hare to John Glenn Columbus (CMH), July 2019
+      </li>
+      <li>UA444 (<a href="https://www.jetphotos.com/registration/N37252">N37252</a>), Denver (DEN) to Tucson (TUS), March 2019  
       </li>
       <li>UA2401 (<a href="https://www.jetphotos.com/registration/N12216">N12216</a>), Denver (DEN) to John Glenn Columbus (CMH), August 2017
       </li>
