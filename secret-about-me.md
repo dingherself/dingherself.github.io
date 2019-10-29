@@ -6,13 +6,13 @@ include: false
 published: true
 ---
 
-# About Me (Confidential)
+# About me (Confidential, no sharing)
 
 I'm a philosopher in the Department of Magical Theory, [Ilvermorny School of Witchcraft and Wizardry](https://www.pottermore.com/writing-by-jk-rowling/ilvermorny). I passed my [N.E.W.T exams](https://harrypotter.fandom.com/wiki/Nastily_Exhausting_Wizarding_Test) at Hufflepuff House, Hogwarts School.
 
-My research centers on the philosophy of magic. I'm primarily interested in its metaphysics: What really is magic? Is magic reducible to (muggle-)physical terms? What give(s) rise to magical abilities---physiology, wands, and/or social relations---and how? Unfortunately, at the present time we do not have *any* good answer to those questions, and I have argued that neither of the two dominant views in the field (i.e., panmagicalism and physicalism) are unsuccessful. (For an introduction to the metaphysics of magic, see [this](https://mmsl.fandom.com/wiki/Advanced_Concepts_in_the_Theory_of_Magic/The_Metaphysics_of_Magic).)
+My research centers on the philosophy of magic. I'm primarily interested in its metaphysics: What really is magic? Is magic reducible to (muggle-)physical terms? What give(s) rise to magical abilities---physiology, wands, and/or social relations---and how? The two dominant views here are panmagicalism and physicalism, but as I have argued in my works, neither of them can produce satisfactory answers. (For an introduction to the metaphysics of magic, see [this](https://mmsl.fandom.com/wiki/Advanced_Concepts_in_the_Theory_of_Magic/The_Metaphysics_of_Magic).)
 
-I also work on the intersection between the philosophy of magic and contemporary muggle philosophy. I have argued that phenomenal consciousness is best understood in magic-theoretic terms, so the reason the hard problem of consciousness is hard is really due to the difficulty of explaining magic.
+I also work on the intersections between the philosophy of magic and contemporary muggle philosophy. I've defended the view that phenomenal consciousness is best understood in magic-theoretic terms, which in my view uncovers the genuine reason why the hard problem of consciousness is hard: it's just that explaining magic is hard!
 
 ---
 
