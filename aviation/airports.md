@@ -6,7 +6,7 @@ include: false
 ---
 
 <img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/IMG_0245_reduced_size.jpg %}">
-<p class="mt-1" style="color: #787878;">Sichuan Airlines’s Airbus A350-900 (<a href="hhttps://www.jetphotos.com/registration/B-301D">B301D</a>) with panda livery<br />
+<p class="mt-1" style="color: #787878;">Sichuan Airlines’s Airbus A350-900 (<a href="hhttps://www.jetphotos.com/registration/B-301D">B301D</a> as 3U8699) with panda livery<br />
 (July 17, 2019 @ Chengdu Shuangliu)</p>
 
 #### Airports
