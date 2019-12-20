@@ -6,7 +6,7 @@ include: false
 ---
 
 <img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/JA614A.jpg %}">
-<p class="mt-1" style="color: #787878;">ANA’s Boeing 767-300 ER (<a href="https://www.jetphotos.com/registration/NH948">NH948</a> as JA614A) with Star Alliance livery<br />
+<p class="mt-1" style="color: #787878;">ANA’s Boeing 767-300 ER (<a href="https://www.jetphotos.com/registration/JA614A">JA614A</a> as NH948) with Star Alliance livery<br />
 (January 5, 2017 @ Chengdu Shuangliu)</p>
 #### Airliners
 

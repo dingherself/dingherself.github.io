@@ -5,9 +5,9 @@ permalink: /aviation/airports/
 include: false
 ---
 
-<img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/N475UA.jpg %}">
-<p class="mt-1" style="color: #787878;">UA’s Airbus A320 (<a href="https://www.jetphotos.com/registration/N475UA">N475UA</a>) with 1970s “Friend Ship” livery<br />
-(March 18, 2017 @ Chicago O’Hare)</p>
+<img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/IMG_0245_reduced_size.jpg %}">
+<p class="mt-1" style="color: #787878;">Sichuan Airlines’s Airbus A350-900 (<a href="hhttps://www.jetphotos.com/registration/B-301D">B301D</a>) with panda livery<br />
+(July 17, 2019 @ Chengdu Shuangliu)</p>
 
 #### Airports
 
