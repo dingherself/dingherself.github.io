@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: default
 title: About Me (Secret Version)
 permalink: /about-me-secret/
 include: false
-published: true
 ---
 
-# About me (Confidential, no sharing)
+#### About me (Confidential, no sharing)
 
 I'm a philosopher in the Department of Magical Theory, [Ilvermorny School of Witchcraft and Wizardry](https://www.pottermore.com/writing-by-jk-rowling/ilvermorny). I passed my [N.E.W.T exams](https://harrypotter.fandom.com/wiki/Nastily_Exhausting_Wizarding_Test) at Hufflepuff House, Hogwarts School.
 
@@ -14,6 +13,6 @@ My research centers on the philosophy of magic. I'm primarily interested in its 
 
 I also work on the intersections between the philosophy of magic and contemporary muggle philosophy. I've defended the view that phenomenal consciousness is best understood in magic-theoretic terms, which in my view uncovers the genuine reason why the hard problem of consciousness is hard: it's just that explaining magic is hard!
 
----
+<center>* * *</center>
 
-N.B. In compliance with [*the International Statute of Wizarding Secrecy*](https://harrypotter.fandom.com/wiki/International_Statute_of_Wizarding_Secrecy) of 1692, efforts are made to ensure no muggle will accidentally land on this page. However, we request that any muggle who happens to slip through the cracks contact us immediately, so they can be properly obliviated.
+<p style="margin-top: 0.75rem;">N.B. In compliance with the <a href="https://harrypotter.fandom.com/wiki/International_Statute_of_Wizarding_Secrecy"><em>International Statute of Wizarding Secrecy</em></a> of 1692, efforts are made to ensure no muggle will accidentally land on this page. However, we request that any muggle who happens to slip through the cracks contact us immediately, so they can be properly obliviated.</p>

@@ -1,15 +1,15 @@
 ---
-layout: page
+layout: default
 title: Airports
 permalink: /aviation/airports/
 include: false
 ---
 
-![]({{ site.baseurl }}{% link assets/images/N475UA.jpg %})
-*UA’s Airbus A320 (N475UA) with 1970s “Friend Ship” livery*<br />
-*(March 18, 2017 @ Chicago O’Hare)*
+<img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/N475UA.jpg %}">
+<p class="mt-1" style="color: #787878;">UA’s Airbus A320 (<a href="https://www.jetphotos.com/registration/N475UA">N475UA</a>) with 1970s “Friend Ship” livery<br />
+(March 18, 2017 @ Chicago O’Hare)</p>
 
-# Airports
+#### Airports
 
 This is a list of the airports I've visited (or I'm about to visit). Usually only departure flights are recorded. <a href="https://my.flightradar24.com/shannon403">Map</a>
 

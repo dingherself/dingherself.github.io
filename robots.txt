@@ -1,2 +1,6 @@
+---
+---
+
 User-agent: *
 Disallow: /notes/sp19/
+Sitemap: {{ site.url }}/sitemap.xml

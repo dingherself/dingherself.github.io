@@ -1,15 +1,14 @@
 ---
-layout: page
+layout: default
 title: Airliners
 permalink: /aviation/airliners/
 include: false
 ---
 
-![]({{ site.baseurl }}{% link assets/images/JA614A.jpg %})
-*ANA’s Boeing 767-300 ER (JA614A, NH948) with Star Alliance livery*<br />
-*(January 5, 2017 @ Chengdu Shuangliu)*
-
-# Airliners
+<img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/JA614A.jpg %}">
+<p class="mt-1" style="color: #787878;">ANA’s Boeing 767-300 ER (<a href="https://www.jetphotos.com/registration/NH948">NH948</a> as JA614A) with Star Alliance livery<br />
+(January 5, 2017 @ Chengdu Shuangliu)</p>
+#### Airliners
 
 [Map](https://my.flightradar24.com/shannon403)
 
@@ -77,9 +76,9 @@ include: false
     </ol>
   </li>
 </ol>
-  ![]({{ site.baseurl }}{% link assets/images/IMG_0913-min.JPG %})
-*Fujisan (Mt. Fuji) with the Dreamliner's (JA878A) Gorgeous Wingspan*<br />
-*(May 24, 2018 @ Somewhere near & above Tokyo)*
+<img class="img-fluid mt-3" src="{{ site.baseurl }}{% link assets/images/IMG_0913-min.JPG %}">
+<p class="mt-1 mb-4" style="color: #787878;">Fujisan (Mt. Fuji) with the Dreamliner's (<a href="https://www.jetphotos.com/registration/JA878A">JA878A</a> as NH955) Gorgeous Wingspan<br />
+(May 24, 2018 @ Somewhere near & above Tokyo)</p>
 <ol start="6">
   <li>Airbus A350-900
     <ol>
@@ -270,4 +269,3 @@ include: false
     </ol>
   </li>
 </ol>
-

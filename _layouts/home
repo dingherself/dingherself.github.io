@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="{{ page.description | default: site.description | smartify }}">
+      <meta name="author" content="{{ site.authors }}">
+      <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+
+      <title>
+          {{ site.title | smartify }} · {{ site.description | smartify }}
+      </title>
+
+      <!-- Ding's modified Bootstrap CSS -->
+      <link href="{{ site.baseurl }}/assets/ding.css" rel="stylesheet">
+
+      {% include favicons.html %}
+
+      <script async src='https://www.googletagmanager.com/gtag/js?id=UA-127390411-1'></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-127390411-1');
+        </script>
+  </head>
+<body>
+    <main id="content" role="main" class="container">
+      <div class="container">
+      {{ content }}
+    </main>
+
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>
