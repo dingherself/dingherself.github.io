@@ -1,0 +1,58 @@
+---
+---
+
+// Ding's variable overrides
+
+$container-max-widths: (
+  sm: 540px,
+  md: 660px,
+  lg: 720px,
+  xl: 800px
+);
+
+$body-color: #272727;
+$black: #272727;
+$dingred: #bd000b;
+
+$theme-colors: (
+  "primary": $dingred
+);
+
+$navbar-light-color: rgba($black, .7);
+$navbar-light-hover-color: rgba($black, 1.0);
+$navbar-light-active-color: rgba($dingred, .8);
+$navbar-light-toggler-border-color: rgba($black, .4);
+
+$line-height-base: 1.7;
+
+$font-size-base: 1rem;
+
+$lead-font-size: (
+  $font-size-base * 1.2
+);
+
+$h5-font-size: (
+  $font-size-base * 1.2
+);
+
+$h6-font-size: (
+  $font-size-base * 1.15
+);
+
+//$headings-margin-bottom: 1.75rem;
+$headings-font-weight: 400;
+
+h1, h2, h3, h5, h6,
+.h1, .h2, .h3, .h5, .h6 {
+  margin-top: 1.75rem !important;
+  margin-bottom: 0.75rem !important;
+}
+
+h4, .h4 {
+  margin-top: 2.5rem !important;
+  margin-bottom: 1.5rem !important;
+}
+
+// Bootstrap and its default variables
+
+@import "bootstrap";
