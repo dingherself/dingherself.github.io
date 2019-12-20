@@ -8,17 +8,17 @@ permalink: /legal/cookie-policy
 
 ##### What are cookies?
 
-Cookies are small pieces of information placed on your computer when you visit websites. They are supposed to improve your experience using those sites---unfortunately, of course, this has not always been the case. This Cookie Policy explains, for this particular site, what information they gather and how that information is used. You can learn more about cookies [here](https://www.cookiesandyou.com/about-cookies/).
+Cookies are small pieces of information placed on your computer when you visit websites. They are supposed to improve your experience using those sites---unfortunately, of course, this has not always been the case. This Cookie Policy explains, for this particular site, what information cookies gather and how that information is used. You can learn more about cookies [here](https://www.cookiesandyou.com/about-cookies/).
 
 ##### How does this site use cookies?
 
-This site uses *only* third party cookies provided by Google Analytics. Google Analytics is one of the most widely used analytics services on the web. These cookies report how you use this site by tracking things such as which pages you visit and how long you spend on this site.
+This site uses *only* third party cookies provided by Google Analytics. Google Analytics is one of the most widely used analytics services on the web. These cookies help to understand how visitors use this site, by tracking things such as which pages a visitor clicks on and how long a visitor spends on this site.
 
 Since Google Analytics has separate and independent privacy policies, this site can take no responsibility or liability for the content and activities of this third party service. For more information on Google Analytics, please visit [their site](https://analytics.google.com).
 
-##### Disabling Cookies
+##### Can I disable cookies?
 
-You can prevent the use of cookies by adjusting the settings on your browser. Please visit [this site](https://www.cookiesandyou.com/disable-cookies/) to find out how.
+The use of cookies can be disabled. Please visit [this site](https://www.cookiesandyou.com/disable-cookies/) to find out how.
 
 ##### *Children’s Online Privacy Protection Act* Compliance
 
