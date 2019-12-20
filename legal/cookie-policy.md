@@ -22,6 +22,6 @@ You can prevent the use of cookies by adjusting the settings on your browser. Pl
 
 ##### *Children’s Online Privacy Protection Act* Compliance
 
-This site is directed to people who are at least 13 years old or older. This site does not knowingly collect personal identifiable information from children under 13. No under the age of 13 should use this site. If you are a parent or guardian, and you are aware that your child has used this site, please contact Google Analytics immediately so that necessary actions may be taken.
+This site is directed to people who are at least 13 years old or older. This site does not knowingly collect personal identifiable information from children under 13. No one under the age of 13 should use this site. If you are a parent or guardian, and you are aware that your child has used this site, please contact Google Analytics immediately so that necessary actions may be taken.
 
 <p class="mt-4">(Last updated: December 20, 2019)</p>
