@@ -53,6 +53,11 @@ h4, .h4 {
   margin-bottom: 1.5rem !important;
 }
 
+.btn-sm, .btn-group-sm > .btn {
+    padding: 0.35rem 0.65rem !important;
+    font-size: 0.925rem !important;
+}
+
 // Bootstrap and its default variables
 
 @import "bootstrap";
