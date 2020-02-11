@@ -3,4 +3,7 @@
 
 User-agent: *
 Disallow: /notes/sp19/
+Disallow: ding-cv.pdf
+Disallow: /s/
+Disallow: /assets/
 Sitemap: {{ site.url }}/sitemap.xml
