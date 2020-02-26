@@ -12,4 +12,4 @@ order: 5
 
 #### Aviation
 
-I'm a huge aviation enthusiast---in particular, when it comes to commercial jet aircrafts. I keep track of the <a href='{{ site.baseurl }}{% link aviation/airliners.md %}'>airliners</a> I have flown on as well as the <a href="{{ site.baseurl }}{% link aviation/airports.md %}">airports</a> I have been to. You can also view my flight map <a href="https://my.flightradar24.com/shannon403">here</a>.
+I'm a huge aviation enthusiast---in particular, when it comes to commercial jet aircraft. I keep track of the <a href='{{ site.baseurl }}{% link aviation/airliners.md %}'>airliners</a> I have flown on as well as the <a href="{{ site.baseurl }}{% link aviation/airports.md %}">airports</a> I have been to. You can also view my flight map <a href="https://my.flightradar24.com/shannon403">here</a>.
