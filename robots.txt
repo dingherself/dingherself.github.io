@@ -6,4 +6,5 @@ Disallow: /notes/sp19/
 Disallow: ding-cv.pdf
 Disallow: /s/
 Disallow: /assets/
+Disallow: /syllabus/
 Sitemap: {{ site.url }}/sitemap.xml
