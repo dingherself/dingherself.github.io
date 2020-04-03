@@ -12,7 +12,7 @@ order: 4
 
 ##### PHIL 324: Law and Morality (Summer 2020, Online, 5 Week 2)
 
-This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular, with an emphasis on the relationship between law and morality. [Draft Syllabus]({{ site.baseurl }}{% link syllabus/draft-ding-phil-324-summer-2020.pdf %})
+This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular, with an emphasis on the relationship between law and morality. ([Draft Syllabus]({{ site.baseurl }}{% link syllabus/draft-ding-phil-324-summer-2020.pdf %}))
 
 <p><button class="btn btn-outline-primary btn-sm" type="button" data-toggle="collapse" data-target="#324-overview-su2020" aria-expanded="false" aria-controls="324-overview-su2020">Course Overview</button>
 </p>
