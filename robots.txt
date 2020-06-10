@@ -7,4 +7,6 @@ Disallow: ding-cv.pdf
 Disallow: /s/
 Disallow: /assets/
 Disallow: /syllabus/
+Disallow: /muggle-check/
+Disallow: /secret-about-me/
 Sitemap: {{ site.url }}/sitemap.xml
