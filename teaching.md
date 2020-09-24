@@ -16,7 +16,7 @@ This course is an introduction to the philosophy of law in general and feminist 
 
 <p>
 <button class="btn btn-outline-primary btn-sm" type="button" data-toggle="collapse" data-target="#324-overview-su2020" aria-expanded="false" aria-controls="324-overview-su2020">Course Overview</button>
-<button class="btn btn-outline-primary btn-sm" type="button" data-toggle="collapse" data-target="{{ site.baseurl }}{% link syllabus/ding-324-syllabus-summer-2020.pdf %}" aria-expanded="false" aria-controls="324-syllabus-su2020">Syllabus</button>
+<a href="{{ site.baseurl }}{% link syllabus/ding-324-syllabus-summer-2020.pdf %}" class="btn btn-outline-primary btn-sm" role="button">Syllabus</a>
 </p>
 <div class="collapse" id="324-overview-su2020">
 	<div class="card card-body">
