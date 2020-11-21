@@ -6,7 +6,7 @@ group: navigation
 order: 4
 ---
 
-<img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/the-oval.jpg %}" alt="The Oval on the Ohio State campus.">
+<img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/the-oval.jpg %}" alt="The Oval, which is a huge lawn located at the center of The Ohio State University's Columbus campus, covered in beautiful snow.">
 
 #### Past Courses
 
