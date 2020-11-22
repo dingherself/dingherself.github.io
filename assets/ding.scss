@@ -1,14 +1,33 @@
 ---
 ---
 
+// Minion Pro Display fonts from Adobe; font-weights from 400 to 700
+
+@import url("https://use.typekit.net/vnw4sgb.css");
+
 // Ding's variable overrides
 
 $container-max-widths: (
   sm: 540px,
   md: 660px,
   lg: 720px,
-  xl: 800px
+  xl: 960px
 );
+
+$font-family-sans-serif:
+freight-text-pro,
+// Safari for OS X and iOS (San Francisco)
+-apple-system,
+// Chrome < 56 for OS X (San Francisco)
+BlinkMacSystemFont,
+// Windows
+"Segoe UI",
+// Android
+"Roboto",
+// Basic web fallback
+"Times New Roman", Times, serif,
+// Emoji fonts
+"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
 $body-color: #272727;
 $black: #272727;
@@ -25,39 +44,94 @@ $navbar-light-toggler-border-color: rgba($black, .4);
 
 $line-height-base: 1.7;
 
-$font-size-base: 1rem;
+$font-size-base: 1rem;  // Assumes the browser default, typically 1rem = 16px; we change the browser default later
 
 $lead-font-size: (
+  $font-size-base * 1.75
+);
+
+$h1-font-size: (
+  $font-size-base * 1.5
+);
+
+$h2-font-size: (
   $font-size-base * 1.2
+);
+
+$h3-font-size: (
+  $font-size-base * 1
+);
+
+$h4-font-size: (
+  $font-size-base * 1
 );
 
 $h5-font-size: (
-  $font-size-base * 1.2
+  $font-size-base * 1
 );
 
 $h6-font-size: (
-  $font-size-base * 1.15
+  $font-size-base * 1
 );
 
 //$headings-margin-bottom: 1.75rem;
-$headings-font-weight: 400;
 
-h1, h2, h3, h5, h6,
-.h1, .h2, .h3, .h5, .h6 {
-  margin-top: 1.75rem !important;
-  margin-bottom: 0.75rem !important;
+$font-weight-light: 300;
+$font-weight-normal: 500;
+$font-weight-bold: 500; 
+$headings-font-weight: 700;
+
+
+/////////////////////////////////////////
+// Bootstrap and its default variables //
+/////////////////////////////////////////
+
+@import "bootstrap";
+
+//////////////////////////
+// Ding's css overrides //
+//////////////////////////
+
+html {
+  font-size: 20px;
+} 
+
+h1,
+.h1 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
 }
 
-h4, .h4 {
-  margin-top: 2.5rem !important;
-  margin-bottom: 1.5rem !important;
+h2,
+.h2 {
+  margin-top: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+h3,
+.h3 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.75rem;
 }
 
 .btn-sm, .btn-group-sm > .btn {
-    padding: 0.35rem 0.65rem !important;
-    font-size: 0.925rem !important;
+    padding: 0.35rem 0.65rem;
+    font-size: 0.95rem;
 }
 
-// Bootstrap and its default variables
+h3, .h3 {
+  font-weight: 600;
+}
 
-@import "bootstrap";
+h4, .h4 {
+  font-weight: 400;
+  font-style: italic;
+}
+
+h5, .h5 {
+  font-weight: 400;
+}
+
+h6, .h6 {
+  font-weight: 400;
+}

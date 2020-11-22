@@ -8,11 +8,11 @@ order: 4
 
 <img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/the-oval.jpg %}" alt="The Oval, which is a huge lawn located at the center of The Ohio State University's Columbus campus, covered in beautiful snow.">
 
-#### Past Courses
+# Past Courses
 
-##### PHIL 324: Law and Morality (Summer 2020, Online, 5 Week 2)
+## Phil 324: Law and Morality (Summer 2020, Online, 5 Week 2)
 
-This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant issues that arise at the intersection of law and morality, and explore their jurisprudential and philosophical implications.
+This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant issues at the intersection of law and morality, and explore their jurisprudential and philosophical implications.
 
 <p>
 <button class="btn btn-outline-primary btn-sm" type="button" data-toggle="collapse" data-target="#324-overview-su2020" aria-expanded="false" aria-controls="324-overview-su2020">Course Overview</button>

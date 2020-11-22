@@ -6,6 +6,6 @@ group: navigation
 order: 2
 ---
 
-#### CV
+# CV
 
 Please view my CV [here]({{ site.baseurl }}{% link ding-cv.pdf %}).
