@@ -11,7 +11,7 @@ order: 4
 
 For Fall 2020, the **Feminist Philosophy Reading Group** has been meeting online. Our main objective this semester is to read some of Appiah's and Haslanger's writings on race and identity.
 
-While the manifest function of the reading group is to read and discuss feminist philosophy, we also hope that the reading group will help maintain a physical (virtual now!) space in the department and serve as an anchor for community building.
+While the manifest function of the reading group is to read and discuss feminist philosophy, we also hope that it will help maintain a physical (virtual now!) space in the department and serve as an anchor for community building.
 
 Graduate students both in and outside philosophy are more than welcome to participate! If you are interested, please just send me an email.
 
