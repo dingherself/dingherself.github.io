@@ -11,9 +11,12 @@ include: false
 
 # Airports
 
-This is a list of the airports I've visited (or I'm about to visit). Usually only departure flights are recorded. <a href="https://my.flightradar24.com/shannon403">Map</a>
+This is a list of the airports I've visited (or I'm about to visit). Usually only departure flights are recorded.
+
+<a href="https://my.flightradar24.com/shannon403">Map</a>
 
 *Format: Airport Name (IATA Code/ICAO Code)*
+
 <ol>
  	<li><a href="https://en.wikipedia.org/wiki/Chengdu_Shuangliu_International_Airport">Chengdu Shuangliu International Airport</a> (CTU/ZUUU), Chengdu, China</li>
  	<li><a href="https://en.wikipedia.org/wiki/John_Glenn_Columbus_International_Airport">John Glenn Columbus International Airport</a> (CMH/KCMH), Columbus, United States</li>
