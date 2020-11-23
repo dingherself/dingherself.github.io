@@ -1,7 +1,7 @@
 ---
 ---
 
-// Minion Pro Display fonts from Adobe; font-weights from 400 to 700
+// Freight Text Pro fonts from Adobe; font-weights from 400 to 700
 
 @import url("https://use.typekit.net/vnw4sgb.css");
 
@@ -76,9 +76,9 @@ $h6-font-size: (
 
 //$headings-margin-bottom: 1.75rem;
 
-$font-weight-light: 300;
-$font-weight-normal: 500;
-$font-weight-bold: 500; 
+$font-weight-light: 400;
+$font-weight-normal: 400;
+$font-weight-bold: 600; 
 $headings-font-weight: 700;
 
 
@@ -93,8 +93,20 @@ $headings-font-weight: 700;
 //////////////////////////
 
 html {
-  font-size: 20px;
-} 
+  font-size: 18px;
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 20px;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  html {
+    font-size: 21px;
+  }
+}
 
 h1,
 .h1 {
