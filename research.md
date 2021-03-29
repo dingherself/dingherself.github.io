@@ -14,8 +14,10 @@ order: 3
 
 ## Works in Progress
 
-### "Two Senses in Which Freedom Might (Not) Require Alternative Possibilities" (complete draft available upon request)
+### “Two Senses in Which Freedom Might (Not) Require Alternative Possibilities”
 
-*Abstract*: The dominant approach to the question of whether freedom requires alternative possibilities is preoccupied with putative counterexamples to the principle of alternative possibilities (PAP). Unfortunately, the dominant approach has resulted in deep confusion and stalemate. I argue that the failure of the dominant approach consists in its failure to distinguish *necessary presence* and *metaphysical grounding* as two importantly different senses in which freedom might (or might not) require alternative possibilities.
+*Abstract*: The dominant approach to the question of whether freedom requires alternative possibilities is preoccupied with the successfulness of Frankfurt-style cases as counterexamples to the principle of alternative possibilities (PAP). Unfortunately, the dominant approach has led us to a difficult stalemate as the opposing sides effectively endorse what seem to be incompatible standards of success for Frankfurt-style cases. In this essay, I argue that the failure of the dominant approach consists in its failure to distinguish *metaphysical necessitation* and *metaphysical grounding* as two importantly different senses in which freedom might (or might not) require alternative possibilities. Drawing in part on Sally Haslanger’s pioneering work in feminist philosophy, I then propose that a helpful way to move forward is to reconceive our guiding question by explicitly asking which of the two senses better serves the *point* of Frankfurt-style cases. In developing Haslanger’s approach and extending it to the freedom and alternative possibilities debate, my hope is to explore the broader methodological potentials of a signature feminist philosophical contribution, and, in turn, to further clarify the approach for feminist philosophy itself.
 
-I demonstrate the methodological fruitfulness of the distinction by applying it to two debates: the debate between the flicker of freedom defense and the robustness objection, and the debate over a so-called IRR assumption in Frankfurt's argument against PAP. In doing so, I end up pursuing a version of what Sally Haslanger has called *ameliorative* or *analytical* inquiries in the feminist philosophical literature. I conclude that adopting such an ameliorative approach has the potential of moving things forward much more constructively than does the dominant approach.
+### Disentangling the Category of Women: Amelioration for a Trans Feminist Politics of Liberation
+
+[To be updated]
