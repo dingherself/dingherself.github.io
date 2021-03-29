@@ -12,9 +12,7 @@ order: 4
 
 ## Phil 324: Law and Morality (Summer 2021, Online, 5 Week 1 & 5 Week 2)
 
-This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant issues at the intersection of law and morality, and explore their jurisprudential and philosophical implications.
-
-Specific topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ rights.
+This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality, and explore their jurisprudential implications. Specific topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ rights.
 
 <p>
 <button class="btn btn-outline-primary btn-sm" type="button" data-toggle="collapse" data-target="#324-overview-su2020" aria-expanded="false" aria-controls="324-overview-su2020">Course Overview</button>
