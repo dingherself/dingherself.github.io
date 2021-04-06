@@ -11,7 +11,7 @@ $container-max-widths: (
   sm: 540px,
   md: 660px,
   lg: 720px,
-  xl: 850px
+  xl: 960px
 );
 
 $font-family-sans-serif:
@@ -93,18 +93,12 @@ $headings-font-weight: 700;
 //////////////////////////
 
 html {
-  font-size: 18px;
-}
-
-@include media-breakpoint-up(lg) {
-  html {
-    font-size: 20px;
-  }
+  font-size: 16px;
 }
 
 @include media-breakpoint-up(xl) {
   html {
-    font-size: 21px;
+    font-size: 18px;
   }
 }
 
