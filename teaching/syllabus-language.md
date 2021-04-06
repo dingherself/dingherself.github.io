@@ -93,7 +93,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 
 *LGBTQ+*
 
--   List of Student Resources Prepared by the Office of LGBTQ Affairs: <https://lgbtq.arizona.edu/students>
+-   List of Resources from the Office of LGBTQ Affairs: <https://lgbtq.arizona.edu/students>
 
 *Disability*
 
