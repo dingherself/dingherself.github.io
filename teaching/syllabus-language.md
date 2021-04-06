@@ -10,6 +10,16 @@ include: false
 
 *Please feel free to incorporate the following statements in your syllabus. As I was writing them, I learned so much from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf) and [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf). If you have any feedback or suggestions for improvement, I’d love to know! (Last updated: April 2021)*
 
+## Table of Contents
+
+[1. Respect, Support and Care for One Another](#1-respect-support-and-care-for-one-another)
+
+[2. Student Support Resources](#2-student-support-resources)
+
+[3. (Lack of) Diversity in Philosophy](#3-lack-of-diversity-in-philosophy)
+
+<center>*&ensp;*&ensp;*</center>
+
 ## 1. Respect, Support and Care for One Another
 
 ### Materials in This Course
