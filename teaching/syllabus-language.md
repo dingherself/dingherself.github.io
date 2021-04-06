@@ -10,7 +10,7 @@ include: false
 
 *Please feel free to incorporate the following statements in your syllabus. As I was writing them, I learned so much from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf) and [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf). If you have any feedback or suggestions for improvement, I’d love to know! (Last updated: April 2021)*
 
-## Respect, Support and Care for One Another
+## 1. Respect, Support and Care for One Another
 
 ### Materials in This Course
 
@@ -47,7 +47,7 @@ Here are some concrete examples of how you can respect, support and care for you
 
 If you feel any aspect of this course makes it difficult for you to participate fully, I want to know. This is *very* important to me.
 
-## Student Support Resources
+## 2. Student Support Resources
 
 *Campus Health Services*
 
@@ -101,7 +101,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 
 -   Writing Skills Improvement Program: <https://wsip.arizona.edu>
 
-## (Lack of) Diversity in Philosophy
+## 3. (Lack of) Diversity in Philosophy
 
 Unfortunately, philosophy as an institutionalized discipline is remarkably white, remarkably straight and remarkably cis male. This lack of diversity is often apparent just from the topics and authors typically taught in introductory philosophy courses. However, philosophy as a whole is becoming more and more diverse thanks to the efforts of several generations of philosophers. As a philosophy student, you can also help the profession address its diversity and inclusiveness problems by seriously engaging with minority authors and supporting your fellow minority students.
 
