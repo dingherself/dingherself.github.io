@@ -113,7 +113,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 
 ## 3. (Lack of) Diversity in Philosophy
 
-Unfortunately, philosophy as an institutionalized discipline is remarkably white, remarkably straight and remarkably cis male. This lack of diversity is often apparent just from the topics and authors typically taught in introductory philosophy courses. However, philosophy as a whole is becoming more and more diverse thanks to the efforts of several generations of philosophers. As a philosophy student, you can also help the profession address its diversity and inclusiveness problems by seriously engaging with minority authors and supporting your fellow minority students.
+Unfortunately, philosophy as an institutionalized discipline is remarkably white, remarkably straight and remarkably cis male. This lack of diversity is often apparent just from the topics and authors typically taught in introductory philosophy courses. However, philosophy as a whole is becoming more and more diverse thanks to the efforts of several generations of philosophers. As a philosophy student, you can also help the profession address its diversity and inclusiveness problems by engaging with minority authors seriously and supporting your fellow minority students.
 
 The American Philosophical Association (APA) has a useful handout for minority undergraduate students in philosophy, which you can read here: <https://www.apaonline.org/resource/resmgr/diversity/Advice_for_Undergrads.pdf>.
 
