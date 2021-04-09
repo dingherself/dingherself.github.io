@@ -12,7 +12,7 @@ order: 4
 
 ## Courses
 
-### Phil 324: Law and Morality (Online, 5 Week 1 & 5 Week 2)
+### Phil 324: Law and Morality (Online, Summer 2021)
 
 This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality and explore their jurisprudential implications.
 
