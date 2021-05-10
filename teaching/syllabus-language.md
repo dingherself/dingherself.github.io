@@ -34,7 +34,7 @@ Here are some concrete examples of how you can respect, support and care for you
 
 *Class Discussion*
 
-- Value everyone’s contribution to class discussion;
+- Value everyone’s contribution to class discussions;
 - Disagree in a way that takes other people’s ideas seriously and sincerely;
 - Challenge remarks, jokes and examples that are racist, sexist, misogynistic, xenophobic, homophobic, biphobic, transphobic, ableist, ageist, classist, etc.;
 - Keep discussions inclusive by avoiding talking to only a few specific people;
