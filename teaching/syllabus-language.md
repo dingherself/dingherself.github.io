@@ -32,7 +32,7 @@ It’s therefore important that we *respect*, *support* and *care for* one anoth
 
 Here are some concrete examples of how you can respect, support and care for your classmates and instructor:
 
-*Class Discussion*
+*Class Discussions*
 
 - Value everyone’s contribution to class discussions;
 - Disagree in a way that takes other people’s ideas seriously and sincerely;
