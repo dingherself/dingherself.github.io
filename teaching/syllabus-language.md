@@ -8,7 +8,7 @@ include: false
 
 # Some Syllabus Language that Might Be Useful
 
-*Please feel free to incorporate the following statements in your syllabus. As I was writing them, I learned so much from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf) and [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf). If you have any feedback or suggestions for improvement, I’d love to know! (Last updated: April 2021)*
+*Please feel free to incorporate the following statements in your syllabus. As I was writing them, I learned so much from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf) and [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf). If you have any feedback or suggestions for improvement, I’d love to know! (Last updated: June 2021)*
 
 ## Table of Contents
 
@@ -113,7 +113,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 
 ## 3. (Lack of) Diversity in Philosophy
 
-Unfortunately, philosophy as an institutionalized discipline is remarkably white, remarkably straight and remarkably cis male. This lack of diversity is often apparent just from the topics and authors typically taught in introductory philosophy courses. However, philosophy as a whole is becoming more and more diverse thanks to the efforts of several generations of philosophers. As a philosophy student, you can also help the profession address its diversity and inclusiveness problems by engaging with minority authors seriously and supporting your fellow minority students.
+Unfortunately, philosophy as an institutionalized discipline is remarkably white, cis male, straight and able-bodied. This lack of diversity is often apparent just from the topics and authors typically taught in introductory philosophy courses. However, philosophy as a whole is becoming more and more diverse thanks to the efforts of several generations of philosophers. As a philosophy student, you can also help the profession address its diversity and inclusiveness problems by engaging with minority authors seriously and supporting your fellow minority students.
 
 The American Philosophical Association (APA) has a useful handout for minority undergraduate students in philosophy, which you can read here: <https://www.apaonline.org/resource/resmgr/diversity/Advice_for_Undergrads.pdf>.
 
