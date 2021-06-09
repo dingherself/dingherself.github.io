@@ -7,15 +7,8 @@
 
 // Ding's variable overrides
 
-$container-max-widths: (
-  sm: 540px,
-  md: 660px,
-  lg: 720px,
-  xl: 960px
-);
-
 $font-family-sans-serif:
-freight-text-pro,
+baskerville-urw,
 // Safari for OS X and iOS (San Francisco)
 -apple-system,
 // Chrome < 56 for OS X (San Francisco)
@@ -96,9 +89,15 @@ html {
   font-size: 16px;
 }
 
-@include media-breakpoint-up(xl) {
+@include media-breakpoint-up(lg) {
   html {
     font-size: 18px;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  html {
+    font-size: 20px;
   }
 }
 
@@ -126,18 +125,18 @@ h3,
 }
 
 h3, .h3 {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 h4, .h4 {
-  font-weight: 400;
+  font-weight: 500;
   font-style: italic;
 }
 
 h5, .h5 {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 h6, .h6 {
-  font-weight: 400;
+  font-weight: 500;
 }
