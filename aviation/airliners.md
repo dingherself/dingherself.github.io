@@ -79,7 +79,7 @@ include: false
 </ol>
 <img class="img-fluid mt-3" src="{{ site.baseurl }}{% link assets/images/IMG_0913-min.JPG %}" alt="The look of the left wing of an ANA Boeing 787-8 aircraft from the window seat while in the air, with Mt. Fuji in the background. Shot somewhere near and above Tokyo on May 24, 2018.">
 
-<p class="mt-1 mb-4" style="color: #787878;">Fujisan (Mt. Fuji) with the Dreamliner's (<a href="https://www.jetphotos.com/registration/JA878A">JA878A</a> as NH955) Gorgeous Wingspan<br />
+<p class="mt-1 mb-4" style="color: #787878;">Fujisan (Mt. Fuji) with the Dreamliner’s (<a href="https://www.jetphotos.com/registration/JA878A">JA878A</a> as NH955) Gorgeous Wingspan<br />
 (May 24, 2018 @ Somewhere near & above Tokyo)</p>
 <ol start="6">
   <li>Airbus A350-900
