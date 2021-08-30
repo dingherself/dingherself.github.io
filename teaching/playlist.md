@@ -53,7 +53,7 @@ include: false
 - [Stephen Breyer Interviewed by Stephen Colbert](https://youtu.be/Oj2yh6QJJJk)
 - [Hannah Arendt "Zur Person" Full Interview (with English subtitles)](https://youtu.be/dsoImQfVsO4)
 
-## Documentary
+## Documentaries
 
 - [The Life of Transgender Teen Aidan Destefano: ‘I Always Felt Like I Was Different'](https://youtu.be/CQdYeKHhW4k)
 
