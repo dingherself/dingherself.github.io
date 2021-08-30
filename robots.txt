@@ -6,7 +6,6 @@ Disallow: /notes/sp19/
 Disallow: ding-cv.pdf
 Disallow: /s/
 Disallow: /assets/
-Disallow: /teaching/playlist/
 Disallow: /teaching/syllabus/
 Disallow: /muggle-check/
 Disallow: /secret-about-me/

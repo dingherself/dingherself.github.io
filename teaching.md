@@ -27,4 +27,5 @@ You can download the syllabus [here]({{ site.baseurl }}{% link teaching/syllabus
 ## For Instructors
 
 - [Some Syllabus Language that Might Be Useful]({{ site.baseurl }}{% link teaching/syllabus-language.md %})
+- [A Playlist]({{ site.baseurl }}{% link teaching/playlist.md %})
 
