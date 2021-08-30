@@ -48,14 +48,14 @@ include: false
 
 - [A conversation with Ruth Bader Ginsburg at HLS](https://youtu.be/umvkXhtbbpk)
 - [Justice Ruth Bader Ginsburg and Geoffrey Stone, "Roe at 40"](https://youtu.be/-pVnvBCzTyI)
-- [HLS in the World | A Conversation with Six Justices of the U.S. Supreme Court](https://youtu.be/_EeU6Lo_i7I)
+- [HLS in the World \| A Conversation with Six Justices of the U.S. Supreme Court](https://youtu.be/_EeU6Lo_i7I)
 - [Supreme Court Associate Justice Anthony Kennedy visits HLS](https://youtu.be/ZHbMPnA5n0Q)
 - [Stephen Breyer Interviewed by Stephen Colbert](https://youtu.be/Oj2yh6QJJJk)
 - [Hannah Arendt "Zur Person" Full Interview (with English subtitles)](https://youtu.be/dsoImQfVsO4)
 
 ## Documentary
 
-- [The Life Of Transgender Teen Aidan Destefano: ‘I Always Felt Like I Was Different'](https://youtu.be/CQdYeKHhW4k)
+- [The Life of Transgender Teen Aidan Destefano: ‘I Always Felt Like I Was Different'](https://youtu.be/CQdYeKHhW4k)
 
 ## Informational
 
