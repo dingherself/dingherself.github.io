@@ -40,7 +40,7 @@ include: false
 
 ## Lectures & Speeches
 
-- [2017 Last Lecture Series | Dean Martha Minow](https://youtu.be/HV3fJYOJkX4)
+- [Martha Minow - 2017 Last Lecture Series](https://youtu.be/HV3fJYOJkX4)
 - [Kukla on Autonomy](https://youtu.be/hWVLS_xK7Ag)
 - [Julia Serano 2005 TransForming Community](https://youtu.be/96JTdT9tOVc)
 
