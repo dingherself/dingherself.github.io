@@ -13,6 +13,10 @@ include: false
 - [Texas OB/GYN: My Existence Is in Violation of the New Abortion Law](https://one.npr.org/?sharedMediaId=1032259863:1032259864)
 - [Missouri Dad Testifies Against Trans Youth Athlete Ban](https://youtu.be/h60YLGDJ6n0)
 
+# Podcasts
+
+- [Strict Scrutiny - Messing with Texas (9/10/21)](https://strict-scrutiny.simplecast.com/episodes/messing-with-texas) 
+
 ## Poetry
 
 - [Megan Falley - Coming Out (And Being Pushed Back In)](https://youtu.be/NsjKCRFzqhI) ([another version](https://youtu.be/bXdmKhqp1Yo))
@@ -46,12 +50,13 @@ include: false
 
 ## Interviews
 
+- Stephen Breyer September 2021 NPR interview ([part 1](https://www.youtube.com/watch?v=Jfrzui54b-A) | [part 2](https://www.youtube.com/watch?v=lDWknmgir30) | [part 3](https://www.youtube.com/watch?v=GEchXveWeSs))
 - [A conversation with Ruth Bader Ginsburg at HLS](https://youtu.be/umvkXhtbbpk)
 - [Justice Ruth Bader Ginsburg and Geoffrey Stone, "Roe at 40"](https://youtu.be/-pVnvBCzTyI)
 - [HLS in the World \| A Conversation with Six Justices of the U.S. Supreme Court](https://youtu.be/_EeU6Lo_i7I)
 - [Supreme Court Associate Justice Anthony Kennedy visits HLS](https://youtu.be/ZHbMPnA5n0Q)
 - [Stephen Breyer Interviewed by Stephen Colbert](https://youtu.be/Oj2yh6QJJJk)
-- [Hannah Arendt "Zur Person" Full Interview (with English subtitles)](https://youtu.be/dsoImQfVsO4)
+- [Hannah Arendt “Zur Person” Full Interview (with English subtitles)](https://youtu.be/dsoImQfVsO4)
 
 ## Documentaries
 
