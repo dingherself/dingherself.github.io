@@ -14,10 +14,5 @@ order: 3
 
 ## Works in Progress
 
-### “Two Senses in Which Freedom Might (Not) Require Alternative Possibilities”
+[Under reconstruction]
 
-*Abstract*: The dominant approach to the question of whether freedom requires alternative possibilities is preoccupied with the successfulness of Frankfurt-style cases. Unfortunately, the dominant approach has led us to a difficult stalemate as the opposing sides effectively endorse for Frankfurt-style cases incompatible standards of success. In this essay, I argue that the failure of the dominant approach consists in its failure to distinguish *metaphysical necessitation* and *metaphysical grounding* as two importantly different senses in which freedom might (or might not) require alternative possibilities. Drawing in part on Sally Haslanger’s pioneering work in feminist philosophy, I then propose that a helpful way to move forward is to reconceive our guiding question by explicitly asking which of the two senses better serves the *point* of Frankfurt-style cases. In developing Haslanger’s approach and extending it to the freedom and alternative possibilities debate, my hope is to explore the broader methodological potentials of a signature feminist philosophical contribution, and, in turn, to further clarify the approach for feminist philosophy.
-
-### “Disentangling the Category of Women: Amelioration for a Trans Feminist Politics of Liberation”
-
-[To be updated]
