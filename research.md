@@ -14,5 +14,10 @@ order: 3
 
 ## Works in Progress
 
-[Under reconstruction]
+### “Disentangling the Category of Women: Amelioration for a Liberatory Trans Feminism”
 
+[Abstract under reconstruction]
+
+### “Beyond Autonomy and Epistemic Authority: The Gatekeeping of Gender-Affirming Care as Sex Discrimination”
+
+[To be updated]
