@@ -13,7 +13,7 @@ include: false
 - [Texas OB/GYN: My Existence Is in Violation of the New Abortion Law](https://one.npr.org/?sharedMediaId=1032259863:1032259864)
 - [Missouri Dad Testifies Against Trans Youth Athlete Ban](https://youtu.be/h60YLGDJ6n0)
 
-# Podcasts
+## Podcasts
 
 - [Strict Scrutiny - Messing with Texas (9/10/21)](https://strict-scrutiny.simplecast.com/episodes/messing-with-texas) 
 
@@ -44,6 +44,7 @@ include: false
 
 ## Lectures & Speeches
 
+- [Katrina Karkazis - Intersex: Legal, Ethical and Human Rights Development](https://youtu.be/ZXIxA9G2ThY)
 - [Martha Minow - 2017 Last Lecture Series](https://youtu.be/HV3fJYOJkX4)
 - [Kukla on Autonomy](https://youtu.be/hWVLS_xK7Ag)
 - [Julia Serano 2005 TransForming Community](https://youtu.be/96JTdT9tOVc)
@@ -64,6 +65,7 @@ include: false
 
 ## Informational
 
+- [What It's Like To Be Intersex](https://www.youtube.com/watch?v=cAUDKEI4QKI)
 - [Bias In Medicine: Last Week Tonight with John Oliver](https://youtu.be/TATSAHJKRd8)
 - [What It's Like Being A Supreme Court Justice](https://youtu.be/h34uK7k8xRc)
 - [The problem with sex testing in sports](https://youtu.be/MiCftTLUzCI)
