@@ -18,6 +18,6 @@ order: 3
 
 [Abstract under reconstruction]
 
-### “Beyond Autonomy and Epistemic Authority: The Gatekeeping of Gender-Affirming Care as Sex Discrimination”
+### “Beyond Autonomy and Epistemic Authority: The Gatekeeping of Transition-Related Medical Care as Gender Inequality”
 
 [To be updated]
