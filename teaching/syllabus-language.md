@@ -6,7 +6,7 @@ include: false
 
 ---
 
-# Some Syllabus Language that Might Be Useful
+# Some Syllabus Language That Might Be Useful
 
 *Please feel free to incorporate the following statements in your syllabus. As I was writing them, I learned so much from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf) and [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf). If you have any feedback or suggestions for improvement, I’d love to know! (Last updated: June 2021)*
 
