@@ -16,6 +16,7 @@ include: false
 ## Podcasts
 
 - [Strict Scrutiny - Messing with Texas (9/10/21)](https://strict-scrutiny.simplecast.com/episodes/messing-with-texas) 
+- [Ear Hustle - Marcel and Angie](https://www.earhustlesq.com/episodes/2021/3/31/marcel-and-angie)
 
 ## Poetry
 
@@ -26,7 +27,9 @@ include: false
 - [Andrea Gibson - Orlando (ft. Mary Lambert)](https://youtu.be/TRUl2yfmDkk)
 - [Andrea Gibson - America Reloading](https://youtu.be/Q0a840FbnbY)
 - [Pansies attempt number 1 by Andrea Gibson](https://youtu.be/YvJ9mFzgCk4)
+- [Ray Stoeve - Dysphoria Days](https://youtu.be/3O8fkh3UoHA)
 - [Sylvia Plath - The Applicant](https://youtu.be/bxbT-86ehGo)
+- [Sonder - To The Girl I Never Was But Killed In The Process of Realizing That](https://youtu.be/ICgOrXmoYBw)
 - [Ethan Smith - A Letter to the Girl I Used to Be](https://youtu.be/Lkn06Y8prDU)
 - [Denice Frohman - A Woman's Place](https://youtu.be/NsjKCRFzqhI)
 - [Denice Frohman - Dear Straight People](https://youtu.be/5frn8TAlew0)
@@ -51,7 +54,7 @@ include: false
 
 ## Interviews
 
-- Stephen Breyer September 2021 NPR interview ([part 1](https://www.youtube.com/watch?v=Jfrzui54b-A) | [part 2](https://www.youtube.com/watch?v=lDWknmgir30) | [part 3](https://www.youtube.com/watch?v=GEchXveWeSs))
+- Stephen Breyer September 2021 NPR interview ([part 1](https://www.youtube.com/watch?v=Jfrzui54b-A); [part 2](https://www.youtube.com/watch?v=lDWknmgir30); [part 3](https://www.youtube.com/watch?v=GEchXveWeSs))
 - [A conversation with Ruth Bader Ginsburg at HLS](https://youtu.be/umvkXhtbbpk)
 - [Justice Ruth Bader Ginsburg and Geoffrey Stone, "Roe at 40"](https://youtu.be/-pVnvBCzTyI)
 - [HLS in the World \| A Conversation with Six Justices of the U.S. Supreme Court](https://youtu.be/_EeU6Lo_i7I)
@@ -66,6 +69,7 @@ include: false
 ## Informational
 
 - [What It's Like To Be Intersex](https://www.youtube.com/watch?v=cAUDKEI4QKI)
+- [If dysphoria was a person](https://youtu.be/NtUo3z3gL78)
 - [Bias In Medicine: Last Week Tonight with John Oliver](https://youtu.be/TATSAHJKRd8)
 - [What It's Like Being A Supreme Court Justice](https://youtu.be/h34uK7k8xRc)
 - [The problem with sex testing in sports](https://youtu.be/MiCftTLUzCI)
