@@ -12,6 +12,7 @@ include: false
 
 - [Texas OB/GYN: My Existence Is in Violation of the New Abortion Law](https://one.npr.org/?sharedMediaId=1032259863:1032259864)
 - [Missouri Dad Testifies Against Trans Youth Athlete Ban](https://youtu.be/h60YLGDJ6n0)
+- [Atlanta shooting: Misogyny And Racism](https://www.npr.org/2021/03/19/979336512/for-asian-american-women-misogyny-and-racism-are-inseparable-sociologist-says)
 
 ## Podcasts
 
