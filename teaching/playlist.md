@@ -10,6 +10,7 @@ include: false
 
 ## News
 
+- [Melissa Murray interview with NPR on *Dobbs*](https://www.npr.org/2021/11/28/1059649452/reproductive-rights-scholar-on-legality-of-abortion-ahead-of-scotus-case)
 - [Texas OB/GYN: My Existence Is in Violation of the New Abortion Law](https://one.npr.org/?sharedMediaId=1032259863:1032259864)
 - [Missouri Dad Testifies Against Trans Youth Athlete Ban](https://youtu.be/h60YLGDJ6n0)
 - [Atlanta shooting: Misogyny And Racism](https://www.npr.org/2021/03/19/979336512/for-asian-american-women-misogyny-and-racism-are-inseparable-sociologist-says)
@@ -23,11 +24,12 @@ include: false
 
 - [Megan Falley - Coming Out (And Being Pushed Back In)](https://youtu.be/NsjKCRFzqhI) ([another version](https://youtu.be/bXdmKhqp1Yo))
 - [Andrea Gibson - Fight For Love (ft. Megan Falley)](https://youtu.be/ZDuHb3IU47A)
-- [Andrea Gibson - Your Life](https://youtu.be/-7uazU6CI70)
+- Andrea Gibson - [The Nutritionist](https://youtu.be/x3rxp2AWLTM) / [The Madness Vase](https://youtu.be/DtZp7MQE2ZM)
 - [Andrea Gibson - A Letter To My Dog Exploring The Human Condition](https://youtu.be/hmMPZggcMp0) (and [a version ft. Squash](https://youtu.be/0B-pl242ZfA)!)
 - [Andrea Gibson - Orlando (ft. Mary Lambert)](https://youtu.be/TRUl2yfmDkk)
 - [Andrea Gibson - America Reloading](https://youtu.be/Q0a840FbnbY)
 - [Pansies attempt number 1 by Andrea Gibson](https://youtu.be/YvJ9mFzgCk4)
+- [Andrea Gibson - Your Life](https://youtu.be/-7uazU6CI70)
 - [Ray Stoeve - Dysphoria Days](https://youtu.be/3O8fkh3UoHA)
 - [Sylvia Plath - The Applicant](https://youtu.be/bxbT-86ehGo)
 - [Sonder - To The Girl I Never Was But Killed In The Process of Realizing That](https://youtu.be/ICgOrXmoYBw)
