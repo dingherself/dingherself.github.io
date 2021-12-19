@@ -12,11 +12,9 @@ include: false
 
 ## Table of Contents
 
-[1. Respect, Support and Care for One Another](#1-respect-support-and-care-for-one-another)
-
-[2. Student Support Resources](#2-student-support-resources)
-
-[3. (Lack of) Diversity in Philosophy](#3-lack-of-diversity-in-philosophy)
+1. [Respect, Support and Care for One Another](#1-respect-support-and-care-for-one-another)
+2. [Student Support Resources](#2-student-support-resources)
+3. [(Lack of) Diversity in Philosophy](#3-lack-of-diversity-in-philosophy)
 
 <center>*&ensp;*&ensp;*</center>
 
