@@ -7,8 +7,8 @@ include: false
 
 <img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/JA614A.jpg %}" alt="A picture of All Nippon Airways' Boeing 767-300 ER aircraft, painted with the Star Alliance livery. Shot at Chengdu Shuangliu International Airport on January 5, 2017.">
 
-<p class="mt-1" style="color: #787878;">ANA’s Boeing 767-300 ER (<a href="https://www.jetphotos.com/registration/JA614A">JA614A</a> as NH948) with Star Alliance livery<br />
-(January 5, 2017 @ Chengdu Shuangliu)</p>
+<p class="mt-1" style="color: #777;"><small>ANA’s Boeing 767-300 ER (<a href="https://www.jetphotos.com/registration/JA614A">JA614A</a> as NH948) with Star Alliance livery<br />
+  (January 5, 2017 @ Chengdu Shuangliu)</small></p>
 # Airliners
 
 [Map](https://my.flightradar24.com/shannon403)
@@ -79,8 +79,8 @@ include: false
 </ol>
 <img class="img-fluid mt-3" src="{{ site.baseurl }}{% link assets/images/IMG_0913-min.JPG %}" alt="The look of the left wing of an ANA Boeing 787-8 aircraft from the window seat while in the air, with Mt. Fuji in the background. Shot somewhere near and above Tokyo on May 24, 2018.">
 
-<p class="mt-1 mb-4" style="color: #787878;">Fujisan (Mt. Fuji) with the Dreamliner’s (<a href="https://www.jetphotos.com/registration/JA878A">JA878A</a> as NH955) Gorgeous Wingspan<br />
-(May 24, 2018 @ Somewhere near & above Tokyo)</p>
+<p class="mb-4" style="color: #777;"><small>Fujisan (Mt. Fuji) with the Dreamliner’s (<a href="https://www.jetphotos.com/registration/JA878A">JA878A</a> as NH955) Gorgeous Wingspan<br />
+(May 24, 2018 @ Somewhere near & above Tokyo)</small></p>
 <ol start="6">
   <li>Airbus A350-900
     <ol>

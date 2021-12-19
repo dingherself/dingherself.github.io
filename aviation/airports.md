@@ -6,8 +6,8 @@ include: false
 ---
 
 <img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/IMG_0245_reduced_size.jpg %}">
-<p class="mt-1" style="color: #787878;">Sichuan Airlines’s Airbus A350-900 (<a href="hhttps://www.jetphotos.com/registration/B-301D">B301D</a> as 3U8699) with Panda Livery<br />
-(July 17, 2019 @ Chengdu Shuangliu)</p>
+<p style="color: #777;"><small>Sichuan Airlines’s Airbus A350-900 (<a href="hhttps://www.jetphotos.com/registration/B-301D">B301D</a> as 3U8699) with Panda Livery<br />
+(July 17, 2019 @ Chengdu Shuangliu)</small></p>
 
 # Airports
 
@@ -192,4 +192,3 @@ This is a list of the airports I've visited (or I'm about to visit). Usually onl
  	<li><a href="https://en.wikipedia.org/wiki/Kunming_Wujiaba_International_Airport">Kunming Wujiaba International Airport</a> (KMH/ZPPP), Kunming, China&mdash;around 2007</li>
  	<li><a href="https://en.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport">Guangzhou Baiyun International Airport</a> (CAN/ZGGG), Guangzhou, China&mdash;around 2002</li>
  	<li><a href="https://en.wikipedia.org/wiki/Guiyang_Longdongbao_International_Airport">Guiyang Longdongbao International Airport</a> (KWE/ZUGY), Guiyang, China</li>
-
