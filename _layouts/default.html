@@ -11,21 +11,31 @@
       <div class="container">
         <div class="row justify-content-center">
           {%- if page.headerpicurl -%}
-            <div class="col-12 col-lg-offset-1">
-            <p><img class="img-fluid" src="{{ page.headerpicurl | prepend: site.baseurl }}" alt="{{ page.headerpicalt }}"></p>
+            <div class="col-12 col-lg-6">
+          {%- else -%}
+            <div class="col-12 col-lg-9">
+          {%- endif -%}
+            {{ content }}
+          </div>
+          {%- if page.headerpicurl -%}
+            <div class="col-12 col-lg-5">
+            <p><a href="{{ page.headerpicurl | prepend: site.baseurl }}"><img class="img-fluid mt-2" src="{{ page.headerpicurl | prepend: site.baseurl }}" alt="{{ page.headerpicalt }}"></a></p>
               {%- if page.headerpictext -%}
-                <p style="color: #777;"><small>{{ page.headerpictext }}</small></p>
+                <p style="color: #777; margin-top: -0.5rem;"><small>{{ page.headerpictext }}</small></p>
               {%- endif -%}
             </div>
           {%- endif -%}
-          <div class="col-12 col-lg-11">
-            {{ content }}
-          </div>
         </div>
       </div>
     </main>
 
-    {% include footer.html %}
+    <footer class="container" style="padding-bottom: 3rem;">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-11">
+          <!--{% include footer.html %}-->
+        </div>
+      </div>
+    </footer>
     {% include scripts.html %}
   </body>
 </html>

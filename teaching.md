@@ -2,8 +2,6 @@
 layout: default
 title: Teaching
 permalink: /teaching/
-headerpicurl: /assets/images/the-oval.jpg
-headerpicalt: A photo of the Oval, a huge lawn located at the center of The Ohio State University's Columbus campus, covered in beautiful snow.
 group: navigation
 order: 4
 ---

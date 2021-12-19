@@ -1,12 +1,27 @@
----
-layout: default
----
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
 
-<div class="container my-5">
-  <main class="bd-content" role="main">
-    <h1 class="bd-title" id="content">{{ page.title | smartify }}</h1>
-    <p class="bd-lead">{{ page.description | smartify }}</p>
-    {% include ads.html %}
-    {{ content }}
-  </main>
-</div>
+    {% include navbar.html %}
+
+    <main id="content" role="main" class="container">
+      <div class="container">
+        <div class="row justify-content-center">
+          {{ content }}
+        </div>
+      </div>
+    </main>
+
+    <footer class="container" style="padding-bottom: 3rem;">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-11">
+          <!--{% include footer.html %}-->
+        </div>
+      </div>
+    </footer>
+    {% include scripts.html %}
+  </body>
+</html>
