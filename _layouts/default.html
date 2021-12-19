@@ -7,15 +7,23 @@
 
     {% include navbar.html %}
 
-    {% if page.layout == "simple" %}
-      {{ content }}
-    {% else %}
-      <main id="content" role="main" class="container">
-        <div class="container">
-        {{ content }}
+    <main id="content" role="main" class="container">
+      <div class="container">
+        <div class="row justify-content-center">
+          {%- if page.headerpicurl -%}
+            <div class="col-12 col-lg-offset-1">
+            <p><img class="img-fluid" src="{{ page.headerpicurl | prepend: site.baseurl }}" alt="{{ page.headerpicalt }}"></p>
+              {%- if page.headerpictext -%}
+                <p class="mt-1" style="color: #434343;"><small>{{ page.headerpictext }}</small></p>
+              {%- endif -%}
+            </div>
+          {%- endif -%}
+          <div class="col-12 col-lg-11">
+            {{ content }}
+          </div>
         </div>
-      </main>
-    {% endif %}
+      </div>
+    </main>
 
     {% include footer.html %}
     {% include scripts.html %}

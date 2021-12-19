@@ -2,11 +2,11 @@
 layout: default
 title: Teaching
 permalink: /teaching/
+headerpicurl: /assets/images/the-oval.jpg
+headerpicalt: A photo of the Oval, a huge lawn located at the center of The Ohio State University's Columbus campus, covered in beautiful snow.
 group: navigation
 order: 4
 ---
-
-<img class="img-fluid mt-2" src="{{ site.baseurl }}{% link assets/images/the-oval.jpg %}" alt="A photo of the Oval, which is a huge lawn located at the center of The Ohio State University's Columbus campus, covered in beautiful snow.">
 
 # Teaching
 
@@ -16,7 +16,7 @@ order: 4
 
 This course examines logical reasoning and conceptual analysis in the law, with a focus on the U.S. Supreme Court’s interpretation of the equal protection and due process requirements of the 14th Amendment. Topics will include deductive reasoning, analogical reasoning, conceptual analysis, stare decisis, the shadow docket, racial discrimination, affirmative action, sex discrimination, LGBTQ+ discrimination, and reproductive freedom.
 
-[Draft syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-203-syllabus-spring-2022-draft %})
+[Draft syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-203-syllabus-spring-2022-draft.pdf %})
 
 ### Phil 321: Medical Ethics (In-Person, Fall 2021)
 

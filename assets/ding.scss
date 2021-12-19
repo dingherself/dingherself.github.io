@@ -8,7 +8,7 @@
 // Ding's variable overrides
 
 $font-family-sans-serif:
-baskerville-urw,
+linotype-sabon,
 // Safari for OS X and iOS (San Francisco)
 -apple-system,
 // Chrome < 56 for OS X (San Francisco)
@@ -35,7 +35,7 @@ $navbar-light-hover-color: rgba($black, 1.0);
 $navbar-light-active-color: rgba($dingred, .8);
 $navbar-light-toggler-border-color: rgba($black, .4);
 
-$line-height-base: 1.7;
+$line-height-base: 1.5;
 
 $font-size-base: 1rem;  // Assumes the browser default, typically 1rem = 16px; we change the browser default later
 
@@ -103,7 +103,7 @@ html {
 
 h1,
 .h1 {
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
@@ -116,7 +116,13 @@ h2,
 h3,
 .h3 {
   margin-top: 1.25rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+h4,
+.h4 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
 }
 
 .btn-sm, .btn-group-sm > .btn {
