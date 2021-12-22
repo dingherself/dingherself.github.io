@@ -3,7 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Bootstrap · Content moved</title>
+    <title>
+      {%- if page.title -%}
+        {{ page.title | smartify }} · {{ site.title | smartify }}
+      {%- else -%}
+        {{ site.title | smartify }} · {{ site.description | smartify }}
+      {%- endif -%}
+    </title>
     <link rel="canonical" href="{{ page.redirect.to }}">
     <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
     <meta name="robots" content="noindex">
