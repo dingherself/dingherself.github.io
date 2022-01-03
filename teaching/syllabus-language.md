@@ -24,7 +24,7 @@ include: false
 
 Since many of the issues we will cover in this course are not only intellectually but also *personally* relevant, you might find it difficult to read and discuss certain course materials. I want to acknowledge that. It’s perfectly understandable.
 
-It’s therefore important that we *respect*, *support* and *care for* one another throughout the course. Please always feel free to talk to me if you anticipate certain topics will be especially difficult for you, or if you think the way they get discussed in the class is disrespectful or otherwise problematic.
+It’s therefore important that we *respect*, *support*, and *care for* one another throughout the course. Please always feel free to talk to me if you anticipate certain topics will be especially difficult for you, or if you think the way they get discussed in the class is disrespectful or otherwise problematic.
 
 ### How to Respect, Support, and Care for One Another
 
