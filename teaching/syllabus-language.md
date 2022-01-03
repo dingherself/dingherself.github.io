@@ -12,13 +12,13 @@ include: false
 
 ## Table of Contents
 
-1. [Respect, Support and Care for One Another](#1-respect-support-and-care-for-one-another)
+1. [Respect, Support, and Care for One Another](#1-respect-support-and-care-for-one-another)
 2. [Student Support Resources](#2-student-support-resources)
 3. [(Lack of) Diversity in Philosophy](#3-lack-of-diversity-in-philosophy)
 
 <center>*&ensp;*&ensp;*</center>
 
-## 1. Respect, Support and Care for One Another
+## 1. Respect, Support, and Care for One Another
 
 ### Materials in This Course
 
@@ -26,7 +26,7 @@ Since many of the issues we will cover in this course are not only intellectuall
 
 It’s therefore important that we *respect*, *support* and *care for* one another throughout the course. Please always feel free to talk to me if you anticipate certain topics will be especially difficult for you, or if you think the way they get discussed in the class is disrespectful or otherwise problematic.
 
-### How to Respect, Support and Care for One Another
+### How to Respect, Support, and Care for One Another
 
 Here are some concrete examples of how you can respect, support and care for your classmates and instructor:
 
