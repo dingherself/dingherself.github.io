@@ -12,9 +12,9 @@ order: 4
 
 ### Phil 203: Logic in Law (In-Person, Spring 2022)
 
-This course examines logical reasoning and conceptual analysis in the law, with a focus on the U.S. Supreme Court’s interpretation of the equal protection and due process requirements of the 14th Amendment. Topics will include deductive reasoning, analogical reasoning, conceptual analysis, stare decisis, the shadow docket, racial discrimination, affirmative action, sex discrimination, LGBTQ+ discrimination, and reproductive freedom.
+This course examines logical reasoning and conceptual analysis in the law, with a focus on the U.S. Supreme Court’s interpretation of the equal protection and due process requirements of the 14th Amendment. Topics will include deductive reasoning, analogical reasoning, conceptual analysis, stare decisis, the shadow docket, racial discrimination, affirmative action, sex discrimination, LGBTQ+ discrimination, reproductive freedom, and physician-assisted suicide.
 
-[Draft syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-203-syllabus-spring-2022-draft.pdf %})
+[Syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-203-syllabus-spring-2022.pdf %})
 
 ### Phil 321: Medical Ethics (In-Person, Fall 2021)
 
