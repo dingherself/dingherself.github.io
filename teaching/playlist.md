@@ -24,6 +24,7 @@ include: false
 
 - [Megan Falley - Coming Out (And Being Pushed Back In)](https://youtu.be/NsjKCRFzqhI) ([another version](https://youtu.be/bXdmKhqp1Yo))
 - [Andrea Gibson - Fight For Love (ft. Megan Falley)](https://youtu.be/ZDuHb3IU47A)
+- [Andrea Gibson - Love Me To Life](https://youtu.be/69JfFjlgRqw)
 - Andrea Gibson - [The Nutritionist](https://youtu.be/x3rxp2AWLTM) / [The Madness Vase](https://youtu.be/DtZp7MQE2ZM)
 - [Andrea Gibson - A Letter To My Dog Exploring The Human Condition](https://youtu.be/hmMPZggcMp0) (and [a version ft. Squash](https://youtu.be/0B-pl242ZfA)!)
 - [Andrea Gibson - Orlando (ft. Mary Lambert)](https://youtu.be/TRUl2yfmDkk)
