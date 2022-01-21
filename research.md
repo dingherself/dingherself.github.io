@@ -10,18 +10,10 @@ order: 3
 
 ## Works in Progress
 
-### “Disentangling the Category of Women: Amelioration for a Liberatory Trans Feminism”
+### “Pregnant Persons as a Gender Category: A Trans Feminist Analysis of Pregnancy Discrimination”
 
-[Abstract under reconstruction]
+*Abstract*: How can we make sense of pregnancy discrimination as a form of sex discrimination in light of the reality of gender variance? In a curious 1974 case, *Geduldig v. Aiello*, the U.S. Supreme Court has seemingly suggested that we cannot—on the Court’s analysis, it is simply conceptually impossible for pregnancy discrimination to be based on sex because the distinction being drawn is between pregnant and nonpregnant persons, not between women and men. Unfortunately, in responding to the *Geduldig* line of cases, feminist philosophers of law have often proceeded straight on an awkwardly essentialist conception of gender, locating the sex discrimination in the “direct” relation pregnancy is thought to bear on womanhood. In this essay, I develop a trans feminist account of pregnancy discrimination that takes seriously the authenticity of trans/nonbinary people’s genders. My account begins with the recognition that it’s an analytical mistake to conflate gender categories with the categories of women and men. Instead, I suggest that any adequate account of pregnancy discrimination as sex discrimination must respect pregnant persons as a gender category in its own right and as on equal ontic standing with women and men. So conceived, the pluralist trans feminism offered here is not only a *political* but an *ontological* gender egalitarianism—in virtue of this, it is able to safely disentangle womanhood from reproductive biology without discounting the irreducibly gendered ways in which pregnant persons are systematically targeted for injustices qua pregnant persons.
 
 ### “Beyond Autonomy and Epistemic Authority: The Gatekeeping of Transition-Related Medical Care as Gender Inequality”
 
 [To be updated]
-
-<!--
-<div class="row text-center">
-<p><img class="img-fluid mt-2" style="width: 90%;" src="{{ site.baseurl }}{% link assets/images/I-cant-make-sense-of-this-guy.jpg %}" alt="A scene from the HBO series The Deuce. The person in the scene has been reading Kant's Critique of Pure Reason, and complains to a person off camera: 'I can't make sense of this guy.'"></p>
-<p style="color: #777;"><small><em>The Deuce</em> S1E7. Fair use.</small></p>
-</div>
--->
-
