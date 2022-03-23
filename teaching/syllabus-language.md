@@ -65,10 +65,10 @@ If you feel any aspect of this course makes it difficult for you to participate 
 
 ### Crisis Resources
 
--   National Suicide Prevention Lifeline: call 800-273-TALK (8255) or chat online at <https://suicidepreventionlifeline.org/chat>
+-   National Suicide Prevention Lifeline: call 800-273-TALK (8255)
 -   National Sexual Assault Hotline: call 800-656-HOPE (4673) or chat online (English and Spanish) at <https://www.rainn.org/resources>
--   Love Is Respect (dating abuse helpline for youth between 13 and 26): call 866-331-9474, text “LOVEIS” to 22522 or chat online at <https://www.loveisrespect.org/get-help>
--   Trevor Lifeline (for LGBTQ+ youth under 25): call 866-488-7386, text “START” to 678-678 or chat online at <https://www.thetrevorproject.org/get-help-now>
+-   Love Is Respect (dating abuse helpline for youth between 13 and 26): call 866-331-9474, text “LOVEIS” to 22522, or chat online at <https://www.loveisrespect.org/get-help>
+-   Trevor Lifeline (for LGBTQ+ youth under 25): call 866-488-7386, text “START” to 678-678, or chat online at <https://www.thetrevorproject.org/get-help-now>
 -   Trans Lifeline (operators are all trans/nonbinary people): call 877-565-8860 (English and Spanish)
 -   CAPS Crisis Resources, Hotlines and Apps: <https://health.arizona.edu/crisis-resources-and-hotlines>
 
