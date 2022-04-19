@@ -1,22 +1,22 @@
 ---
 ---
 
-// Freight Text Pro fonts from Adobe; font-weights from 400 to 700
+// Adobe Font
 
 @import url("https://use.typekit.net/vnw4sgb.css");
 
 // Ding's variable overrides
 
 $font-family-sans-serif:
-linotype-sabon,
+athelas,
 // Safari for OS X and iOS (San Francisco)
 -apple-system,
 // Chrome < 56 for OS X (San Francisco)
 BlinkMacSystemFont,
 // Windows
-"Segoe UI",
+//"Segoe UI",
 // Android
-"Roboto",
+//"Roboto",
 // Basic web fallback
 "Times New Roman", Times, serif,
 // Emoji fonts
@@ -83,12 +83,20 @@ $headings-font-weight: 700;
 //////////////////////////
 
 html {
-  font-size: 16px;
+  font-size: 17px;
+  font-variant-ligatures: common-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: no-historical-ligatures;
+  font-variant-ligatures: contextual;
 }
 
-@include media-breakpoint-up(xxl) {
+@include media-breakpoint-up(xl) {
   html {
-    font-size: 18px;
+    font-size: 19px;
+    font-variant-ligatures: common-ligatures;
+    font-variant-ligatures: discretionary-ligatures;
+    font-variant-ligatures: no-historical-ligatures;
+    font-variant-ligatures: contextual;
   }
 }
 
