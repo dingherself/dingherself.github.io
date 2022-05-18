@@ -14,7 +14,7 @@ order: 4
 
 This course examines logical reasoning and conceptual analysis in the law, with a focus on the U.S. Supreme Court’s interpretation of the equal protection and due process requirements of the Fourteenth Amendment. Topics will include constitutional interpretation, *stare decisis*, the shadow docket, race discrimination, sex discrimination, reproductive rights, physician-assisted suicide, and LGBTQ+ rights.
 
-[Draft syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-203-syllabus-fall-2022-draft %})
+[Draft syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-203-syllabus-fall-2022-draft.pdf %})
 
 ### Phil 321: Medical Ethics
 
