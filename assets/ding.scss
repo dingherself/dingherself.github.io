@@ -88,6 +88,7 @@ html {
   font-variant-ligatures: discretionary-ligatures;
   font-variant-ligatures: no-historical-ligatures;
   font-variant-ligatures: contextual;
+  font-variant-numeric: oldstyle-nums;
 }
 
 @include media-breakpoint-up(xl) {
@@ -97,6 +98,7 @@ html {
     font-variant-ligatures: discretionary-ligatures;
     font-variant-ligatures: no-historical-ligatures;
     font-variant-ligatures: contextual;
+    font-variant-numeric: oldstyle-nums;
   }
 }
 

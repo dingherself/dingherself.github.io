@@ -10,19 +10,19 @@ order: 4
 
 ## Courses
 
-### Phil 203: Logic in Law (In-Person, Spring 2022)
+### Phil 203: Logic in Law
 
-This course examines logical reasoning and conceptual analysis in the law, with a focus on the U.S. Supreme Court’s interpretation of the equal protection and due process requirements of the 14th Amendment. Topics will include deductive reasoning, analogical reasoning, conceptual analysis, stare decisis, the shadow docket, racial discrimination, affirmative action, sex discrimination, LGBTQ+ discrimination, reproductive freedom, and physician-assisted suicide.
+This course examines logical reasoning and conceptual analysis in the law, with a focus on the U.S. Supreme Court’s interpretation of the equal protection and due process requirements of the Fourteenth Amendment. Topics will include constitutional interpretation, *stare decisis*, the shadow docket, race discrimination, sex discrimination, reproductive rights, physician-assisted suicide, and LGBTQ+ rights.
 
-[Syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-203-syllabus-spring-2022.pdf %})
+[Draft syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-203-syllabus-fall-2022-draft %})
 
-### Phil 321: Medical Ethics (In-Person, Fall 2021)
+### Phil 321: Medical Ethics
 
 In this course, we will examine a variety of normative issues in and about medicine. Many of the topics we are going to discuss are more or less standard in a medical ethics course, such as harm, abortion, physician-assisted suicide, medical paternalism and patient autonomy. But what makes our course distinct is we will also look at critical approaches that seek to challenge and expand the traditional themes and positions. Specifically, we will consider feminist relational conceptions of autonomy, the continued debate between biological determinism and social constructivism, epistemic injustice in the practice of medicine, the politics of reproductive care and gender-affirming care, the medical policing of intersex, trans, racialized and disabled bodies, and the connection between lived experiences of the body and structural injustice. In so doing, our aim is to further explore the ethics of medical care in light of its broader political and social significance.
 
 [Syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-321-syllabus-fall-2021.pdf %})
 
-### Phil 324: Law and Morality (Asynchronous Online, Summer 2021)
+### Phil 324: Law and Morality
 
 This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality and explore their jurisprudential implications. Topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ equality.
 
