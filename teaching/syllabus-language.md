@@ -8,7 +8,7 @@ include: false
 
 # Some Syllabus Language That Might Be Useful
 
-*Please feel free to incorporate the following statements in your syllabus. I had so much to learn from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf), [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf), and so many of the syllabi shared by graduate students in the UA philosophy department. If you have any feedback or suggestions for improvement, I’d love to know! (Last updated: December 2021)*
+*Please feel free to incorporate the following statements in your syllabus. I had so much to learn from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf), [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf), and so many of the syllabi shared by graduate students in the UA philosophy department. If you have any feedback or suggestions for improvement, I’d love to know! (Last updated: May 2022)*
 
 ## Table of Contents
 
@@ -57,7 +57,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 
 ## 2. Student Support Resources
 
-### Campus Health Services
+### Campus Health
 
 -   Campus Health: <https://health.arizona.edu>
 -   Counseling and Psych Services (CAPS): <https://health.arizona.edu/counseling-psych-services>
@@ -78,7 +78,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 -   Survivor Advocacy: <https://survivoradvocacy.arizona.edu>
 -   Fostering Success: <https://fosteringsuccess.arizona.edu>
 
-### Academic Advising
+### Advising
 
 -   Find Your Philosophy Advisor: <https://philosophy.arizona.edu/advising>
 -   Become a Philosophy Major: <https://philosophy.arizona.edu/why-study-philosophy>
@@ -88,7 +88,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 -   Think Tank Writing Center: <https://thinktank.arizona.edu/writing-center>
 -   Writing Skills Improvement Program: <https://wsip.arizona.edu>
 
-### Food Security
+### Food Bank
 
 -   Campus Pantry: <https://campuspantry.arizona.edu>
 
@@ -106,7 +106,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 
 ## 3. (Lack of) Diversity in Philosophy
 
-Unfortunately, philosophy as an institutionalized discipline is remarkably white, cis male, straight, and able-bodied. This lack of diversity is often apparent just from the topics and authors typically taught in introductory philosophy courses. However, philosophy as a whole is becoming more and more diverse thanks to the efforts of several generations of philosophers. As a philosophy student, you can also help the profession address its diversity and inclusiveness problems by engaging with minority authors seriously and supporting your fellow minority students.
+Unfortunately, philosophy as an institutionalized discipline is remarkably white, cis male, straight, able-bodied, and middle-class. This lack of diversity is often apparent just from the topics and authors typically taught in introductory philosophy courses. However, philosophy as a whole is becoming more and more diverse thanks to the efforts of several generations of philosophers. As a philosophy student, you can also help the profession address its diversity and inclusiveness problems by engaging with minority authors seriously and supporting your fellow minority students.
 
 The American Philosophical Association (APA) has a useful handout for minority undergraduate students in philosophy, which you can read here: <https://www.apaonline.org/resource/resmgr/diversity/Advice_for_Undergrads.pdf>.
 
