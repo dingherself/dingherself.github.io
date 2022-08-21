@@ -16,6 +16,7 @@ order: 3
 
 (Rough draft available upon request.)
 
-### On Our Own Terms: Meaning Crafting, Trans Siblinghood, and the Metasemantics of “Woman”
+### “On Our Own Terms: Meaning Crafting, Trans Siblinghood, and the Metasemantics of ‘Woman’”
 
 [under construction]
+
