@@ -2,6 +2,7 @@
 ---
 
 User-agent: *
+Disallow: ding.jpg
 Disallow: ding.jpeg
 Disallow: ding-cv.pdf
 Disallow: /s/
