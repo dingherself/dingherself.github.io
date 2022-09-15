@@ -147,3 +147,8 @@ h5, .h5 {
 h6, .h6 {
   font-weight: 500;
 }
+
+.gx-6 {
+  --bs-gutter-x: 4.5rem !important;
+  --bs-gutter-y: 4.5rem !important;
+}
