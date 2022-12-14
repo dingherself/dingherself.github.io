@@ -10,15 +10,15 @@
 $font-family-sans-serif:
 athelas,
 // Safari for OS X and iOS (San Francisco)
--apple-system,
+//-apple-system,
 // Chrome < 56 for OS X (San Francisco)
-BlinkMacSystemFont,
+//BlinkMacSystemFont,
 // Windows
 //"Segoe UI",
 // Android
 //"Roboto",
 // Basic web fallback
-"Times New Roman", Times, serif,
+"Palatino", "Times New Roman", Times, serif,
 // Emoji fonts
 "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
@@ -83,7 +83,7 @@ $headings-font-weight: 700;
 //////////////////////////
 
 html {
-  font-size: 17px;
+  font-size: 18px;
   font-variant-ligatures: common-ligatures;
   font-variant-ligatures: discretionary-ligatures;
   font-variant-ligatures: no-historical-ligatures;
@@ -93,7 +93,7 @@ html {
 
 @include media-breakpoint-up(xl) {
   html {
-    font-size: 19px;
+    font-size: 20px;
     font-variant-ligatures: common-ligatures;
     font-variant-ligatures: discretionary-ligatures;
     font-variant-ligatures: no-historical-ligatures;

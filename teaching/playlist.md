@@ -6,7 +6,7 @@ include: false
 
 ---
 
-# Playlist for Teaching
+# Playlist for teaching
 
 ## News
 
@@ -49,7 +49,7 @@ include: false
 
 - [Taylor Swift - The Man](https://youtu.be/AqAJLh9wuZ0)
 
-## Lectures & Speeches
+## Lectures & speeches
 
 - [Katrina Karkazis - Intersex: Legal, Ethical and Human Rights Development](https://youtu.be/ZXIxA9G2ThY)
 - [Martha Minow - 2017 Last Lecture Series](https://youtu.be/HV3fJYOJkX4)
@@ -78,7 +78,7 @@ include: false
 - [What It's Like Being A Supreme Court Justice](https://youtu.be/h34uK7k8xRc)
 - [The problem with sex testing in sports](https://youtu.be/MiCftTLUzCI)
 
-## Court & Congressional Proceedings
+## Court & congressional proceedings
 
 - [The Supreme Court's Shadow Docket](https://youtu.be/oC1Vo-MJ9IQ)
 - [Safe and Sanitary-Toothbrushes and Soap for Detained Immigrants](https://youtu.be/x-iWJEOrKYg)
