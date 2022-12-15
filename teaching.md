@@ -18,7 +18,7 @@ What is the nature of patriarchy, and what would it take to smash it? Can there 
 
 ### Phil 203: Logic in law (Fall 2022; Spring 2022)
 
-This course examines logical reasoning and conceptual analysis in the law, with a focus on the U.S. Supreme Court’s interpretation of the equal protection and due process requirements of the Fourteenth Amendment. Topics will include constitutional interpretation, *stare decisis*, the shadow docket, race discrimination, sex discrimination, reproductive rights, physician-assisted suicide, and LGBTQ+ rights.
+This course examines logical reasoning and conceptual analysis in the law, with a focus on the U.S. Supreme Court’s interpretation of the equal protection and due process requirements of the Fourteenth Amendment. Topics will include constitutional interpretation, *stare decisis*, the shadow docket, racial discrimination, sex discrimination, reproductive rights, physician-assisted suicide, and LGBTQ+ rights.
 
 [Syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-203-syllabus-fall-2022.pdf %})
 
