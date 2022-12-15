@@ -10,7 +10,7 @@ order: 3
 
 ## Works in progress
 
-*Please email me for the most recent drafts! :-)*
+<p><i>Please email me for the most recent drafts! <span style="white-space: nowrap;">:-)</span></i></p>
 
 ### “On Our Own Terms: Trans Women Crafting the Meaning of ‘Woman’”
 
