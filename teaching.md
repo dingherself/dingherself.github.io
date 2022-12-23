@@ -39,4 +39,4 @@ This course is an introduction to the philosophy of law in general and feminist 
 ## Resources for instructors
 
 - [Some syllabus language that might be useful]({{ site.baseurl }}{% link teaching/syllabus-language.md %})
-
+- [Following the U.S. Supreme Court online]({{ site.baseurl }}{% link teaching/how-to-follow-the-court.pdf %})
