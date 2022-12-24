@@ -14,7 +14,7 @@ order: 4
 
 What is the nature of patriarchy, and what would it take to smash it? Can there be pleasure under oppression in the meantime? What is it to be gendered, to be sexed, to be constructed? What does being a woman mean to queer and trans women? Who and what is feminism ultimately a movement for? In this course, we will trace the development of contemporary feminist philosophy from the early days of the women’s liberation movement to the present, with an emphasis on trans and queer voices, issues, and experiences throughout this fraught history.
 
-[Syllabus (draft)]({{ site.baseurl }}{% link teaching/syllabus/ding-330-syllabus-spring-2023-draft.pdf %})
+(Syllabus under construction)
 
 ### Phil 203: Logic in law (Fall 2022; Spring 2022)
 
