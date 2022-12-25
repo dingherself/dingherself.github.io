@@ -28,7 +28,7 @@ It’s therefore important that we *respect*, *support*, and *care for* one anot
 
 ### How to respect, support, and care for one another
 
-Here are some concrete examples of how you can respect, support and care for your classmates and instructor:
+Here are some concrete examples of how you can respect, support, and care for your classmates and instructor:
 
 #### Class discussions
 
