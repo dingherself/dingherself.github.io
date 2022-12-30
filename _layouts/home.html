@@ -33,15 +33,15 @@
     <div class="container px-3">
       <div class="row justify-content-center align-items-center gx-5">
         {%- if page.headerpicurl -%}
-        <div class="col-12 col-md-7 col-lg-6 col-xxl-5">
-          <p style="text-align:center;"><a href="{{ page.headerpicurl | prepend: site.baseurl }}"><img class="img-fluid mt-2 float-left mw-100" style="width: 450px;" src="{{ page.headerpicurl | prepend: site.baseurl }}" alt="{{ page.headerpicalt }}"></a></p>
+        <div class="col-11 col-md-6 col-xxl-5 mt-2 mt-lg-0">
+          <p style="text-align:center;"><a href="{{ page.headerpicurl | prepend: site.baseurl }}"><img class="img-fluid mt-2 float-left mw-100 headerphoto" src="{{ page.headerpicurl | prepend: site.baseurl }}" alt="{{ page.headerpicalt }}"></a></p>
           {%- if page.headerpictext -%}
             <p style="text-align:center; color: #777; margin-top: -0.5rem;"><small>{{ page.headerpictext }}</small></p>
           {%- endif -%}
         </div>
-        <div class="col-12 col-lg-6 col-xxl-7">
+        <div class="col-12 col-md-6 col-xxl-7 maincontent">
       {%- else -%}
-        <div class="col-12 col-md-11 col-xxl-10">
+        <div class="col-12 col-lg-8 col-xxl-7 maincontent">
       {%- endif -%}
         {{ content }}
         </div>
@@ -51,7 +51,7 @@
 
   <footer class="container" style="padding-bottom: 3rem;">
     <div class="row justify-content-center">
-      <div class="col-12 col-md-11 col-xxl-10">
+      <div class="col-12 col-lg-8 col-xxl-7">
         <!--{% include footer.html %}-->
       </div>
     </div>

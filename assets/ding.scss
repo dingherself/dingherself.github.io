@@ -41,11 +41,11 @@ $lead-font-size: (
 );
 
 $h1-font-size: (
-  $font-size-base * 1.5
+  $font-size-base * 1.35
 );
 
 $h2-font-size: (
-  $font-size-base * 1.2
+  $font-size-base * 1.125
 );
 
 $h3-font-size: (
@@ -91,14 +91,21 @@ html {
   font-variant-numeric: oldstyle-nums;
 }
 
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 19px;
+  }
+}
+
 @include media-breakpoint-up(xl) {
   html {
     font-size: 20px;
-    font-variant-ligatures: common-ligatures;
-    font-variant-ligatures: discretionary-ligatures;
-    font-variant-ligatures: no-historical-ligatures;
-    font-variant-ligatures: contextual;
-    font-variant-numeric: oldstyle-nums;
+  }
+}
+
+@include media-breakpoint-up(xxl) {
+  html {
+    font-size: 21px;
   }
 }
 
@@ -151,4 +158,24 @@ h6, .h6 {
 .gx-6 {
   --bs-gutter-x: 4.5rem !important;
   --bs-gutter-y: 4.5rem !important;
+}
+
+.maincontent {
+  max-width: 660px;
+ }
+
+ .headerphoto {
+  width: 425px;
+ }
+
+ @include media-breakpoint-up(md) {
+  .headerphoto {
+    width: 435px;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  .headerphoto {
+    width: 450px;
+  }
 }
