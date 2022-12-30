@@ -105,7 +105,7 @@ html {
 
 @include media-breakpoint-up(xxl) {
   html {
-    font-size: 21px;
+    font-size: 22px;
   }
 }
 
@@ -161,20 +161,28 @@ h6, .h6 {
 }
 
 .maincontent {
-  max-width: 660px;
- }
+  max-width: 610px;
+}
 
- .headerphoto {
-  width: 425px;
- }
+.headerphoto {
+ width: 425px;
+}
 
- @include media-breakpoint-up(md) {
+@include media-breakpoint-up(md) {
+  .maincontent {
+    max-width: 660px;
+  }
+
   .headerphoto {
     width: 435px;
   }
 }
 
-@include media-breakpoint-up(xl) {
+@include media-breakpoint-up(xxl) {
+  .maincontent {
+    max-width: 720px;
+  }
+
   .headerphoto {
     width: 450px;
   }
