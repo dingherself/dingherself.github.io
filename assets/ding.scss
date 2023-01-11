@@ -174,8 +174,9 @@ h6, .h6 {
   }
 
   .headerphoto {
-    width: 435px;
+    width: 450px;
   }
+
 }
 
 @include media-breakpoint-up(xxl) {
@@ -184,6 +185,8 @@ h6, .h6 {
   }
 
   .headerphoto {
-    width: 450px;
+    width: 475px;
   }
+
 }
+
