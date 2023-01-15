@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Some Syllabus Language that Might Be Useful
+title: Some Syllabus Language That Might Be Useful
 permalink: /teaching/syllabus-language/
 include: false
 
