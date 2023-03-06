@@ -6,6 +6,9 @@ Disallow: ding.jpg
 Disallow: ding.jpeg
 Disallow: ding-cv.pdf
 Disallow: /s/
+Allow: /assets/*.js
+Allow: /assets/*.css
+Allow: /assets/*.scss
 Disallow: /assets/
 Disallow: /teaching/syllabus/
 Sitemap: {{ site.url }}/sitemap.xml
