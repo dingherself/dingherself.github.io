@@ -45,7 +45,7 @@ $h1-font-size: (
 );
 
 $h2-font-size: (
-  $font-size-base * 1.125
+  $font-size-base * 1.15
 );
 
 $h3-font-size: (
@@ -99,7 +99,7 @@ $container-max-widths: (
 //////////////////////////
 
 html {
-  font-size: 18px;
+  font-size: 1.15rem;
   font-variant-ligatures: common-ligatures;
   font-variant-ligatures: discretionary-ligatures;
   font-variant-ligatures: no-historical-ligatures;
@@ -109,19 +109,19 @@ html {
 
 @include media-breakpoint-up(lg) {
   html {
-    font-size: 19px;
+    font-size: 1.27rem;
   }
 }
 
 @include media-breakpoint-up(xl) {
   html {
-    font-size: 20px;
+    font-size: 1.3rem;
   }
 }
 
 @include media-breakpoint-up(xxl) {
   html {
-    font-size: 22px;
+    font-size: 1.4rem;
   }
 }
 
@@ -133,13 +133,13 @@ h1,
 
 h2,
 .h2 {
-  margin-top: 1.25rem;
+  margin-top: 1.27rem;
   margin-bottom: 1rem;
 }
 
 h3,
 .h3 {
-  margin-top: 1.25rem;
+  margin-top: 1.27rem;
   margin-bottom: 0.75rem;
 }
 
@@ -181,7 +181,7 @@ h6, .h6 {
 }
 
 .headerphoto {
- width: 425px;
+ width: 435px;
 }
 
 @include media-breakpoint-up(md) {
