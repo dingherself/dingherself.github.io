@@ -2,6 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="{{ page.description | default: site.description | smartify }}">
 <meta name="author" content="{{ site.authors }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}" />
 
 <title>
   {%- if page.title -%}
@@ -12,7 +13,7 @@
 </title>
 
 <!-- Ding's modified Bootstrap CSS -->
-<link href="{{ site.baseurl }}/assets/ding.css" rel="stylesheet">
+<link href="{{ 'assets/ding.css' | relative_url }}" rel="stylesheet">
 
 {% include favicons.html %}
 
