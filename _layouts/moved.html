@@ -42,7 +42,7 @@
           <div class="col-12 col-lg-8 col-xxl-12 maincontent">
             <h1>This page has moved...</h1>
               <p><a href="{{ page.redirect_to }}">Please click here in case you are not automatically redirected.</a></p>
-              <script>location='{{ page.redirect_to }}'</script>
+              <script>window.location="{{ page.redirect_to }}";</script>
           </div>
         </div>
       </div>
