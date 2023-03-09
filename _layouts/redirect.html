@@ -7,11 +7,11 @@
       {%- if page.title -%}
         {{ page.title | smartify }} · {{ site.title | smartify }}
       {%- else -%}
-        {{ site.title | smartify }} · {{ site.description | smartify }}
+        {{ "Redirecting&hellip;" | smartify }} · {{ site.title | smartify }}
       {%- endif -%}
     </title>
-    <link rel="canonical" href="{{ page.redirect.to }}" />
-    <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+    <link rel="canonical" href="{{ page.redirect_to }}" />
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">
     <meta name="robots" content="noindex, nofollow">
     <style>
       html {
@@ -38,7 +38,7 @@
   </head>
   <body>
     <h1>Redirecting&hellip;</h1>
-    <a href="{{ page.redirect.to }}">Click here if you are not redirected</a>
-    <script>window.location="{{ page.redirect.to }}";</script>
+    <a href="{{ page.redirect_to }}">Click here if you are not redirected</a>
+    <script>window.location="{{ page.redirect_to }}";</script>
   </body>
 </html>

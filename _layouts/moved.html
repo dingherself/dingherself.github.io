@@ -11,7 +11,7 @@
     {%- if page.title -%}
       {{ page.title | smartify }} · {{ site.title | smartify }}
     {%- else -%}
-      {{ site.title | smartify }} · {{ site.description | smartify }}
+     {{ "This page has moved&hellip;" | smartify }} · {{ site.title | smartify }}
     {%- endif -%}
   </title>
 
@@ -33,15 +33,28 @@
 <meta http-equiv="refresh" content="0;url={{ page.redirect_to }}" />
 </head>
 <body>
-<div class='layout'>
-  {% include navbar.html %}
-<main class='main'>
-<article class='post'>
-    <h1>This page has moved...</h1>
-      <a href="{{ page.redirect_to }}">Please click here in case you are not automatically redirected.</a>
-      <script>location='{{ page.redirect_to }}'</script>
-</article>
-</main>
-</div>
-</body>
+
+    {% include navbar.html %}
+
+    <main id="content" role="main" class="container">
+      <div class="container px-3">
+        <div class="row justify-content-center align-items-start gx-5 gx-xxl-2">
+          <div class="col-12 col-lg-8 col-xxl-12 maincontent">
+            <h1>This page has moved...</h1>
+              <a href="{{ page.redirect_to }}">Please click here in case you are not automatically redirected.</a>
+              <script>location='{{ page.redirect_to }}'</script>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="container" style="padding-bottom: 3rem;">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-8 col-xxl-12 maincontent">
+          <!--{% include footer.html %}-->
+        </div>
+      </div>
+    </footer>
+    {% include scripts.html %}
+  </body>
 </html>

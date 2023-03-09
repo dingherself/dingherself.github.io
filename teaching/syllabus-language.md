@@ -1,5 +1,5 @@
 ---
-layout: redirectd
+layout: moved
 title: Some Syllabus Language That Might Be Useful
 permalink: /teaching/syllabus-language/
 include: false

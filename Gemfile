@@ -15,7 +15,6 @@ gem "jekyll", "~> 4.2.0"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-redirect-from', '~> 0.16.0'
   gem 'jekyll-sitemap', '~> 1.4.0'
   gem 'jekyll-toc', '~> 0.5.1'
 end
