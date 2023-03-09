@@ -10,4 +10,4 @@ Allow: /assets/*.css
 Allow: /assets/*.scss
 Disallow: /assets/
 Disallow: /teaching/syllabus/
-Sitemap: sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml
