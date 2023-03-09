@@ -6,7 +6,6 @@
   <meta name="description" content="{{ page.description | default: site.description | smartify }}">
   <meta name="author" content="{{ site.authors }}">
   <meta name="generator" content="Jekyll v{{ jekyll.version }}">
-  <meta name="robots" content="noindex, nofollow">
   
   <title>
     {%- if page.title -%}
@@ -29,7 +28,7 @@
 
       gtag('config', 'UA-127390411-1');
     </script>
-<link rel="canonical" href="{{ page.redirect_to }}" />
+<link rel="canonical" href="{{ page.redirect_to }}"/>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta http-equiv="refresh" content="0;url={{ page.redirect_to }}" />
 </head>
@@ -38,7 +37,7 @@
   {% include navbar.html %}
 <main class='main'>
 <article class='post'>
-    <h1>Redirecting...</h1>
+    <h1>This page has moved...</h1>
       <a href="{{ page.redirect_to }}">Please click here in case you are not automatically redirected.</a>
       <script>location='{{ page.redirect_to }}'</script>
 </article>

@@ -35,8 +35,3 @@ In this course, we will examine a variety of normative issues in and about medic
 This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality and explore their jurisprudential implications. Topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ equality.
 
 [Syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-324-syllabus-summer-2021.pdf %})
-
-## Resources for instructors
-
-- [Some syllabus language that might be useful]({{ site.baseurl }}{% link teaching/syllabus-language.md %})
-- [Following the U.S. Supreme Court online]({{ site.baseurl }}{% link teaching/how-to-follow-the-court.pdf %})

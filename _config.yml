@@ -4,6 +4,8 @@ highlighter:    rouge
 
 kramdown:
   auto_ids:     true
+  #footnote_backlink: "&#8617;&#65038;" # add variation selector 15 to force backarrow for footnotes to be rendered as text, not emoji (doesn't work for chrome?)
+  footnote_backlink: "" # do not use backlink for footnotes
 
 # Permalinks
 permalink:      pretty

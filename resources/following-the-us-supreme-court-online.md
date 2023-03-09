@@ -1,0 +1,25 @@
+---
+layout: default
+title: Following the U.S. Supreme Court Online
+permalink: /resources/following-the-us-supreme-court-online/
+include: false
+
+---
+
+# Following the U.S. Supreme Court online
+
+*This resource was originally developed for my students in Phil 203: Logic in Law (focusing on antidiscrimination law in the U.S.) in Spring and Fall 2022. I very strongly feel that philosophers are in a unique position to make substantive contributions to the development of law, and I wish we as a profession could be more plugged into what’s going on in the law, particularly in the U.S. context. I hope the following can be useful for philosophers curious about getting into U.S. law but unsure where to start. Feedback very welcome!*
+
+As our class is focused heavily on the U.S. Supreme Court’s cases interpreting the 14th Amendment, you will probably find the experience a lot more rewarding if you keep an eye out for what’s going on at One First Street (a.k.a. the Supreme Court Building). For example, this upcoming term the Court is set to revisit the use of race-conscious affirmative action in college admissions.
+
+While major news outlets like *Washington Post* and *New York Times* cover the Court, their reporting is geared to a more general audience. [SCOTUSblog](https://www.scotusblog.com), on the other hand, serves a more specialized legal community while doing a respectable job of being accessible. They provide oral argument previews/recaps, live coverage on pre-announced opinion/order days, and opinion/order recaps.
+
+It’s also a good idea to familiarize yourself with the [Supreme Court’s website](https://www.supremecourt.gov), and if your schedule permits, consider tuning in on at least one oral argument—it was not until the start of the pandemic that the Court began to live stream oral argument audios, so take advantage of that while it lasts. The oral argument calendar is available on the Court’s website under Oral Arguments > [Calendars and Lists](https://www.supremecourt.gov/oral_arguments/calendarsandlists.aspx) > Argument Calendar. SCOTUSblog should also give you a heads-up about upcoming argument sessions. Oral arguments begin at 10am ET on argument days, and the live audio stream is accessible through the Court’s website. The Court is currently in summer recess and reconvenes on the first Monday in October (hence it will be “October Term 2022”).
+
+Twitter is a surprisingly valuable resource, but it’s important to know who to follow. SCOTUSblog ([@SCOTUSblog](https://twitter.com/SCOTUSblog)) and its principal reporter, Amy Howe ([@AHoweBlogger](https://twitter.com/AHoweBlogger)), both have active twitter accounts, and it’s useful to turn the notifications on so you don’t miss out on the Court’s late-night emergency actions (there are serious transparency worries that we will discuss later on). In addition, Steve Vladeck ([@steve_vladeck](https://twitter.com/steve_vladeck), UTexasLaw), Leah Litman ([@LeahLitman](https://twitter.com/LeahLitman), UMichLaw), Melissa Murray ([@ProfMMurray](https://twitter.com/ProfMMurray), NYULaw), Joyce Alene ([@JoyceWhiteVance](https://twitter.com/JoyceWhiteVance), UAlabamaLaw), and Mark Joseph Stern ([@mjs_DC](https://twitter.com/mjs_DC), Slate) are all great to follow as well. If you are interested in litigation related to LGBTQ+ equality specifically, consider following Alejandra Caraballo ([@Esqueer\_](https://twitter.com/Esqueer_), Harvard Law), Erin Reed ([@ErinInTheMorn](https://twitter.com/ErinInTheMorn)), Gillian Branstetter ([@GBBranstetter](https://twitter.com/GBBranstetter), ACLU), Chase Strangio ([@chasestrangio](https://twitter.com/chasestrangio), ACLU), Josh Block ([@JoshABlock](https://twitter.com/JoshABlock), ACLU), and the wonderful non-profit organization Equality Case Files ([@EQCF](https://twitter.com/EQCF)).
+
+Another way to keep yourself informed is through podcasts and radio. The two Supreme-Court-themed podcasts I listen to regularly are [Strict Scrutiny](https://crooked.com/podcast-series/strict-scrutiny/) (hosted by three women law professors) and [Divided Argument](https://www.dividedargument.com/). Be aware, though, both are fairly opinionated (I think that’s a good thing—but I realize that may itself be opinionated). I also appreciate NPR’s coverage of the Court a lot, which often adds a much-needed human dimension.
+
+Finally, there is now almost a tradition of CNN’s Joan Biskupic getting bombshell scoops over the summer (for example, this summer she reported on the internal deliberations that led up to the recent abortion case, *Dobbs v. Jackson Women’s Health Organization*). But these usually appear as articles before getting reported on TV, and if you follow enough people, they will be hard to miss.
+
+Don’t hesitate to reach out if you have questions!
