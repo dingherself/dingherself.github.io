@@ -33,17 +33,21 @@
   <main id="content" role="main" class="container">
     <div class="container px-3">
       <div class="row justify-content-center align-items-start gx-5 gx-xl-4 gx-xxl-0">
-        {%- if page.headerpicurl -%}
         <div class="col-11 col-md-6 col-xxl-5 mt-2 mt-md-5">
-          <p style="text-align:center;"><a href="{{ page.headerpicurl | prepend: site.baseurl }}"><img class="img-fluid mt-2 mt-md-3 float-left mw-100 headerphoto" src="{{ page.headerpicurl | prepend: site.baseurl }}" alt="{{ page.headerpicalt }}"></a></p>
+          <p style="text-align:center;">
+            <a href="{{ page.headerpicurljpeg | prepend: site.baseurl }}">
+              <picture>
+                <source type="image/webp" srcset="{{ page.headerpicurlwebp | prepend: site.baseurl }}">
+                <source type="image/jpeg" srcset="{{ page.headerpicurljpeg | prepend: site.baseurl }}">
+                <img class="img-fluid mt-2 mt-md-3 float-left mw-100 headerphoto" src="{{ page.headerpicurljpeg | prepend: site.baseurl }}" alt="{{ page.headerpicalt }}">
+              </picture>
+            </a>
+          </p>
           {%- if page.headerpictext -%}
             <p style="text-align:center; color: #777; margin-top: -0.5rem;"><small>{{ page.headerpictext }}</small></p>
           {%- endif -%}
         </div>
         <div class="col-12 col-md-6 col-xxl-7 maincontent">
-      {%- else -%}
-        <div class="col-12 col-lg-8 col-xxl-12 maincontent">
-      {%- endif -%}
         {{ content }}
         </div>
       </div>
