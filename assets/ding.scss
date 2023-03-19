@@ -109,7 +109,7 @@ $container-max-widths: (
 @import "helpers";
 
 // 5. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
-//@import "utilities/api";
+@import "utilities/api";
 
 // 6. Add additional custom code here
 
