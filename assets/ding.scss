@@ -1,13 +1,11 @@
 ---
 ---
 
-// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
-@import "functions";
-
-// 2. Include any default variable overrides here
-
 // Adobe Font
+
 @import url("https://use.typekit.net/vnw4sgb.css");
+
+// Ding's variable overrides
 
 $font-family-sans-serif:
 athelas,
@@ -20,7 +18,7 @@ athelas,
 // Android
 //"Roboto",
 // Basic web fallback
-"Times New Roman", Times, serif,
+"Palatino", "Times New Roman", Times, serif,
 // Emoji fonts
 "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
@@ -90,30 +88,15 @@ $container-max-widths: (
   xxl: 1580px
 );
 
-// 3. Include remainder of required Bootstrap stylesheets
-@import "variables";
-@import "mixins";
-@import "root";
+/////////////////////////////////////////
+// Bootstrap and its default variables //
+/////////////////////////////////////////
 
-// 4. Include any optional Bootstrap CSS as needed
-@import "utilities";
-@import "reboot";
-@import "type";
-@import "images";
-@import "containers";
-@import "grid";
-@import "nav";
-@import "navbar";
+@import "bootstrap";
 
-// Helpers
-@import "helpers";
-
-// 5. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
-@import "utilities/api";
-
-// 6. Add additional custom code here
-
-// CSS overrides
+//////////////////////////
+// Ding's css overrides //
+//////////////////////////
 
 html {
   font-size: 1.15rem;
