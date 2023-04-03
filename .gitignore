@@ -4,3 +4,4 @@ _gh_pages
 .jekyll-metadata
 .DS_Store
 .jekyll-cache
+.obsidian

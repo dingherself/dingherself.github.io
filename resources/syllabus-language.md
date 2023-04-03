@@ -9,13 +9,17 @@ include: false
 
 *Please feel free to incorporate the following statements in your syllabus. I had so much to learn from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf), [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf), and so many of the syllabi shared by graduate students in the UA philosophy department. I have also added some in-text notes where relevant. If you have any feedback or suggestions for improvement, I’d love to know! (Last updated: May 2022)*
 
-## Table of contents
+<div class="dropdown" style="padding-top: 1.25em; padding-bottom: 0.25em;">
+  <a class="btn btn-primary btn-sm dropdown-toggle" style="background-color: #ca323b !important; font-size: 0.92rem; line-height: 1.35;" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+    Table of Contents
+  </a>
 
-1. [Respect, support, and care for one another](#1-respect-support-and-care-for-one-another)
-2. [Student support resources](#2-student-support-resources)
-3. [(Lack of) diversity in philosophy](#3-lack-of-diversity-in-philosophy)
-
-<center>*&ensp;*&ensp;*</center>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <li><a class="dropdown-item" href="#1-respect-support-and-care-for-one-another">Respect, Support, and Care for One Another</a></li>
+    <li><a class="dropdown-item" href="#2-student-support-resources">Student Support Resources</a></li>
+    <li><a class="dropdown-item" href="#3-lack-of-diversity-in-philosophy">(Lack of) Diversity in Philosophy</a></li>
+  </ul>
+</div>
 
 ## 1. Respect, support, and care for one another
 
@@ -36,7 +40,7 @@ Here are some concrete examples of how you can respect, support, and care for yo
 - Challenge remarks, jokes and examples that are racist, sexist, heterosexist, cissexist, misogynistic, transmisogynistic, xenophobic, ableist, ageist, classist, etc.;
 - Keep discussions inclusive by avoiding talking to only a few specific people;
 - <strong><u>[For online discussion boards]</u></strong> Be mindful of how your tone/meaning might not be accurately conveyed through your writing alone (for example, if your question might be misunderstood as a rhetorical one, it’s probably a good idea to indicate explicitly that it is a genuine question);
-- <strong><u>[For Zoom classes]</u></strong> Please use your go-by name as your Zoom display name and, *if* you feel comfortable and safe doing so, include your pronouns as well. <strong><u>[Note to instructors: Please never simply <em>ask</em> students to share their pronouns (e.g., “let’s go around the room and say our names and pronouns”), which could create an especially stressful double-bind situation for trans/nonbinary students who are not openly out—now they have to choose between misgendering themselves or being forced to come out! Please also take note when a student changes their name or pronouns in the middle of the semester, but don’t ask questions and don’t make a big deal out of it—just naturally switch how you refer to the student from then on. For in-person classes, it’s helpful to make it clear at the beginning of the semester that you understand people’s names and pronouns can change and invite students to let you know any such changes </em>if</em> they feel safe and comfortable. (There are too many reasons why a student may not feel safe or comfortable sharing their pronouns, so don’t push anyone and don’t blame yourself for not doing enough.)]</u></strong>
+- <strong><u>[For Zoom classes]</u></strong> Please use your go-by name as your Zoom display name and, *if* you feel comfortable and safe doing so, include your pronouns as well. <strong><u>[Note to instructors: Please never simply <em>ask</em> students to share their pronouns (e.g., “let’s go around the room and say our names and pronouns”), which could create an especially stressful double-bind situation for trans/nonbinary students who are not openly out—now they have to choose between misgendering themselves or being forced to come out! Please also take note when a student changes their name or pronouns in the middle of the semester, but don’t ask questions and don’t make a big deal out of it—just naturally switch how you refer to the student from then on. For in-person classes, it’s helpful to make it clear at the beginning of the semester that you understand people’s names and pronouns can change and invite students to let you know any such changes <em>if</em> they feel safe and comfortable. (There are too many reasons why a student may not feel safe or comfortable sharing their pronouns, so don’t push anyone and don’t blame yourself for not doing enough.)]</u></strong>
 
 #### Classroom behavior
 

@@ -3,7 +3,6 @@ layout: default
 title: Playlist for Teaching
 permalink: /teaching/playlist/
 include: false
-
 ---
 
 # Playlist for teaching
