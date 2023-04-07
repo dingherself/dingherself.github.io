@@ -55,7 +55,7 @@ Our class is an introduction to the philosophy of law in general and feminist ph
   </ul>
 </div>
 
-<p style="padding-top: 0.75em;">N.B. I’m migrating most of the course content from D2L to my own website. Some of the links I still need to manually add back. It’s really just that I finally decided I’ve had enough of D2L.</p>
+<p style="padding-top: 0.75em;">N.B. I’m migrating most of the course content from D2L to my own website. Some of the links I still need to add back manually. It’s really just that I finally decided I’ve had enough of D2L.</p>
 
 ## Getting Started
 
@@ -129,7 +129,7 @@ Readings:
 
 - Module 3 reading guide
 - H.L.A. Hart, *The Concept of Law* (2nd ed. 1994), pp. 79–110
-Lon Fuller, *The Morality of Law*, pp. [33–41](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.6), [96–97](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.7) (UA login)
+- Lon Fuller, *The Morality of Law*, pp. [33–41](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.6), [96–97](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/j.ctt1cc2mds.7) (UA login)
 
 Lectures:
 
