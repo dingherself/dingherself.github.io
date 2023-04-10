@@ -5,9 +5,16 @@ permalink: /teaching/law-and-morality/modules/
 include: false
 ---
 
+<nav aria-label="breadcrumb" style="padding-bottom: 0.125em;">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="{{ site.baseurl }}{% link teaching/law-and-morality.md %}">Course Homepage</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Modules</li>
+  </ol>
+</nav>
+
 # Phil 324: Course Modules
 
-<div class="dropdown" style="padding-top: 0.75em; padding-bottom: 0.25em;">
+<div class="dropdown" style="padding-top: 1em; padding-bottom: 0.25em;">
   <a class="btn btn-primary btn-sm dropdown-toggle" style="background-color: #ca323b !important; font-size: 0.87rem; line-height: 1.25;" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
     Table of Contents
   </a>

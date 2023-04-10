@@ -9,7 +9,7 @@ include: false
 
 <p style="padding-top: 1em; padding-bottom: 0.5em;"><a href="https://www.gocomics.com/agnes/2009/08/25"><img src="https://assets.amuniversal.com/ac7eb4705014102dbf94001438c0f03b" alt="Comic strip; alt text follows the image below." style="max-width: 90%; display: block; margin-left: auto; margin-right: auto;"></a></p>
 
-<p style="line-height: 1.4; font-size: 0.97rem;"><em>From left to right</em>: Agnes: “Today, I declare my independence from physical law!” / Trout: “You can’t.” / Agnes: “Yes, I can... If I can choose to disobey civil law, I can choose to disobey physical law... That’s just simple algebra.” / Trout: “No... It’s NOT.” / Agnes: “Whatever... I’m going to go float free of gravity... Want to join me?” / Trout: “Nah... I promised my mom that I’d obey gravity.”</p>
+<p style="line-height: 1.4; font-size: 0.95rem;"><em>From left to right</em>: Agnes: “Today, I declare my independence from physical law!” / Trout: “You can’t.” / Agnes: “Yes, I can... If I can choose to disobey civil law, I can choose to disobey physical law... That’s just simple algebra.” / Trout: “No... It’s NOT.” / Agnes: “Whatever... I’m going to go float free of gravity... Want to join me?” / Trout: “Nah... I promised my mom that I’d obey gravity.”</p>
 
 <p style="text-align: center; padding-top: 0.25em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
@@ -33,7 +33,7 @@ include: false
 
 <p>Our class is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality and explore their jurisprudential implications. Topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ equality.</p>
 
-<p><center><strong>syllabus</strong> &VerticalLine; <strong><a href="https://dingherself.com/teaching/law-and-morality/modules">course modules</a></strong> &VerticalLine; <strong><a href="https://d2l.arizona.edu/d2l/home/1294813">D2L site</a></strong> (for files and assignments <em>only</em>)</center></p>
+<p><center><strong>syllabus</strong> &VerticalLine; <strong><a href="{{ site.baseurl }}{% link teaching/law-and-morality/modules.md %}">Course Modules</a></strong> &VerticalLine; <strong><a href="https://d2l.arizona.edu/d2l/home/1294813">D2L site</a></strong> (for files and assignments <em>only</em>)</center></p>
 
 <p style="text-align: center; padding-top: 0.375em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
