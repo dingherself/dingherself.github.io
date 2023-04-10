@@ -13,7 +13,7 @@ include: false
 
 <p style="text-align: center; padding-top: 0.25em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
-<p style="padding-top: 0.25em;"><strong>Phil/PA/Pol 324: Law and Morality</strong>
+<p><strong>Phil/PA/Pol 324: Law and Morality</strong>
 <br />Asynchronous Online, University of Arizona
 <br />Summer 2023, 7 Week 2 (July 3–August 18)
 </p>
@@ -35,7 +35,7 @@ include: false
 
 <p><center><strong>syllabus</strong> &VerticalLine; <strong><a href="{{ site.baseurl }}{% link teaching/law-and-morality/modules.md %}">Course Modules</a></strong> &VerticalLine; <strong><a href="https://d2l.arizona.edu/d2l/home/1294813">D2L site</a></strong> (for files and assignments <em>only</em>)</center></p>
 
-<p style="text-align: center; padding-top: 0.375em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
+<p style="text-align: center; padding-top: 0.5em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
 *A note on my lecture videos*: I recorded most of these lectures in the summer of 2021. Back then we understood that a series of cases—most notably, cases implicating reproductive autonomy and transgender discrimination—were on the horizon. Still, in retrospect, it’s shocking how much of the legal landscape has shifted—and how quickly and how radically it has shifted—in just two short years. I taught, as the law transformed, two lower division courses that engaged these issues extensively. But coming back to this course, I’m finding it rather difficult to sit down in front of a camera and record new lectures to incorporate the new developments in the law as they bear on our course. Instead of updating the course through new videos, then, I plan to write a few (hopefully, short) notes to supplement my 2021 lectures. I hope you will understand my decision here.
 
