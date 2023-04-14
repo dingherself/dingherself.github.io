@@ -6,6 +6,4 @@ include: false
 sitemap: false
 ---
 
-# Handout for the Central APA
-
-[Please click here to download the handout.]({{ site.baseurl }}{% link research/ding-pregnant-persons-apa-handout.pdf %})
+[“On Our Own Terms,” USC-UCLA Graduate Conference, April 15, 2023]({{ site.baseurl }}{% link research/ding-on-our-own-terms-usc-ucla-handout.pdf %})
