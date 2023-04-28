@@ -8,4 +8,4 @@ sitemap: false
 
 # Handout
 
-- [“Pregnant Persons as a Gender Category,” Harvard-MIT Graduate Conference, April 22, 2023]({{ site.baseurl }}{% link research/ding-pregnant-persons-hmit-handout.pdf %})
+- [Comments on Lauren Perry’s “A Victim by Any Other Name?,” FemPhilAZ 2023]({{ site.baseurl }}{% link handout/ding-lauren-comments.pdf %})
