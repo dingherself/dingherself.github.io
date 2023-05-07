@@ -9,17 +9,15 @@ include: false
 
 *Please feel free to incorporate the following statements in your syllabus. I had so much to learn from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf), [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf), and so many of the syllabi shared by graduate students in the UA philosophy department. I have also added some in-text notes where relevant. If you have any feedback or suggestions for improvement, I’d love to know! (Last updated: May 2022)*
 
-<div class="dropdown" style="padding-top: 1.25em; padding-bottom: 0.25em;">
-  <a class="btn btn-primary btn-sm dropdown-toggle" style="background-color: #ca323b !important; font-size: 0.92rem; line-height: 1.35;" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-    Table of Contents
-  </a>
+<p style="text-align: center; padding-top: 0.25em; margin-bottom: -0.25em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
-  <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-    <li><a class="dropdown-item" href="#1-respect-support-and-care-for-one-another">Respect, Support, and Care for One Another</a></li>
-    <li><a class="dropdown-item" href="#2-student-support-resources">Student Support Resources</a></li>
-    <li><a class="dropdown-item" href="#3-lack-of-diversity-in-philosophy">(Lack of) Diversity in Philosophy</a></li>
-  </ul>
-</div>
+## Table of contents
+
+ 1. [Respect, support, and care for one another](#1-respect-support-and-care-for-one-another)
+ 2. [Student support resources](#2-student-support-resources)
+ 3. [(Lack of) diversity in philosophy](#3-lack-of-diversity-in-philosophy)
+
+<p style="text-align: center; padding-top: 0.25em; margin-bottom: -0.25em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
 ## 1. Respect, support, and care for one another
 
