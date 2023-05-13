@@ -14,7 +14,7 @@ order: 3
 
 ### “On Our Own Terms: Trans Women Crafting the Meaning of ‘Woman’”
 
-Leading philosophical accounts of “woman” follow what I consider a *top-down* approach: they begin with what being a woman means to cis women within dominant cultural spaces and social relations, and then struggle to apply and extend that analysis to trans women. Instead of fitting trans women awkwardly into a top-down analysis that wasn’t built for us in the first place, this essay hopes to pursue a trans feminist alternative---a *bottom-up* approach that aims to take up trans women’s own interpretation of our richly and wonderfully varied bodies on our own terms. On such a bottom-up analysis, “woman” means, and properly means, what trans feminism, not the dominant cisheterosexist society, makes of it.
+Leading philosophical accounts of “woman” follow what I consider a *top-down* approach: they begin with what being a woman means to cis women within dominant cultural spaces and social relations, and then struggle to apply and extend that analysis to trans women. Instead of fitting trans women awkwardly into a top-down analysis that wasn’t built for us in the first place, this essay hopes to pursue a trans feminist alternative---a *bottom-up* approach that aims to take up trans women’s own interpretation of our richly and beautifully varied bodies on our own terms. On such a bottom-up analysis, “woman” means, and properly means, what trans feminism, not the dominant cisheterosexist society, makes of it.
 
 [handout]({{ site.baseurl }}{% link research/ding-on-our-own-terms-usc-ucla-handout.pdf %})
 
