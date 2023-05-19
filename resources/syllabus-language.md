@@ -71,7 +71,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 -   Love Is Respect (dating abuse helpline for youth between 13 and 26): call 866-331-9474, text “LOVEIS” to 22522, or chat online at <https://www.loveisrespect.org/get-help>
 -   Trevor Lifeline (for LGBTQ+ youth under 25): call 866-488-7386, text “START” to 678-678, or chat online at <https://www.thetrevorproject.org/get-help-now>
 -   Trans Lifeline (operators are all trans/nonbinary people): call 877-565-8860 (English and Spanish)
--   CAPS Crisis Resources, Hotlines and Apps: <https://health.arizona.edu/crisis-resources-and-hotlines>
+-   CAPS Crisis Resources, Hotlines, and Apps: <https://health.arizona.edu/crisis-resources-and-hotlines>
 
 ### Student assistance
 
