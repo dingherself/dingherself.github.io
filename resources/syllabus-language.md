@@ -7,7 +7,9 @@ include: false
 
 # Some syllabus language that might be useful
 
-*Please feel free to incorporate the following statements in your syllabus. I had so much to learn from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf), [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf), and so many of the syllabi shared by graduate students in the UA philosophy department. I have also added some in-text notes where relevant. If you have any feedback or suggestions for improvement, I’d love to know! (Last updated: May 2022)*
+*Please feel free to incorporate the following statements in your syllabus. I had so much to learn from, among others, [Lauren Alpert’s global ethics syllabus](https://laurenralpert.files.wordpress.com/2020/03/phi-1700s20-syllabus-1.pdf), [Alison Reiheld’s feminist theory syllabus](https://www.apaonline.org/resource/resmgr/inclusiveness_syllabi/Feminist_Theory_Reiheld.pdf), [Amy Shuster’s political and social philosophy syllabus](https://philosophy.osu.edu/sites/philosophy.osu.edu/files/2400%20Shuster%20syllabus%20Autumn%202015%20for%20dept%20website.pdf), and so many of the syllabi shared by graduate students in the UA philosophy department. I have also added some in-text notes where relevant. If you have any feedback or suggestions for improvement, I’d love to know!*
+
+\[5/21/23: I decided to remove the “crisis resources” section following disturbing reports of unwanted police intervention and forced psychiatric detention of suicide hotline callers. See, e.g., [this](https://www.madinamerica.com/2023/05/psychiatric-detentions-rise-988/) and [this](https://www.vice.com/en/article/g5vq97/988-national-suicide-prevention-lifeline-not-cop-free).\]
 
 <p style="text-align: center; padding-top: 0.25em; margin-bottom: -0.25em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
@@ -63,15 +65,6 @@ If you feel any aspect of this course makes it difficult for you to participate 
 -   Campus Health: <https://health.arizona.edu>
 -   Counseling and Psych Services (CAPS): <https://health.arizona.edu/counseling-psych-services>
 -   Mental Health Tools from CAPS: <https://health.arizona.edu/mental-health-tools>
-
-### Crisis resources
-
--   National Suicide Prevention Lifeline: call 800-273-TALK (8255)
--   National Sexual Assault Hotline: call 800-656-HOPE (4673) or chat online (English and Spanish) at <https://www.rainn.org/resources>
--   Love Is Respect (dating abuse helpline for youth between 13 and 26): call 866-331-9474, text “LOVEIS” to 22522, or chat online at <https://www.loveisrespect.org/get-help>
--   Trevor Lifeline (for LGBTQ+ youth under 25): call 866-488-7386, text “START” to 678-678, or chat online at <https://www.thetrevorproject.org/get-help-now>
--   Trans Lifeline (operators are all trans/nonbinary people): call 877-565-8860 (English and Spanish)
--   CAPS Crisis Resources, Hotlines, and Apps: <https://health.arizona.edu/crisis-resources-and-hotlines>
 
 ### Student assistance
 
