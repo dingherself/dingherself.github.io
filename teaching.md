@@ -8,19 +8,17 @@ order: 4
 
 # Teaching
 
-## Upcoming course
+## Current course
 
 ### Phil 324: Law and morality (Summer 2023; Summer 2021; Summer 2020)
 
 This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality and explore their jurisprudential implications. Topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ equality. ([course website](https://github.com/dingherself/phil-324))
 
-## Current course
+## Courses taught
 
 ### Phil 330: Feminist philosophy (Spring 2023)
 
 What is the nature of patriarchy, and what would it take to smash it? Can there be pleasure under oppression in the meantime? What is it to be gendered, to be sexed, to be constructed? What does being a woman mean to queer and trans women? Who and what is feminism ultimately a movement for? In this course, we will trace the development of contemporary feminist philosophy from the early days of the women’s liberation movement to the present, with an emphasis on trans and queer voices, issues, and experiences throughout this fraught history. ([syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-330-syllabus-spring-2023.pdf %}))
-
-## Courses taught
 
 ### Phil 203: Logic in law (Fall 2022; Spring 2022)
 
