@@ -9,3 +9,6 @@ User-agent: Twitterbot
 Allow: /ding.jpg
 Allow: /ding.jpeg
 Allow: /handout/
+
+User-agent: GPTBot
+Disallow: /
