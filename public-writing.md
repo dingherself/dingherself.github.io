@@ -8,6 +8,6 @@ order: 5
 
 # Public writing
 
-<h3><a href="https://blog.apaonline.org/2023/09/21/putting-gender-back-into-transgender-equality-on-iglesias-v-federal-bureau-of-prisons/">“Putting Gender Back into Transgender Equality: On <em>Iglesias v. Federal Bureau of Prisons</em>”</a> <span style="font-weight:500;">(<em>APA Blog</em>, Law and Philosophy Series, September 2023)</span></h3>
+<h3>“Putting Gender Back into Transgender Equality: On <em>Iglesias v. Federal Bureau of Prisons</em>” <span style="font-weight:500;">(<em>APA Blog</em>, Law and Philosophy Series, September 2023)</span></h3>
 
-I discuss the problems with what I see as a gender-neutral, cis-centric conception of gender equality that has come to dominate U.S. law, focusing on the law’s systematic failure to protect incarcerated trans women’s health and bodily integrity.
+I discuss the problems with what I see as a gender-neutral, cis-centric conception of gender equality that has come to dominate U.S. law, focusing on the law’s systematic failure to protect incarcerated trans women’s health and bodily integrity. ([link](https://blog.apaonline.org/2023/09/21/putting-gender-back-into-transgender-equality-on-iglesias-v-federal-bureau-of-prisons/))
