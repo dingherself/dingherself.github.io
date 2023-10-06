@@ -6,6 +6,4 @@ include: false
 sitemap: false
 ---
 
-# Handout
-
-- [Comments on Lauren Perry’s “A Victim by Any Other Name?,” FemPhilAZ 2023]({{ site.baseurl }}{% link handout/ding-lauren-comments.pdf %})
+I’m currently dealing with targeted harassment and intimidation by a [far-right organization](https://www.erininthemorning.com/p/tpusas-charlie-kirk-trans-people) on the basis of my gender and race. I have decided to take my website temporarily offline as a precaution. If you are in my class, you can find my office and email in the course syllabus. I’m really sorry about all this.
