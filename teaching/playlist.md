@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: safe-mode
 title: Playlist for Teaching
 permalink: /teaching/playlist/
 include: false
