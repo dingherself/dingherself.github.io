@@ -9,6 +9,7 @@ include: false
 
 ## News
 
+- [NPR - Nobel Prize in economics goes to Harvard economist Claudia Goldin](https://www.npr.org/2023/10/09/1204612017/nobel-prize-in-economics-goes-to-harvard-economist-claudia-goldin)
 - [Melissa Murray interview with NPR on *Dobbs*](https://www.npr.org/2021/11/28/1059649452/reproductive-rights-scholar-on-legality-of-abortion-ahead-of-scotus-case)
 - [Texas OB/GYN: My Existence Is in Violation of the New Abortion Law](https://one.npr.org/?sharedMediaId=1032259863:1032259864)
 - [Missouri Dad Testifies Against Trans Youth Athlete Ban](https://youtu.be/h60YLGDJ6n0)
