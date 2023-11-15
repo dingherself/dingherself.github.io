@@ -8,4 +8,4 @@ sitemap: false
 
 # Handout
 
-- [Comments on Lauren Perry’s “A Victim by Any Other Name?,” FemPhilAZ 2023]({{ site.baseurl }}{% link handout/ding-lauren-comments.pdf %})
+- [UCLA workshop]({{ site.baseurl }}{% link research/ding-neutral-application-ucla-handout.pdf %})
