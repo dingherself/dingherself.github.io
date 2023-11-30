@@ -6,7 +6,7 @@ include: false
 
 ---
 
-# Following the U.S. Supreme Court online
+# Following the U.S. Supreme Court Online
 
 *This resource was originally developed for my students in Phil 203: Logic in Law (focusing on antidiscrimination law in the U.S.) in Spring and Fall 2022. I very strongly feel that philosophers are in a unique position to make substantive contributions to the development of law, and I wish we as a profession could be more plugged into what’s going on in the law, particularly in the U.S. context. I hope the following can be useful for philosophers curious about getting into U.S. law but unsure where to start. Feedback very welcome!*
 

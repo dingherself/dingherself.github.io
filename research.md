@@ -8,7 +8,7 @@ order: 3
 
 # Research
 
-## Works in progress
+## Works in Progress
 
 <p><i>Please email me for the most recent drafts! <span style="white-space: nowrap;">:-)</span></i></p>
 

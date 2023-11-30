@@ -6,7 +6,7 @@ group: navigation
 order: 5
 ---
 
-# Public writing
+# Public Writing
 
 <h2 style="font-size: 1rem;">“Putting Gender Back into Transgender Equality: On <em>Iglesias v. Federal Bureau of Prisons</em>” <span style="font-weight:500;">(<em>APA Blog</em>, Law and Philosophy Series, September 2023)</span></h2>
 
