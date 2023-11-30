@@ -12,7 +12,7 @@ order: 4
 
 ### Phil 330: Feminist Philosophy (Spring 2024; Spring 2023)
 
-What is the nature of patriarchy, and what would it take to smash it? Can there be pleasure under oppression in the meantime? What is it to be gendered, to be sexed, to be constructed? What does being a woman mean to queer and trans women? Who and what is feminism ultimately a movement for? In this course, we will trace the development of contemporary feminist philosophy from the early days of the women’s liberation movement to the present, with an emphasis on trans and queer voices, issues, and experiences throughout this fraught history. ([draft syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-330-syllabus-spring-2024-draft.pdf %}))
+What is the nature of patriarchy, and what would it take to smash it? Can there be “pleasure under patriarchy” in the meantime? What is it to be gendered, to be sexed, to be constructed? What does being a woman mean to queer and trans women? Who and what is feminism ultimately a movement for? In this course, we will trace the development of contemporary feminist philosophy from the early days of the women’s liberation movement to the present, with an emphasis on trans and queer voices, issues, and experiences throughout this fraught history. ([draft syllabus]({{ site.baseurl }}{% link teaching/syllabus/ding-330-syllabus-spring-2024-draft.pdf %}))
 
 ### Phil 324: Law and Morality (Summer 2023; Summer 2021; Summer 2020)
 
