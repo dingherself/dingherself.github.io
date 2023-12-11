@@ -82,20 +82,11 @@ If you feel any aspect of this course makes it difficult for you to participate 
 -   Think Tank Writing Center: <https://thinktank.arizona.edu/writing-center>
 -   Writing Skills Improvement Program: <https://wsip.arizona.edu>
 
-### Food bank
+### Campus Programs
 
 -   Campus Pantry: <https://campuspantry.arizona.edu>
-
-### Child care
-
 -   UA Childcare Choice Program for Students: <https://lifework.arizona.edu/programs/childcare-choice/student>
-
-### LGBTQ+
-
 -   List of Resources from the Office of LGBTQ Affairs: <https://lgbtq.arizona.edu/students>
-
-### Disability
-
 -   Disability Resource Center: <https://drc.arizona.edu>
 
 ## 3. (Lack of) diversity in philosophy
