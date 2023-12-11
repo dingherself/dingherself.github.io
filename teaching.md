@@ -23,7 +23,7 @@ order: 4
 What is the nature of patriarchy, and what would it take to smash it? Can there be “pleasure under patriarchy” in the meantime? What is it to be gendered, to be sexed, to be constructed? What does being a woman mean to queer and trans women? Who and what is feminism ultimately a movement for? In this course, we will trace the development of contemporary feminist philosophy from the early days of the women’s liberation movement to the present, with an emphasis on trans and queer voices, issues, and experiences throughout this fraught history.
 
 <p style="text-align: right; margin-top: -0.5em;">
-    [<a href="/teaching/syllabus/ding-330-syllabus-spring-2024-draft.pdf">draft syllabus</a> | <a href="/teaching/syllabus/ding-330-flyer-spring-2024.pdf">draft flyer</a>]
+    [<a href="/teaching/syllabus/ding-330-syllabus-spring-2024-draft.pdf">draft syllabus</a> | <a href="/teaching/syllabus/ding-330-flyer-spring-2024.pdf">flyer</a>]
 </p>
 
 ### Law and Morality (Winter 2023; Summer 2023; Summer 2021; Summer 2020)
