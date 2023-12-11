@@ -26,7 +26,7 @@ What is the nature of patriarchy, and what would it take to smash it? Can there 
     [<a href="/teaching/syllabus/ding-330-syllabus-spring-2024-draft.pdf">draft syllabus</a> | <a href="/teaching/syllabus/ding-330-flyer-spring-2024.pdf">draft flyer</a>]
 </p>
 
-### Law and Morality (Summer 2023; Summer 2021; Summer 2020)
+### Law and Morality (Winter 2023; Summer 2023; Summer 2021; Summer 2020)
 
 This course is an introduction to the philosophy of law in general and feminist philosophy of law in particular. We will consider several significant philosophical issues at the intersection of law and morality and explore their jurisprudential implications. Topics will include the nature of law, judicial discretion, constitutional and statutory interpretation, civil disobedience, racial equality, gender equality, sexual harassment, reproductive freedom, and LGBTQ+ equality.
 
