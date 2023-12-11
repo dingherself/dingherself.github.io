@@ -14,7 +14,7 @@ include: false
 ## Table of Contents
 
   1. [Publications: Berkeley](#publication-berkeley)
-  2. [Publications: Trans feminism](#publication-trans-feminism)
+  2. [Publications: Trans Feminism](#publication-trans-feminism)
   3. [Autobiography](#autobiography)
   4. [Interviews](#interviews)
   5. [Comments](#comments)
