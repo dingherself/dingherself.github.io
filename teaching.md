@@ -38,7 +38,7 @@ This course is an introduction to the philosophy of law in general and feminist 
 
 ### Sex, Gender, and Love: An Introduction to Social Philosophy (new Gen Ed approved for Fall 2024)
 
-What is sex? Is it a mere coincident that the English term “sex” refers to both an activity and a system of categorization? How does sex relate to gender and love, and how might the experiences of queer and trans people both complicate and illuminate these connections? What counts as having sex in the first place, and what counts as having good sex? How should we think about consent, desire, objectification, and sexualization in connection to sexual autonomy and gender equality? This course surveys these central questions about sex, gender, and love, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy.
+What is sex? Is it a mere coincident that the English term ‘sex’ refers to both an activity and a system of categorization? How does sex relate to gender and love, and how might the experiences of queer and trans people both complicate and illuminate these connections? What counts as having sex in the first place, and what counts as having good sex? How should we think about consent, desire, objectification, and sexualization in connection to sexual autonomy and gender equality? This course surveys these central questions about sex, gender, and love, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy.
 
 ## Courses Taught
 
