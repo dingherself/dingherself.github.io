@@ -13,15 +13,15 @@ include: false
 
 <p style="text-align: center; padding-top: 0.25em; margin-bottom: -0.25em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
-## Table of contents
+## Table of Contents
 
- 1. [Respect, support, and care for one another](#1-respect-support-and-care-for-one-another)
- 2. [Student support resources](#2-student-support-resources)
- 3. [(Lack of) diversity in philosophy](#3-lack-of-diversity-in-philosophy)
+ 1. [Respect, Support, and Care for One Another](#1-respect-support-and-care-for-one-another)
+ 2. [Student Support Resources](#2-student-support-resources)
+ 3. [(Lack of) Diversity in Philosophy](#3-lack-of-diversity-in-philosophy)
 
 <p style="text-align: center; padding-top: 0.25em; margin-bottom: -0.25em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
-## 1. Respect, support, and care for one another
+## 1. Respect, Support, and Care for One Another
 
 ### Materials in this course
 
@@ -29,11 +29,11 @@ Since many of the issues we will cover in this course are not only intellectuall
 
 It’s therefore important that we *respect*, *support*, and *care for* one another throughout the course. Please always feel free to talk to me if you anticipate certain topics will be especially difficult for you, or if you think the way they get discussed in the class is disrespectful or otherwise problematic.
 
-### How to respect, support, and care for one another
+### How to Respect, Support, and Care for One Another
 
 Here are some concrete examples of how you can respect, support, and care for your classmates and instructor:
 
-#### Class discussions
+#### Class Discussions
 
 - Value everyone’s contribution to class discussions;
 - Disagree in a way that takes other people’s ideas seriously and sincerely;
@@ -42,13 +42,13 @@ Here are some concrete examples of how you can respect, support, and care for yo
 - <strong><u>[For online discussion boards]</u></strong> Be mindful of how your tone/meaning might not be accurately conveyed through your writing alone (for example, if your question might be misunderstood as a rhetorical one, it’s probably a good idea to indicate explicitly that it is a genuine question);
 - <strong><u>[For Zoom classes]</u></strong> Please use your go-by name as your Zoom display name and, *if* you feel comfortable and safe doing so, include your pronouns as well. <strong><u>[Note to instructors: Please never simply <em>ask</em> students to share their pronouns (e.g., “let’s go around the room and say our names and pronouns”), which could create an especially stressful double-bind situation for trans/nonbinary students who are not openly out—now they have to choose between misgendering themselves or being forced to come out! Please also take note when a student changes their name or pronouns in the middle of the semester, but don’t ask questions and don’t make a big deal out of it—just naturally switch how you refer to the student from then on. For in-person classes, it’s helpful to make it clear at the beginning of the semester that you understand people’s names and pronouns can change and invite students to let you know any such changes <em>if</em> they feel safe and comfortable. (There are too many reasons why a student may not feel safe or comfortable sharing their pronouns, so don’t push anyone and don’t blame yourself for not doing enough.)]</u></strong>
 
-#### Classroom behavior
+#### Classroom Behavior
 
 - Try to remain quiet if you have to arrive late or leave early;
 - Avoid starting to pack things up until class is completely over;
 - Listen attentively and avoid distracting or interrupting behavior, such as chatting with the person next to you or checking your phone.
 
-#### Gender identity and sexual orientation
+#### Gender Identity and Sexual Orientation
 
 - Use the pronouns and name you are asked to when you refer to a person; <strong><u>[Note to instructors: Again, please don’t pressure students to share their pronouns, but if a student does mention what pronouns they use, make sure to use <em>only</em> those pronouns (it is still <em>mis</em>gendering, for example, to use the gender-neutral they/them pronouns to refer to a trans woman student who exclusively uses gender-specific she/her pronouns). If they do not share their pronouns, default to they/them. Be prepared that you or a student will probably slip up once in a while. When that happens, just quickly correct yourself/the student and move on—don’t pretend you didn’t notice it, but also don’t overreact and especially don’t overapologize (it draws unnecessary and often unwanted attention). If a student uses more than one set of pronouns (e.g., he/they), make a conscious effort to switch between them from time to time; often the primary pronouns are listed first (in this case, he/him/his), but when in doubt, just ask. Even though doing such little things as using the correct pronouns and names might not seem to matter that much to you, it can often mean the whole world to a trans/nonbinary student. A common pitfall, however, is to overemphasize that this is something you will do, only to fail to deliver; so, show, don’t tell.]</u></strong>
 - Avoid assuming a person’s pronouns, gender identity, or sexual orientation based on their appearance, voice, or name; <strong><u>[Note to instructors: Please also don’t infer someone’s gender identity solely from their pronouns. Pronouns are just one aspect of our gender expression (it’s like wearing a suit doesn’t by itself imply the person is a man, even though many men express their gender identity with a suit rather than a dress—as Leslie Feinberg puts it more elegantly than I ever could, “gender is the poetry each of us makes out of the language we are taught”), and there are good reasons (sometimes safety-related reasons) for a student to use pronouns not conventionally associated with a gender identity. Work with them; don’t police that.]</u></strong>
@@ -58,7 +58,7 @@ Here are some concrete examples of how you can respect, support, and care for yo
 
 If you feel any aspect of this course makes it difficult for you to participate fully, I want to know. This is *very* important to me.
 
-## 2. Student support resources
+## 2. Student Support Resources
 
 ### Campus Health
 
@@ -66,7 +66,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 -   Counseling and Psych Services (CAPS): <https://health.arizona.edu/counseling-psych-services>
 -   Mental Health Tools from CAPS: <https://health.arizona.edu/mental-health-tools>
 
-### Student assistance
+### Student Assistance
 
 -   Dean of Students Office Student Assistance Services: <https://deanofstudents.arizona.edu/support/student-assistance>
 -   Survivor Advocacy: <https://survivoradvocacy.arizona.edu>
@@ -89,7 +89,7 @@ If you feel any aspect of this course makes it difficult for you to participate 
 -   List of Resources from the Office of LGBTQ Affairs: <https://lgbtq.arizona.edu/students>
 -   Disability Resource Center: <https://drc.arizona.edu>
 
-## 3. (Lack of) diversity in philosophy
+## 3. (Lack of) Diversity in Philosophy
 
 Unfortunately, philosophy as an institutionalized discipline is remarkably white, cis male, straight, able-bodied, and middle-class. This lack of diversity is often apparent just from the topics and authors typically taught in introductory philosophy courses. However, philosophy as a whole is becoming more and more diverse thanks to the efforts of several generations of philosophers. As a philosophy student, you can also help the profession address its diversity and inclusiveness problems by engaging with minority authors seriously and supporting your fellow minority students.
 
