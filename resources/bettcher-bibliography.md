@@ -11,14 +11,14 @@ include: false
 
 <p style="text-align: center; padding-top: 0.25em; margin-bottom: -0.25em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
-## Table of contents
+## Table of Contents
 
   1. [Publications: Berkeley](#publication-berkeley)
   2. [Publications: Trans feminism](#publication-trans-feminism)
   3. [Autobiography](#autobiography)
   4. [Interviews](#interviews)
   5. [Comments](#comments)
-  6. [Various other items of interest](#various-other-items-of-interest)
+  6. [Various Other Items of Interest](#various-other-items-of-interest)
 
 <p style="text-align: center; padding-top: 0.25em; margin-bottom: -0.25em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
@@ -83,7 +83,7 @@ include: false
 
  
 
-## Various other items of interest
+## Various Other Items of Interest
 
 ### Performances
 
