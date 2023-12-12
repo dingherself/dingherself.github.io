@@ -9,26 +9,10 @@
 
     <main id="content" role="main" class="container">
       <div class="container">
-        <div class="row justify-content-center align-items-start gx-5 gx-lg-6 gx-xl-7 gx-xxl-3">
-          {%- if page.headerpicurljpeg -%}
-           <div class="col-11 col-md-6 col-lg-5 mt-2 mt-md-5">
-              <p style="text-align:center;">
-                <a href="{{ page.headerpicurljpeg | prepend: site.baseurl }}">
-                  <picture>
-                    <source type="image/webp" srcset="{{ page.headerpicurlwebp | prepend: site.baseurl }}">
-                    <source type="image/jpeg" srcset="{{ page.headerpicurljpeg | prepend: site.baseurl }}">
-                    <img class="img-fluid mt-2 mt-md-3 float-left mw-100 headerphoto" src="{{ page.headerpicurljpeg | prepend: site.baseurl }}" alt="{{ page.headerpicalt }}">
-                  </picture>
-                </a>
-              </p>
-              {%- if page.headerpictext -%}
-                <p style="text-align:center; color: #777; margin-top: -0.5rem;"><small>{{ page.headerpictext }}</small></p>
-              {%- endif -%}
-            </div>
-          {%- endif -%}
-            <div class="col-12 col-md-10 col-lg-8 col-xxl-10 maincontent px-3">
-              {{ content }}
-            </div>
+        <div class="row justify-content-center align-items-start gx-5 gx-lg-6 gx-xl-10 gx-xxl-0">
+          <div class="col-12 col-md-10 col-lg-8 col-xxl-10 maincontent px-4 px-xxl-0">
+            {{ content }}
+          </div>
         </div>
       </div>
     </main>
