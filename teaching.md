@@ -23,8 +23,9 @@ order: 4
 What is the nature of patriarchy, and what would it take to smash it? Can there be “pleasure under patriarchy” in the meantime? What is it to be gendered, to be sexed, to be constructed? What does being a woman mean to queer and trans women? Who and what is feminism ultimately a movement for? In this course, we will trace the development of contemporary feminist philosophy from the early days of the women’s liberation movement to the present, with an emphasis on trans and queer voices, issues, and experiences throughout this fraught history.
 
 <p style="text-align: right; margin-top: -0.5em;">
-    [<a href="/teaching/syllabus/ding-330-syllabus-spring-2024-draft.pdf">draft syllabus</a> | <a href="/teaching/syllabus/ding-330-flyer-spring-2024.pdf">flyer</a>]
+    [<a href="/teaching/syllabus/ding-330-syllabus-spring-2024.pdf">syllabus</a> | <a href="/teaching/syllabus/ding-330-flyer-spring-2024.pdf">flyer</a>]
 </p>
+
 
 ### Law and Morality (Winter 2023; Summer 2023; Summer 2021; Summer 2020)
 
@@ -33,13 +34,6 @@ This course is an introduction to the philosophy of law in general and feminist 
 <p style="text-align: right; margin-top: -0.5em;">
     [<a href="https://github.com/dingherself/phil-324">course website</a>]
 </p>
-
-## Upcoming Course
-
-### Sex, Gender, and Love: An Introduction to Social Philosophy (new Gen Ed approved for Fall 2024)
-
-What is sex? Is it a mere coincident that the English term ‘sex’ refers to both an activity and a system of categorization? How does sex relate to gender and love, and how might the experiences of queer and trans people both complicate and illuminate these connections? What counts as having sex in the first place, and what counts as having good sex? How should we think about consent, desire, objectification, and sexualization in connection to sexual autonomy and gender equality? This course surveys these central questions about sex, gender, and love, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy.
-
 ## Courses Taught
 
 ### Logic in Law (Fall 2022; Spring 2022)
