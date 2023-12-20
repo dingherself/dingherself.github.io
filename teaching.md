@@ -23,7 +23,7 @@ order: 4
 What is the nature of patriarchy, and what would it take to smash it? Can there be “pleasure under patriarchy” in the meantime? What is it to be gendered, to be sexed, to be constructed? What does being a woman mean to queer and trans women? Who and what is feminism ultimately a movement for? In this course, we will trace the development of contemporary feminist philosophy from the early days of the women’s liberation movement to the present, with an emphasis on trans and queer voices, issues, and experiences throughout this fraught history.
 
 <p style="text-align: right; margin-top: -0.5em;">
-    [<a href="/teaching/syllabus/ding-330-syllabus-spring-2024.pdf">syllabus</a> | <a href="/teaching/syllabus/ding-330-flyer-spring-2024.pdf">flyer</a> | <a href="/teaching/02-Beauvoir.pdf">sample handout (Beauvoir)</a>]
+    [<a href="/teaching/syllabus/ding-330-syllabus-spring-2024.pdf">syllabus</a> | <a href="/teaching/syllabus/ding-330-flyer-spring-2024.pdf">flyer</a> | <a href="/teaching/02-Beauvoir.pdf">sample handout</a>]
 </p>
 
 
@@ -41,7 +41,7 @@ This course is an introduction to the philosophy of law in general and feminist 
 This course examines logical reasoning and conceptual analysis in the law, with a focus on the U.S. Supreme Court’s interpretation of the equal protection and due process requirements of the Fourteenth Amendment. Topics will include constitutional interpretation, *stare decisis*, the shadow docket, racial discrimination, sex discrimination, reproductive rights, physician-assisted suicide, and LGBTQ+ rights.
 
 <p style="text-align: right; margin-top: -0.5em;">
-    [<a href="/teaching/syllabus/ding-203-syllabus-fall-2022.pdf">syllabus</a> | <a href="/teaching/27-Dobbs.pdf">sample handout (<em>Dobbs</em>)</a>]
+    [<a href="/teaching/syllabus/ding-203-syllabus-fall-2022.pdf">syllabus</a> | <a href="/teaching/27-Dobbs.pdf">sample handout</a>]
 </p>
 
 ### Medical Ethics (Fall 2021)
