@@ -7,17 +7,22 @@
 
     {% include navbar.html %}
 
-    <main id="content" role="main" class="container">
-      {{ content }}
+    <main id="content" role="main" class="container maincontent"  style="padding-bottom: 3rem;">
+      <div class="container px-4">
+        {{ content }}
+      </div>
     </main>
 
-    <footer class="container" style="padding-bottom: 3rem;">
-      <div class="row justify-content-center">
-        <div class="col-12 col-lg-8 col-xxl-12 maincontent">
-          <!--{% include footer.html %}-->
-        </div>
+    <!--
+    <footer class="container maincontent">
+      <div class="row justify-content-center" align-items-start gx-5 mt-2">
+      <div class="col-12 col-lg-10">
+        {% include footer.html %}
+      </div>
       </div>
     </footer>
+    -->
+
     {% include scripts.html %}
   </body>
 </html>

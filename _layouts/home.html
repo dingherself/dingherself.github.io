@@ -9,8 +9,9 @@
       <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
       <title>Ding · Homepage</title>
+    
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap">
 
-      <!-- Ding's modified Bootstrap CSS -->
       <link href="{{ 'assets/ding.css' | relative_url }}" rel="stylesheet">
     
       <!-- Mastodon -->
@@ -19,48 +20,39 @@
       {% include favicons.html %}
 
       <script async src='https://www.googletagmanager.com/gtag/js?id=UA-127390411-1'></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-          gtag('config', 'UA-127390411-1');
-        </script>
+        gtag('config', 'UA-127390411-1');
+      </script>
   </head>
-<body>
-  {% include navbar.html %}
 
-  <main id="content" role="main" class="container">
-    <div class="container">
-      <div class="row justify-content-center align-items-start gx-5 gx-lg-6 gx-xl-10 gx-xxl-0">
-        <div class="col-11 col-md-6 col-lg-5 mt-2 mt-md-5">
-          <p style="text-align:center;">
-            <a href="{{ page.headerpicurljpeg | prepend: site.baseurl }}">
-              <picture>
-                <source type="image/webp" srcset="{{ page.headerpicurlwebp | prepend: site.baseurl }}">
-                <source type="image/jpeg" srcset="{{ page.headerpicurljpeg | prepend: site.baseurl }}">
-                <img class="img-fluid mt-2 mt-md-3 float-left mw-100 headerphoto" src="{{ page.headerpicurljpeg | prepend: site.baseurl }}" alt="{{ page.headerpicalt }}">
-              </picture>
-            </a>
-          </p>
-          {%- if page.headerpictext -%}
-            <p style="text-align:center; color: #777; margin-top: -0.5rem;"><small>{{ page.headerpictext }}</small></p>
-          {%- endif -%}
-        </div>
-        <div class="col-12 col-md-6 col-lg-6 maincontent px-4 px-xxl-0">
-          {{ content }}
-        </div>
+  <body>
+   
+    {% include navbar.html %}
+    
+    <!--
+      I owe the design of this page in very large part to Sara Bernstein (https://www3.nd.edu/~sbernste/), Sarah Moss (http://www-personal.umich.edu/~ssmoss/), and Lauren N. Ross (https://sites.socsci.uci.edu/~rossl/).
+    -->
+
+    <main id="content" role="main" class="container maincontent"  style="padding-bottom: 3rem;">
+      <div class="container px-4">
+        {{ content }}
       </div>
+    </main>
+
+  <!--
+  <footer class="container maincontent">
+    <div class="row justify-content-center" align-items-start gx-5 mt-2">
+    <div class="col-12 col-lg-10">
+      {% include footer.html %}
     </div>
-  </main>
-
-  <footer class="container" style="padding-bottom: 3rem;">
-    <div class="row justify-content-center">
-      <div class="col-12 col-lg-8 col-xxl-12 maincontent">
-        <!--{% include footer.html %}-->
-      </div>
     </div>
   </footer>
+  -->
+
   {% include scripts.html %}
 </body>
 </html>

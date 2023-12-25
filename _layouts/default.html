@@ -7,23 +7,26 @@
 
     {% include navbar.html %}
 
-    <main id="content" role="main" class="container">
-      <div class="container">
-        <div class="row justify-content-center align-items-start gx-5 gx-lg-6 gx-xl-10 gx-xxl-0">
-          <div class="col-12 col-md-10 col-lg-8 col-xxl-10 maincontent px-4 px-xxl-0">
+    <main id="content" role="main" class="container" style="padding-bottom: 3rem;">
+      <div class="container maincontent">
+        <div class="row justify-content-center align-items-start gx-5 mt-2">
+          <div class="col-12 col-md-10 col-lg-8">
             {{ content }}
           </div>
         </div>
       </div>
     </main>
 
-    <footer class="container" style="padding-bottom: 3rem;">
-      <div class="row justify-content-center">
-        <div class="col-12 col-lg-8 col-xxl-12 maincontent">
-          <!--{% include footer.html %}-->
-        </div>
+    <!--
+    <footer class="container maincontent">
+      <div class="row justify-content-center" align-items-start gx-5 mt-2">
+      <div class="col-12 col-lg-10">
+        {% include footer.html %}
+      </div>
       </div>
     </footer>
+    -->
+
     {% include scripts.html %}
   </body>
 </html>
