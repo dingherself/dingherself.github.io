@@ -15,7 +15,10 @@
     {%- endif -%}
   </title>
 
-  <!-- Ding's modified Bootstrap CSS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+  
   <link href="{{ site.baseurl }}/assets/ding.css" rel="stylesheet">
 
   {% include favicons.html %}
@@ -28,10 +31,12 @@
 
       gtag('config', 'UA-127390411-1');
     </script>
-<link rel="canonical" href="{{ page.redirect_to }}"/>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta http-equiv="refresh" content="3; url={{ page.redirect_to }}" />
+
+    <link rel="canonical" href="{{ page.redirect_to }}"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="refresh" content="3; url={{ page.redirect_to }}" />
 </head>
+
 <body>
 
     {% include navbar.html %}
