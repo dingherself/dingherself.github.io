@@ -15,55 +15,46 @@
     {%- endif -%}
   </title>
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
-  
-  <link href="{{ site.baseurl }}/assets/ding.css" rel="stylesheet">
+  {% include css.html %}
 
   {% include favicons.html %}
 
-  <script async src='https://www.googletagmanager.com/gtag/js?id=UA-127390411-1'></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+  {% include GA.html %}
 
-      gtag('config', 'UA-127390411-1');
-    </script>
-
-    <link rel="canonical" href="{{ page.redirect_to }}"/>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta http-equiv="refresh" content="3; url={{ page.redirect_to }}" />
+  <link rel="canonical" href="{{ page.redirect_to }}"/>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="refresh" content="3; url={{ page.redirect_to }}" />
 </head>
 
 <body>
 
-    {% include navbar.html %}
+  {% include navbar.html %}
 
-    <main id="content" role="main" class="container">
-      <div class="container">
-        <div class="row justify-content-center align-items-start gx-5 gx-lg-6 gx-xl-10 gx-xxl-0">
-          <div class="col-12 col-md-6 col-lg-6 maincontent px-4 px-xxl-0">
-            <h1>This page has moved...</h1>
-              <p><a href="{{ page.redirect_to }}">Please click here in case you are not automatically redirected.</a></p>
-              <script>
-                var timer = setTimeout(function() {
-                  window.location="{{ page.redirect_to }}"
-                }, 3000);
-              </script>
-          </div>
+  <main id="content" role="main" class="container">
+    <div class="container">
+      <div class="row justify-content-center align-items-start gx-5 gx-lg-6 gx-xl-10 gx-xxl-0">
+        <div class="col-12 col-md-6 col-lg-6 maincontent px-4 px-xxl-0">
+          <h1>This page has moved...</h1>
+            <p><a href="{{ page.redirect_to }}">Please click here in case you are not automatically redirected.</a></p>
+            <script>
+              var timer = setTimeout(function() {
+                window.location="{{ page.redirect_to }}"
+              }, 3000);
+            </script>
         </div>
       </div>
-    </main>
+    </div>
+  </main>
 
-    <footer class="container" style="padding-bottom: 3rem;">
-      <div class="row justify-content-center">
-        <div class="col-12 col-lg-8 col-xxl-12 maincontent">
-          <!--{% include footer.html %}-->
-        </div>
+  <footer class="container" style="padding-bottom: 3rem;">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8 col-xxl-12 maincontent">
+        <!--{% include footer.html %}-->
       </div>
-    </footer>
-    {% include scripts.html %}
-  </body>
+    </div>
+  </footer>
+  
+  {% include scripts.html %}
+
+</body>
 </html>

@@ -2,33 +2,22 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <meta name="description" content="{{ page.description | default: site.description | smartify }}">
-      <meta name="author" content="{{ site.authors }}">
-      <meta name="generator" content="Jekyll v{{ jekyll.version }}">
-      <link rel="canonical" href="{{ page.url | absolute_url }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{ page.description | default: site.description | smartify }}">
+    <meta name="author" content="{{ site.authors }}">
+    <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
-      <title>Ding · Homepage</title>
-    
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-      <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+    <title>Ding · Homepage</title>
+  
+    {% include css.html %}
+  
+    <!-- Mastodon -->
+    <link href="https://queer.party/@ding" rel="me">
+  
+    {% include favicons.html %}
+    {% include GA.html %}
 
-      <link href="{{ 'assets/ding.css' | relative_url }}" rel="stylesheet">
-    
-      <!-- Mastodon -->
-      <link href="https://queer.party/@ding" rel="me">
-    
-      {% include favicons.html %}
-
-      <script async src='https://www.googletagmanager.com/gtag/js?id=UA-127390411-1'></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-127390411-1');
-      </script>
   </head>
 
   <body>
