@@ -8,4 +8,5 @@ sitemap: false
 
 # Handout
 
-- [UCLA workshop]({{ site.baseurl }}{% link research/ding-neutral-application-ucla-handout.pdf %})
+- [Pacific APA 2024]({{ site.baseurl }}{% link research/ding-neutral-application-pacific-apa-handout.pdf %})
+- [Central APA 2024]({{ site.baseurl }}{% link research/ding-taking-gender-seriously-central-apa-handout.pdf %})
