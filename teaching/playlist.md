@@ -72,6 +72,7 @@ include: false
 
 ## Informational
 
+- [It Took Science 2,000 Years to Find the Clitoris](https://youtu.be/00_l275CHqc?si=d1HejaPSlZvUERjo)
 - [What It's Like To Be Intersex](https://www.youtube.com/watch?v=cAUDKEI4QKI)
 - [If dysphoria was a person](https://youtu.be/NtUo3z3gL78)
 - [Bias In Medicine: Last Week Tonight with John Oliver](https://youtu.be/TATSAHJKRd8)
