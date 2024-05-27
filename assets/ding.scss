@@ -1,6 +1,11 @@
 ---
 ---
 
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import "functions";
+
+// 2. Include any default variable overrides here
+
 $font-family-sans-serif:
 'Lora',
 // Safari for OS X and iOS (San Francisco)
@@ -18,14 +23,22 @@ $font-family-sans-serif:
 "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
 $body-color: #333;
+$body-color-dark: #e3ebf3;
 $black: #333;
+$white: #fff;
 $dingred: #bd000b;
+$dingdarkred: tint-color($dingred, 43%);
 $primary: $dingred;
 
+$primary-text-emphasis-dark: $dingdarkred;
+$primary-bg-subtle-dark: $dingdarkred;
+$primary-border-subtle-dark: $dingdarkred;
+$link-color-dark: $dingdarkred;
+
 $navbar-light-color: rgba($black, .7);
-$navbar-light-hover-color: rgba($black, 1.0);
 $navbar-light-active-color: rgba($dingred, .8);
 $navbar-light-toggler-border-color: rgba($black, .4);
+$navbar-light-brand-color: $black;
 
 $font-weight-light: 400;
 $font-weight-normal: 500;
@@ -98,15 +111,80 @@ $gutters: (
   10: $spacer * 5,
 );
 
-/////////////////////////////////////////
-// Bootstrap and its default variables //
-/////////////////////////////////////////
+// 3. Include remainder of required Bootstrap stylesheets (including any separate color mode stylesheets)
+@import "variables";
+@import "variables-dark";
 
-@import "bootstrap";
+// 4. Include any default map overrides here
 
-//////////////////////////
-// Ding's css overrides //
-//////////////////////////
+// 5. Include remainder of required parts
+@import "maps";
+@import "mixins";
+@import "root";
+
+// 6. Optionally include any other parts as needed
+@import "utilities";
+@import "reboot";
+@import "type";
+@import "images";
+@import "containers";
+@import "grid";
+@import "tables";
+@import "forms";
+@import "buttons";
+@import "transitions";
+@import "dropdown";
+@import "button-group";
+@import "nav";
+@import "navbar";
+@import "card";
+@import "accordion";
+@import "breadcrumb";
+@import "pagination";
+@import "badge";
+@import "alert";
+@import "progress";
+@import "list-group";
+@import "close";
+@import "toasts";
+@import "modal";
+@import "tooltip";
+@import "popover";
+@import "carousel";
+@import "spinners";
+@import "offcanvas";
+@import "placeholders";
+
+// Helpers
+@import "helpers";
+
+// 7. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
+@import "utilities/api";
+
+// 8. Add additional custom code here
+
+[data-bs-theme="dark"] {
+  .navbar-brand, .nav-link {
+    color: #fff;
+  }
+
+  .nav-link.active, .nav-link.show {
+    color: #{$dingdarkred};
+  }
+
+  .btn-outline-primary {
+    --bs-btn-color: #{$dingdarkred};
+    --bs-btn-border-color: #{$dingdarkred};
+    --bs-btn-hover-bg: #{$dingdarkred};
+    --bs-btn-hover-border-color: #{$dingdarkred};
+    --bs-btn-focus-shadow-rgb: 217, 110, 116;
+    --bs-btn-active-bg: #{$dingdarkred};
+    --bs-btn-active-border-color: #{$dingdarkred};
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(227, 235, 243, 0.875);
+    --bs-btn-disabled-color: #{$dingdarkred};
+    --bs-btn-disabled-border-color: #{$dingdarkred};
+  }
+}
 
 .card-body p {
   margin-bottom: 0rem;
