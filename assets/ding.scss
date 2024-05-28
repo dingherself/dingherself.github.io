@@ -165,7 +165,7 @@ $gutters: (
 
 [data-bs-theme="dark"] {
   .navbar-brand, .nav-link {
-    color: #fff;
+    color: #{$body-color-dark};
   }
 
   .nav-link.active, .nav-link.show {
