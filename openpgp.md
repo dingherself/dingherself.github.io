@@ -16,4 +16,4 @@ If better security is needed, encrypt your message to this key (which I keep off
 
 - [799D A37A 5A20 DC45 6ECB  55A6 2D86 424E 27FC 7AE9](https://openpgpkey.dingthemself.com/799DA37A5A20DC456ECB55A62D86424E27FC7AE9.asc)
 
-This site supports WKD and you can get the keys that way too.
+This site implements WKD and you can fetch the keys that way too.
