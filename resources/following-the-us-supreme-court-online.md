@@ -12,7 +12,7 @@ include: false
 
 <p style="text-align: center; padding-top: 0.25em; margin-bottom: 1em;">&#42;&nbsp;&nbsp;&#42;&nbsp;&nbsp;&#42;</p>
 
-As our class is focused heavily on the U.S. Supreme Court’s cases interpreting the 14th Amendment, you will probably find the experience a lot more rewarding if you keep an eye out for what’s going on at One First Street (a.k.a. the Supreme Court Building). For example, this upcoming term the Court is set to revisit the use of race-conscious affirmative action in college admissions.
+As our class focuses heavily on the U.S. Supreme Court’s cases interpreting the 14th Amendment, you will probably find the experience a lot more rewarding if you keep an eye out for what’s going on at One First Street (a.k.a. the Supreme Court Building). For example, this upcoming term the Court is set to revisit the use of race-conscious affirmative action in college admissions.
 
 While major news outlets like *Washington Post* and *New York Times* cover the Court, their reporting is geared to a more general audience. [SCOTUSblog](https://www.scotusblog.com), on the other hand, serves a more specialized legal community while doing a very respectable job of being accessible. They provide oral argument previews/recaps, live coverage on pre-announced opinion/order days, and opinion/order recaps. [*Slate*'s coverage of the Court](https://slate.com/tag/supreme-court) is at once legally rigorous and journalistically sharp---chef's kiss.
 
