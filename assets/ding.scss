@@ -195,6 +195,13 @@ $gutters: (
   margin-bottom: 1rem;
 }
 
+// long url overflow
+
+html {
+  word-wrap: break-word;
+  word-break: break-word
+}
+
 h1, .h1 {
   margin-top: 0.875rem;
 }
