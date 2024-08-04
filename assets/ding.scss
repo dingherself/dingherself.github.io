@@ -14,10 +14,10 @@ $font-family-sans-serif:
 //BlinkMacSystemFont,
 // Windows
 //"Segoe UI",
-// Basic web fallback
-"Hoefler Text", "Palatino", "Times New Roman", Times, serif,
 // Android
 //"Roboto",
+// Basic web fallback
+"Hoefler Text", "Palatino", "Times New Roman", Times, serif,
 //"Verdana", "Arial", sans-serif,
 // Emoji fonts
 "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
@@ -35,10 +35,12 @@ $primary-bg-subtle-dark: $dingdarkred;
 $primary-border-subtle-dark: $dingdarkred;
 $link-color-dark: $dingdarkred;
 
-$navbar-light-color: rgba($black, .7);
-$navbar-light-active-color: rgba($dingred, .8);
+$navbar-light-color: $body-color;
+$navbar-light-hover-color: shift-color($body-color, 100%);
+$navbar-light-active-color: $dingred;
 $navbar-light-toggler-border-color: rgba($black, .4);
-$navbar-light-brand-color: rgba($black, .7);
+$navbar-light-brand-color: $body-color;
+$navbar-light-brand-hover-color: shift-color($body-color, 100%);
 
 $font-weight-light: 400;
 $font-weight-normal: 500;
@@ -164,8 +166,12 @@ $gutters: (
 // 8. Add additional custom code here
 
 [data-bs-theme="dark"] {
-  .navbar-brand, .nav-link {
-    color: #{$body-color-dark};
+  .navbar {
+    --bs-navbar-color: $body-color-dark;
+    --bs-navbar-hover-color: #{shift-color($body-color-dark, -100%)};
+    --bs-navbar-active-color: #{$dingdarkred};
+    --bs-navbar-brand-color: $body-color-dark;
+    --bs-navbar-brand-hover-color: #{shift-color($body-color-dark, -100%)};
   }
 
   .nav-link.active, .nav-link.show {
@@ -184,6 +190,14 @@ $gutters: (
     --bs-btn-disabled-color: #{$dingdarkred};
     --bs-btn-disabled-border-color: #{$dingdarkred};
   }
+}
+
+nav[data-toggle="toc"] .nav .active .nav {
+  display: none;
+}
+
+.nav-link:focus-visible {
+    box-shadow: none;
 }
 
 .card-body p {
@@ -221,8 +235,19 @@ li {
   max-width: 800px;
 }
 
+.small-screen-not-sticky {
+  position: static;
+  margin-bottom: 2.25rem;
+}
+
 @include media-breakpoint-up(md) {
   .maincontent {
     max-width: 975px;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .small-screen-not-sticky {
+    position: sticky;
   }
 }
