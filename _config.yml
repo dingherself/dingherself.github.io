@@ -1,5 +1,5 @@
 # Dependencies
-markdown:       kramdown
+markdown:     kramdown
 highlighter:    rouge
 
 kramdown:
@@ -19,6 +19,7 @@ baseurl:           ""
 url:                  "https://dingherself.com"
 encoding:       UTF-8
 timezone:       America/Phoenix
+lang:               en
 exclude:
   - .git/
   - .github/

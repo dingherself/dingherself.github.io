@@ -1,0 +1,10 @@
+    <meta charset="{{ page.encoding | default: site.encoding | default: 'utf-8' }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{ page.description | default: site_description | smartify }}">
+    <meta name="author" content="{{ site.instructor | smartify }}">
+{%- if page.redirect_to %}
+    <link rel="canonical" href="{{ page.redirect_to }}" />
+    <meta http-equiv="refresh" content="3; url={{ page.redirect_to }}" />
+{%- else %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}" />
+{%- endif -%}

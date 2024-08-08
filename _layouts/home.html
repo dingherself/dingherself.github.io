@@ -1,34 +1,27 @@
 <!doctype html>
-<html lang="en" data-bs-theme="dark">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" data-bs-theme="dark">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="{{ page.description | default: site.description | smartify }}">
-    <meta name="author" content="{{ site.authors }}">
-    <meta name="generator" content="Jekyll v{{ jekyll.version }}">
-    <link rel="canonical" href="{{ page.url | absolute_url }}" />
+{% include meta.html %}
 
     <script src="{{ 'assets/color-mode-toggle.js' | relative_url }}"></script>
-
     <title>Ding · Homepage</title>
-  
-    {% include css.html %}
-  
+
+{% include css.html %}
+
     <!-- Mastodon -->
     <link href="https://queer.party/@ding" rel="me">
-  
-    {% include favicons.html %}
-    {% include GA.html %}
 
+{% include favicons.html %}
+
+{% include GA.html %}
   </head>
-
   <body>
 
     <!--
       I owe the design of this page in very large part to Sara Bernstein (https://www3.nd.edu/~sbernste/), Sarah Moss (http://www-personal.umich.edu/~ssmoss/), and Lauren N. Ross (https://sites.socsci.uci.edu/~rossl/).
     -->
    
-    {% include navbar.html %}
+{% include navbar.html %}
 
     <main id="content" role="main" class="container maincontent"  style="padding-bottom: 3rem;">
       <div class="container px-4">
@@ -36,16 +29,16 @@
       </div>
     </main>
 
-  <!--
-  <footer class="container maincontent">
-    <div class="row justify-content-center" align-items-start gx-5 mt-2">
-    <div class="col-12 col-lg-10">
-      {% include footer.html %}
-    </div>
-    </div>
-  </footer>
-  -->
+    <!--
+    <footer class="container maincontent">
+      <div class="row justify-content-center" align-items-start gx-5 mt-2">
+      <div class="col-12 col-lg-10">
+        {% include footer.html %}
+      </div>
+      </div>
+    </footer>
+    -->
 
-  {% include scripts.html %}
-</body>
+{% include scripts.html %}
+  </body>
 </html>
