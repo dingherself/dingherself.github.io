@@ -7,5 +7,4 @@ include: false
 
 # Handouts
 
-- [Pacific APA 2024]({{ site.baseurl }}{% link research/ding-neutral-application-pacific-apa-handout.pdf %})
-- [Central APA 2024]({{ site.baseurl }}{% link research/ding-taking-gender-seriously-central-apa-handout.pdf %})
+- [UoG Trans/Feminist Philosophy Conference]({{ site.baseurl }}{% link research/ding-gender-from-the-ground-up-handout.pdf %})
