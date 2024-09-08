@@ -4,6 +4,7 @@ Disallow: /ding.jpeg
 Disallow: /handout/
 Disallow: /handouts/
 Disallow: /s/
+Disallow: /research/ding-pregnant-persons.pdf
 Sitemap: https://dingherself.com/sitemap.xml
 
 User-agent: Twitterbot
@@ -11,6 +12,7 @@ Allow: /ding.jpg
 Allow: /ding.jpeg
 Allow: /handout/
 Allow: /handouts/
+Allow: /research/ding-pregnant-persons.pdf
 
 User-agent: GPTBot
 Disallow: /
