@@ -1,7 +1,7 @@
     <title>
       {%- if page.title -%}
-        {{ page.title | smartify }} · {{ site.title | smartify }}
+        {{ page.title | strip_html | smartify }} · {{ site.title | strip_html | smartify }}
       {%- else -%}
-        {{ site.title | smartify }} · {{ site.description | smartify }}
+        {{ site.title | strip_html | smartify }} · {{ site.description | strip_html | smartify }}
       {%- endif -%}
     </title>
