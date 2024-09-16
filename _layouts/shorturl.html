@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+            <h1>Redirecting...</h1>
+              <p><a href="{{ page.redirect_to }}">Please click here in case you are not automatically redirected.</a></p>
+              <script>
+                var timer = setTimeout(function() {
+                  window.location="{{ page.redirect_to }}"
+                }, 3000);
+              </script>
