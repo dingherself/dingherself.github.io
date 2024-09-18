@@ -4,7 +4,12 @@
     <meta name="author" content="{{ site.authors | strip_html | smartify }}">
 {%- if page.redirect_to %}
     <link rel="canonical" href="{{ page.redirect_to }}" />
-    <meta http-equiv="refresh" content="3; url={{ page.redirect_to }}" />
 {%- else %}
     <link rel="canonical" href="{{ page.url | absolute_url }}" />
+{%- endif -%}
+{%- if page.redirect_to and page.layout == "shorturl" %}
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}" />
+{%- endif -%}
+{%- if page.redirect_to and page.layout != "shorturl" %}
+    <meta http-equiv="refresh" content="3; url={{ page.redirect_to }}" />
 {%- endif -%}
