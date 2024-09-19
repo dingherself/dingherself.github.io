@@ -1,6 +1,6 @@
     <meta charset="{{ page.encoding | default: site.encoding | default: 'utf-8' }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="{{ page.description | default: site_description | strip_html | smartify }}">
+    <meta name="description" content="{{ page.description | default: site.description | strip_html | smartify }}">
     <meta name="author" content="{{ site.authors | strip_html | smartify }}">
 {%- if page.redirect_to %}
     <link rel="canonical" href="{{ page.redirect_to }}" />
