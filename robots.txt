@@ -1,6 +1,8 @@
 User-agent: *
 Disallow: /ding.jpg
 Disallow: /ding.jpeg
+Disallow: /ding-card.jpg
+Disallow: /ding-card.jpeg
 Disallow: /handout
 Disallow: /handout/
 Disallow: /handouts
@@ -16,6 +18,52 @@ Sitemap: https://dingherself.com/sitemap.xml
 User-agent: Twitterbot
 Allow: /ding.jpg
 Allow: /ding.jpeg
+Allow: /ding-card.jpg
+Allow: /ding-card.jpeg
+Allow: /handout
+Allow: /handout/
+Allow: /handouts
+Allow: /handouts/
+Allow: /research/ding-pregnant-persons.pdf
+
+User-agent: TelegramBot
+Allow: /ding.jpg
+Allow: /ding.jpeg
+Allow: /ding-card.jpg
+Allow: /ding-card.jpeg
+Allow: /handout
+Allow: /handout/
+Allow: /handouts
+Allow: /handouts/
+Allow: /research/ding-pregnant-persons.pdf
+
+User-agent: LinkedInBot
+Allow: /ding.jpg
+Allow: /ding.jpeg
+Allow: /ding-card.jpg
+Allow: /ding-card.jpeg
+Allow: /handout
+Allow: /handout/
+Allow: /handouts
+Allow: /handouts/
+Allow: /research/ding-pregnant-persons.pdf
+
+User-agent: Discordbot
+Allow: /ding.jpg
+Allow: /ding.jpeg
+Allow: /ding-card.jpg
+Allow: /ding-card.jpeg
+Allow: /handout
+Allow: /handout/
+Allow: /handouts
+Allow: /handouts/
+Allow: /research/ding-pregnant-persons.pdf
+
+User-agent: Applebot
+Allow: /ding.jpg
+Allow: /ding.jpeg
+Allow: /ding-card.jpg
+Allow: /ding-card.jpeg
 Allow: /handout
 Allow: /handout/
 Allow: /handouts

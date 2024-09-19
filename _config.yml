@@ -54,7 +54,7 @@ title:              Ding
 description:        "Ding is a feminist philosopher specializing in the politics, law, and metaphysics of gender, with a view to its relationship with sexuality, race, borders, disability, carceral institutions, and biomedical technologies."
 #twitter:            getbootstrap
 authors:            "Ding"
-#social_image_path:  /assets/brand/bootstrap-social.png
+image:              "https://dingherself.com/ding-card.jpeg"
 #social_logo_path:   /assets/brand/bootstrap-social-logo.png
 
 # Custom variables
