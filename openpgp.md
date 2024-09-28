@@ -8,7 +8,7 @@ sitemap: true
 
 # OpenPGP
 
-For email encryption/signing (note that the private key for this one is <a href="https://proton.me/support/how-is-the-private-key-stored" target="_blank" rel="noopener noreferrer">managed by Proton</a>, though they claim not to have access to the password that protects it):
+For email encryption/signing (note that the private key for this one is <a href="https://proton.me/support/how-is-the-private-key-stored" target="_blank" rel="noopener noreferrer">managed by Proton</a>, even if they claim not to have access to the password that protects it):
 
 - [64C4 C38D 5BEC 5BE1 FB93 BF63 DA02 A9E7 DC4B 6DAC](https://openpgpkey.dingthemself.com/64C4C38D5BEC5BE1FB93BF63DA02A9E7DC4B6DAC.asc)
 
