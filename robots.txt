@@ -12,7 +12,6 @@ Disallow: /teaching/evaluations/
 Disallow: /playlist/130
 Disallow: /playlist/130/
 Disallow: /s/
-Disallow: /research/ding-pregnant-persons.pdf
 Sitemap: https://dingherself.com/sitemap.xml
 
 User-agent: Twitterbot
@@ -24,7 +23,6 @@ Allow: /handout
 Allow: /handout/
 Allow: /handouts
 Allow: /handouts/
-Allow: /research/ding-pregnant-persons.pdf
 
 User-agent: TelegramBot
 Allow: /ding.jpg
@@ -35,7 +33,6 @@ Allow: /handout
 Allow: /handout/
 Allow: /handouts
 Allow: /handouts/
-Allow: /research/ding-pregnant-persons.pdf
 
 User-agent: LinkedInBot
 Allow: /ding.jpg
@@ -46,7 +43,6 @@ Allow: /handout
 Allow: /handout/
 Allow: /handouts
 Allow: /handouts/
-Allow: /research/ding-pregnant-persons.pdf
 
 User-agent: Discordbot
 Allow: /ding.jpg
@@ -57,7 +53,6 @@ Allow: /handout
 Allow: /handout/
 Allow: /handouts
 Allow: /handouts/
-Allow: /research/ding-pregnant-persons.pdf
 
 User-agent: Applebot
 Allow: /ding.jpg
@@ -68,7 +63,6 @@ Allow: /handout
 Allow: /handout/
 Allow: /handouts
 Allow: /handouts/
-Allow: /research/ding-pregnant-persons.pdf
 
 User-agent: GPTBot
 Disallow: /
