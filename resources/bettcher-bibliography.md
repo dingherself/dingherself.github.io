@@ -68,6 +68,7 @@ include: false
 - [“Comments on Gayle Salamon’s *The Life and Death of Latisha King*,”](https://www.pdcnet.org/philtoday/content/philtoday_2022_0066_0001_0191_0198) *Philosophy Today* (2022)
 - [“Phenomenology, Agency, and Rape: Comments on Heyes’s *Anaesthetics of Existence*,”](https://ojs.lib.uwo.ca/index.php/fpq/article/view/16601) *Feminist Philosophy Quarterly* (2023)
 - [*Trans Philosophy*](https://www.upress.umn.edu/9781517917043/trans-philosophy/), co-edited with Perry Zurn, Andrea Pitts, and P. J. DiPietro (Minneapolis: University of Minnesota Press, 2024) – from [Prof. Zurn’s Twitter](https://x.com/perryzurn/status/1791056982486528399): use MN91300 for 40% off by September 1, 2024
+- [*Beyond Personhood: An Essay in Trans Philosophy*](https://www.upress.umn.edu/9781517902575/beyond-personhood/) (Minneapolis: University of Minnesota Press, forthcoming in March 2025)
 
 ## Autobiography
 
