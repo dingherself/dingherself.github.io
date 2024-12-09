@@ -34,7 +34,7 @@ include: false
 - “Berkeley on Self-Consciousness,” in [*New Interpretations of Berkeley’s Thought*](https://search.worldcat.org/title/148732421), ed.  Stephen H. Daniel (Amherst, NY: Humanity Books, 2008)
 - [“Berkeley’s Dualistic Ontology,”](https://web.archive.org/web/20120319211851/http://www.calstatela.edu/faculty/tbettch/BerkeleyDualism.pdf) *Análisis Filosófico* (2008)
 - [“Berkeley and Hume on Self and Self-consciousness,”](https://web.archive.org/web/20120127034905/http://www.calstatela.edu/faculty/tbettch/Berkeley%20and%20Hume%20on%20Self%20and%20Self-Consciousness.pdf) in *Topics in Early Modern Philosophy of Mind*, ed. Jon Miller (n.p.: Springer, 2009)
-- [“Abstraction: Berkeley Against Locke,”](https://web.archive.org/web/20120127035618/http://www.calstatela.edu/faculty/tbettch/Abstractions.pdf) in *Berkeley’s Lasting Legacy: 300 Years Later*, ed. Bertil Belfrage and Timo Airaksinen (Tyne: Cambridge Scholars Publishing, 2011)
+- [“Abstraction: Berkeley against Locke,”](https://web.archive.org/web/20120127035618/http://www.calstatela.edu/faculty/tbettch/Abstractions.pdf) in *Berkeley’s Lasting Legacy: 300 Years Later*, ed. Bertil Belfrage and Timo Airaksinen (Tyne: Cambridge Scholars Publishing, 2011)
 - [“Berkeley’s Theory of Mind: Some New Models,”](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1747-9991.2011.00427.x) *Philosophy Compass* (2011)
 
 ### Trans Feminism
