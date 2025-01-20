@@ -7,6 +7,7 @@ Disallow: /handout
 Disallow: /handout/
 Disallow: /handouts
 Disallow: /handouts/
+Disallow: /teaching/ding-teaching-evaluations.pdf
 Disallow: /teaching/evaluations
 Disallow: /teaching/evaluations/
 Disallow: /playlist/130
