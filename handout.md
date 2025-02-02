@@ -7,4 +7,5 @@ include: false
 
 # Handouts
 
-- [“The Building Brick Theory of Gender”]({{ site.baseurl }}{% link research/ding-lego-handout.pdf %}) (Jan 31, 2025)
+- [Association for Political Theory 2024]({{ site.baseurl }}{% link research/ding-neutral-application-apt-handout.pdf %})
+- [UoG Trans/Feminist Philosophy Conference]({{ site.baseurl }}{% link handouts/ding-gender-from-the-ground-up-handout.pdf %})
