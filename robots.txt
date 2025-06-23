@@ -9,8 +9,6 @@ Disallow: /teaching/evaluations/
 Disallow: /playlist/130
 Disallow: /playlist/130/
 Disallow: /s/
-Disallow: /research/ding-euthyphro.pdf
-Disallow: /research/ding-the-cisgender-tipping-point.pdf
 Sitemap: https://dingherself.com/sitemap.xml
 
 User-agent: Twitterbot
