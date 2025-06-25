@@ -7,6 +7,7 @@ include: false
 
 # Handouts
 
+- [Dissertation defense]({{ site.baseurl }}{% link handouts/ding-defense-handout.pdf %})
 - [WOGAP 2025]({{ site.baseurl }}{% link handouts/ding-euthyphro-wogap-handout.pdf %})
 - [Queer AΦ]({{ site.baseurl }}{% link handouts/ding-trans-meaning-crafting-queer-af-handout.pdf %})
 - [Trans Thinking 2025]({{ site.baseurl }}{% link handouts/ding-justice-misgendered-tttt-handout.pdf %})
