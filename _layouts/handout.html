@@ -12,12 +12,8 @@ layout: default
 <h1>{{ page.title | smartify}}</h1>
 
 <p style="font-size: 0.95rem; margin-bottom: 0.25em;">
-{% if page.subtitle == nil %}<script src="/e.js"></script><noscript>[you must enable JavaScript in your web browser to view the email address]</noscript>{% else %}{{ page.subtitle }}{%- endif %}</p>
+{% if page.subtitle == nil %}Ding (<script src="/e.js"></script><noscript>[you must enable JavaScript in your web browser to view the email address]</noscript>){% else %}{{ page.subtitle }}{%- endif %}</p>
 
-<p style="font-size: 0.95rem; font-style: italic; margin-bottom: 1.25rem;">{{ page.date | date: "%B %e, %Y" }}</p>
-
-<div class="d-grid d-lg-block d-print-none flex-wrap" style="margin-bottom: 2.25rem;">
-  <button class="btn btn-outline-primary btn-sm" type="button" onClick="window.print()"><span>print this page</span></button>
-</div>
+<p style="font-size: 0.95rem; font-style: italic; margin-bottom: 2.25rem;">{{ page.date | date: "%B %e, %Y" }}</p>
 
 {{ content }}

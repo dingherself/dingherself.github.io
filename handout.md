@@ -7,7 +7,6 @@ include: false
 
 # Handouts
 
-- [APA Eastern 2026]({{ site.baseurl }}{% link handouts/2601-eastern-apa.md %})
 - [Dissertation defense]({{ site.baseurl }}{% link handouts/ding-defense-handout.pdf %})
 - [WOGAP 2025]({{ site.baseurl }}{% link handouts/ding-euthyphro-wogap-handout.pdf %})
 - [Queer AΦ]({{ site.baseurl }}{% link handouts/ding-trans-meaning-crafting-queer-af-handout.pdf %})
