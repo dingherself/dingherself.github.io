@@ -42,7 +42,7 @@ exclude:
   - twbsconfig.yml
 
 include:
-  - .well-known
+  - .well-known/
 
 plugins:
   - jekyll-sitemap
