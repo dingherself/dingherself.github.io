@@ -6,19 +6,28 @@ sitemap: true
 
 # OpenPGP
 
-**2026-07-05: New keys for PQC cipher**
+*Last updated: July 15, 2026*
 
-For email encryption/signing (note that the private key for this one is <a href="https://proton.me/support/how-is-the-private-key-stored" target="_blank" rel="noopener noreferrer">managed by Proton</a>, even if they claim not to have access to the password that protects it):
+## Email encryption/signing
 
-- [305B 290E FB24 357D 5825  DF27 D483 38D6 680C 1B21](https://openpgpkey.dingthemself.com/.well-known/openpgpkey/dingthemself.com/hu/8n7kp7z3z33ssxk5e5zcya58g4o9y9az)
+### Work email
 
-If better security is needed, encrypt your message to this key (which I keep offline) and send it over directly in plain text:
+- [DCF1 CF10 361E 2A40 0564 8800 1032 5838 99AC 0FCD](https://dingherself.com/.well-known/openpgpkey/hu/DCF1CF10361E2A40056488001032583899AC0FCD)
 
-- [5F753 E2979 BB902 23C81 0FE80 DE5A4 30CD4 E9C98 D9160 725EF](https://openpgpkey.dingthemself.com/.well-known/openpgpkey/dingthemself.com/hu/8g1e4z8b7aju56yjyd9ufqsyhndkytsr)
+### Personal email
+
+N.B. The private key for this one is <a href="https://proton.me/support/how-is-the-private-key-stored" target="_blank" rel="noopener noreferrer">managed by Proton</a>, even if they claim not to have access to the password that protects it).
+
+- [305B 290E FB24 357D 5825  DF27 D483 38D6 680C 1B21](https://dingherself.com/.well-known/openpgpkey/hu/305B290EFB24357D5825DF27D48338D6680C1B21)
+
+## If more security is needed...
+
+Encrypt your message to this key and send it over directly in plain text.
+
+- [5F753 E2979 BB902 23C81 0FE80 DE5A4 30CD4 E9C98 D9160 725EF](https://dingherself.com/.well-known/openpgpkey/hu/5F753E2979BB90223C810FE80DE5A430CD4E9C98D9160725EF7C012A208B4D36)
 
 You can also fetch the keys via WKD. Or,
 
 ``` 
-curl -s https://openpgpkey.dingthemself.com/.well-known/openpgpkey/dingthemself.com/hu/8n7kp7z3z33ssxk5e5zcya58g4o9y9az https://openpgpkey.dingthemself.com/.well-known/openpgpkey/dingthemself.com/hu/8g1e4z8b7aju56yjyd9ufqsyhndkytsr | gpg --import
+curl -s https://dingherself.com/.well-known/openpgpkey/hu/DCF1CF10361E2A40056488001032583899AC0FCD https://dingherself.com/.well-known/openpgpkey/hu/305B290EFB24357D5825DF27D48338D6680C1B21 https://dingherself.com/.well-known/openpgpkey/hu/5F753E2979BB90223C810FE80DE5A430CD4E9C98D9160725EF7C012A208B4D36 | gpg --import
 ```
-
