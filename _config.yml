@@ -41,6 +41,9 @@ exclude:
   - sache.json
   - twbsconfig.yml
 
+include:
+  - .well-known
+
 plugins:
   - jekyll-sitemap
   - jekyll-target-blank
