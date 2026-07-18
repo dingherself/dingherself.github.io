@@ -8,7 +8,7 @@ sitemap: true
 
 *Last updated: July 15, 2026*
 
-## Email encryption/signing
+## For email encryption/signing
 
 ### Work email
 
@@ -22,7 +22,7 @@ N.B. The private key for this one is <a href="https://proton.me/support/how-is-t
 
 ## If more security is needed...
 
-Encrypt your message to this dedicated key and send it over directly in plain text.
+Encrypt your message to this separate ed448/ky1024_cv448 key and send it over directly in plain text.
 
 - [5F753 E2979 BB902 23C81 0FE80 DE5A4 30CD4 E9C98 D9160 725EF](https://dingherself.com/.well-known/openpgpkey/hu/5F753E2979BB90223C810FE80DE5A430CD4E9C98D9160725EF7C012A208B4D36)
 
